@@ -1,0 +1,1 @@
+Onboarding record: Name=Joseph Jensen; Date of Birth=1987-03-17; Address=73677 Day Drive Apt. 258, West Keith, CA 69422; Email=mclaughlinjames@example.org; Phone=(839)220-4910; SSN=224-23-8903; Card=2636472387508277; IP=178.201.116.236.

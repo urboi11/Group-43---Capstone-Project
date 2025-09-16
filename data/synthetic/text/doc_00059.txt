@@ -1,0 +1,1 @@
+Onboarding record: Name=Gary Miller; Date of Birth=1995-11-30; Address=304 Nunez Rapids, Port Charlesshire, VA 88509; Email=mollycook@example.org; Phone=731.673.9363; SSN=573-28-7855; Card=6585445877175353; IP=142.41.90.210.

@@ -1,0 +1,1 @@
+Onboarding record: Name=Sarah Compton; Date of Birth=1997-10-17; Address=2266 Morgan Turnpike Suite 626, Alexisburgh, FL 78218; Email=myersedward@example.com; Phone=507.962.4843; SSN=189-28-1554; Card=3566270511579426; IP=63.161.125.133.

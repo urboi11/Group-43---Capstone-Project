@@ -1,0 +1,1 @@
+Onboarding record: Name=Michael Santos; Date of Birth=1979-06-01; Address=7809 Jimmy Spur Suite 316, Port Cynthiaville, NV 22306; Email=nguyenbrian@example.com; Phone=(862)538-6922x219; SSN=711-39-0475; Card=30237474074822; IP=117.135.111.208.

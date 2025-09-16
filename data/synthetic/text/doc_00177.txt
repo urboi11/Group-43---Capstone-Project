@@ -1,0 +1,1 @@
+Onboarding record: Name=Helen Hernandez; Date of Birth=1955-03-06; Address=6513 Adams Heights Apt. 493, Allenberg, ID 04132; Email=bcastro@example.com; Phone=+1-203-224-2044x8207; SSN=252-40-7605; Card=2279416516231980; IP=48.29.159.136.

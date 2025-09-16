@@ -1,0 +1,1 @@
+Onboarding record: Name=Melissa Horn; Date of Birth=2007-06-07; Address=74545 Ashlee Oval Suite 001, Smithburgh, NV 60337; Email=nicoleturner@example.com; Phone=554-815-2064; SSN=001-55-3315; Card=4103712938700513; IP=191.73.82.5.

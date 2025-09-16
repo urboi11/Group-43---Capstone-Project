@@ -1,0 +1,1 @@
+Onboarding record: Name=Mary Hill; Date of Birth=1961-01-22; Address=772 Elizabeth Cape, Lake Michaelborough, NE 33450; Email=garciabrian@example.net; Phone=(720)878-1137; SSN=343-79-7425; Card=4315313636316; IP=177.189.37.227.

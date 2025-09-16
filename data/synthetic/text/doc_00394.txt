@@ -1,0 +1,1 @@
+Onboarding record: Name=Scott Kelly; Date of Birth=1967-07-09; Address=68011 Jesse Way Apt. 376, North Erinside, NV 94667; Email=nathanjohnson@example.org; Phone=001-561-349-7315; SSN=139-29-3515; Card=2259830748207366; IP=142.173.84.121.

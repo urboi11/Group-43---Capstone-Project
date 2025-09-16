@@ -1,0 +1,1 @@
+Onboarding record: Name=Judy Sutton; Date of Birth=1995-01-29; Address=Unit 2781 Box 9523, DPO AA 95141; Email=ecamacho@example.com; Phone=964-281-9807; SSN=072-01-0530; Card=4056876112491256527; IP=22.185.4.38.

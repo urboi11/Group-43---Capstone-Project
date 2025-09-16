@@ -1,0 +1,1 @@
+Onboarding record: Name=Dennis James; Date of Birth=1966-08-22; Address=243 Contreras Overpass Suite 958, Phillipsbury, DE 99455; Email=qnguyen@example.com; Phone=927-851-5627; SSN=783-37-6875; Card=4044836085456678; IP=131.127.28.240.

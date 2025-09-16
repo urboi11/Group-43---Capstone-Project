@@ -1,0 +1,1 @@
+Onboarding record: Name=Alan Perez; Date of Birth=1994-06-13; Address=7537 Robert Center Apt. 214, Brianmouth, PW 51167; Email=michael88@example.com; Phone=2713553482; SSN=670-56-1280; Card=4008385076597599; IP=131.66.54.166.

@@ -1,0 +1,1 @@
+Onboarding record: Name=Jay Richardson; Date of Birth=1960-01-22; Address=08573 Sarah Pine Apt. 476, Port Timberg, DC 90195; Email=dphillips@example.net; Phone=608-718-6617; SSN=308-32-8571; Card=4801722601645977942; IP=174.191.175.48.

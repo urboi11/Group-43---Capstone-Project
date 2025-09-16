@@ -1,0 +1,1 @@
+Onboarding record: Name=Charles Yang; Date of Birth=1937-12-02; Address=608 Reid Coves Suite 704, Grantchester, CA 09043; Email=pmorales@example.org; Phone=702-619-2378; SSN=090-34-5860; Card=30129618033246; IP=57.1.99.129.

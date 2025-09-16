@@ -1,0 +1,1 @@
+Onboarding record: Name=William Lewis; Date of Birth=1977-07-21; Address=889 Clinton Mount Suite 224, Pamelabury, IN 34087; Email=ncarroll@example.net; Phone=257-827-9194; SSN=831-39-1506; Card=5255661390604809; IP=180.201.92.9.

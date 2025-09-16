@@ -1,0 +1,1 @@
+Onboarding record: Name=Kara Sanchez; Date of Birth=1985-06-28; Address=640 Kathryn Parkways Apt. 664, Watkinsburgh, NY 22309; Email=stephaniebradley@example.org; Phone=(450)914-2576; SSN=308-77-8587; Card=676323244126; IP=29.248.53.93.

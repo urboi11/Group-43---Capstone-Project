@@ -1,0 +1,1 @@
+Onboarding record: Name=Patrick Moses; Date of Birth=1988-11-21; Address=9411 Carson Flats Apt. 873, New Wendy, NJ 63260; Email=whitakerjack@example.net; Phone=236-595-7279; SSN=112-15-3747; Card=4090254257303; IP=146.172.241.100.

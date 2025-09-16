@@ -1,0 +1,1 @@
+Onboarding record: Name=Robert Padilla; Date of Birth=1988-07-25; Address=84444 Nunez Avenue Suite 000, Port Nicholas, GU 68522; Email=matthew96@example.org; Phone=+1-863-496-0962; SSN=840-95-9830; Card=6582631281964820; IP=133.248.15.125.

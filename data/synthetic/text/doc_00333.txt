@@ -1,0 +1,1 @@
+Onboarding record: Name=Kenneth Brown; Date of Birth=1994-04-16; Address=20878 Paula Neck Apt. 151, Ashleytown, VT 78847; Email=clewis@example.com; Phone=+1-745-239-8628; SSN=503-56-2185; Card=3559119186233927; IP=95.173.171.212.

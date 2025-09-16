@@ -1,0 +1,1 @@
+Onboarding record: Name=Cameron Smith; Date of Birth=2004-08-04; Address=69405 Erika Manor, Whitestad, AS 61929; Email=tmeyer@example.org; Phone=314-665-1113x1290; SSN=515-37-4520; Card=180006827788166; IP=32.119.113.138.
