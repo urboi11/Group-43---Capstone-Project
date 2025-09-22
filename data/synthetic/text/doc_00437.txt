@@ -1,1 +1,0 @@
-Onboarding record: Name=John Cisneros; Date of Birth=2000-09-15; Address=32562 Jillian Passage Suite 991, Romanland, VT 35118; Email=lewisbrent@example.com; Phone=+1-321-316-0204; SSN=170-56-2287; Card=4998989721171; IP=50.139.137.104.

@@ -1,1 +1,0 @@
-Onboarding record: Name=Diamond Simmons; Date of Birth=1982-03-10; Address=USCGC Hawkins, FPO AE 04026; Email=contrerasjames@example.org; Phone=202.933.3247; SSN=757-13-9367; Card=4013546212761; IP=66.63.143.208.

@@ -1,1 +1,0 @@
-Onboarding record: Name=Dean Edwards; Date of Birth=1988-03-05; Address=7431 Derek Trail Apt. 212, Owenschester, DE 70745; Email=qparker@example.org; Phone=524-790-3521; SSN=367-99-3402; Card=6011442067883171; IP=20.121.47.67.

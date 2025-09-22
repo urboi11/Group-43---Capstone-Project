@@ -1,1 +1,0 @@
-Onboarding record: Name=Anna Brennan; Date of Birth=1999-03-24; Address=PSC 0299, Box 1406, APO AP 88926; Email=jameschavez@example.org; Phone=(355)923-5617; SSN=547-34-1101; Card=562119206133; IP=148.86.29.5.

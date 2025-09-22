@@ -1,1 +1,0 @@
-Onboarding record: Name=Victoria Barry; Date of Birth=1972-10-01; Address=965 Cobb Ville Suite 282, Susanville, CO 91357; Email=sarahsmith@example.org; Phone=4243539313; SSN=439-43-0417; Card=371305570836829; IP=217.180.83.107.

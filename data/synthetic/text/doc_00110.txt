@@ -1,1 +1,0 @@
-Onboarding record: Name=Jennifer Rivera; Date of Birth=1950-02-14; Address=3926 John Crossroad Apt. 280, North Gabriel, HI 68218; Email=johnsjessica@example.com; Phone=437-497-7236; SSN=416-77-9235; Card=3525799136621031; IP=192.0.235.119.

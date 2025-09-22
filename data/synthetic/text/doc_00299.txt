@@ -1,1 +1,0 @@
-Onboarding record: Name=Mark Ware; Date of Birth=1981-08-23; Address=4694 Weber Lodge, Annborough, CA 78179; Email=gregory91@example.org; Phone=596.359.9949x73203; SSN=157-14-3547; Card=3522705102876759; IP=135.129.201.42.

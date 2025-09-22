@@ -1,1 +1,0 @@
-Onboarding record: Name=Cassandra White; Date of Birth=1982-05-05; Address=5847 Nicholas Wall Apt. 529, New Lisamouth, MS 86704; Email=lbrown@example.net; Phone=417.221.7337x399; SSN=568-31-1676; Card=342299936216592; IP=47.31.20.220.

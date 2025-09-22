@@ -1,1 +1,0 @@
-Onboarding record: Name=William Daniels; Date of Birth=2001-12-01; Address=743 Mark Street, Wongburgh, AL 97050; Email=gregorychase@example.com; Phone=(585)916-1227x53046; SSN=346-38-9303; Card=4499045301742684144; IP=183.3.25.250.

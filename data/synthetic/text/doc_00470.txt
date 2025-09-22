@@ -1,1 +1,0 @@
-Onboarding record: Name=Amber Sanchez; Date of Birth=1991-01-16; Address=21166 Robinson Dale, West Peggymouth, PW 60340; Email=kmorris@example.org; Phone=529-596-4260; SSN=343-97-9218; Card=6011027558214778; IP=40.17.187.173.

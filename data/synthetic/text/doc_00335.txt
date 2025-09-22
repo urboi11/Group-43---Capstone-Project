@@ -1,1 +1,0 @@
-Onboarding record: Name=Susan Greene; Date of Birth=1958-10-11; Address=270 Savannah Underpass, Port Sarahport, CT 46252; Email=racheljimenez@example.net; Phone=(395)778-6718; SSN=700-24-9669; Card=4237360507911; IP=218.65.248.124.

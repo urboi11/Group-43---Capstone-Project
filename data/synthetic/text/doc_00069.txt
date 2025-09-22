@@ -1,1 +1,0 @@
-Onboarding record: Name=Jeffrey Smith; Date of Birth=1963-12-06; Address=182 Nguyen Mount, West Emilyfort, NC 84270; Email=wmatthews@example.com; Phone=392.449.9125x134; SSN=321-77-6368; Card=348669296627824; IP=217.62.34.111.

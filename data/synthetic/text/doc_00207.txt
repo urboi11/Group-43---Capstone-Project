@@ -1,1 +1,0 @@
-Onboarding record: Name=Mr. Henry Perez MD; Date of Birth=1989-08-05; Address=9090 Eric Isle Suite 636, New Paulfort, CT 43602; Email=jacksonemily@example.org; Phone=5975023164; SSN=584-58-4992; Card=4705802566212867162; IP=77.41.207.231.

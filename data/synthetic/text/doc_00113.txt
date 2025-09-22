@@ -1,1 +1,0 @@
-Onboarding record: Name=Brian Simmons; Date of Birth=1969-03-20; Address=594 Fischer Loop Suite 258, Kingport, OK 45636; Email=melissahopkins@example.net; Phone=272.413.8658; SSN=793-91-6523; Card=6011127961143513; IP=220.76.102.15.
