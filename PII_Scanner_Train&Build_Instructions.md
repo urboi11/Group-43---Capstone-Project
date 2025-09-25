@@ -20,10 +20,11 @@ python .\pii-lab\scripts\prepare_dataset.py --model distilbert-base-uncased
 Step 3: Train Model:
 
 Baseline:
+cd pii-lab
 python .\pii-lab\scripts\train_ner.py --epochs 5 --bsz 8 --lr 5e-5
 
 Build off baseline:
-
+cd pii-lab
 python .\scripts\train_ner.py --base_model experiments\baseline\model\checkpoint-1000 --data_dir experiments\baseline\data --out_dir experiments\baseline\model --epochs 5 --bsz 8 --lr 5e-5
 
 
