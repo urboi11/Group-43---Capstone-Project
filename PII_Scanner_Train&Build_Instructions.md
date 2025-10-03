@@ -43,9 +43,9 @@ python .\pii-lab\scripts\evaluate_ner.py --per_label
 
 Step 5: Export to ONNX:
 
-python .\pii-lab\scripts\export_to_onnx.py
+optimum-cli export onnx --model "C:\Users\Capstone2026User\pii-lab\experiments\baseline\model\final-model" --task token-classification --opset 17 "C:\Users\Capstone2026User\pii-scanner\app\model"
 
-
+Copy-Item -Path "C:\Users\Capstone2026User\pii-lab\experiments\baseline\model\final-model\id2label.json" -Destination "C:\Users\Capstone2026User\pii-scanner\app\model"
 
 Build:
 ## Build prerequisites
@@ -65,3 +65,4 @@ pyinstaller app\scan.py --onefile --name pii-scanner `
   --hidden-import docx --hidden-import PyPDF2 `
   --add-data "app\model;model" `
   --add-data "app\config.yaml;."
+
