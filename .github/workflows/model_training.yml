@@ -19,6 +19,6 @@ jobs:
       - name: Set up Virtual Environment
         run: |
           python -m venv .venv
-          source .venv/Scripts/activate
-          pip install -r requirements.txt
+          ls -la
+
 
