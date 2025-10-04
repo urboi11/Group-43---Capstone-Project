@@ -3,7 +3,7 @@ name: Training Model
 on:
   push:
       branches:
-        - Jasons_Research
+        - main
   workflow_dispatch:
     inputs:
       pythonScriptVersion:
