@@ -18,14 +18,14 @@ on:
         description: "For Step 1... What --seed number do you want?"
         required: true
         type: number
-      # difficulty:
-      #   description: "Do you want Harder or Ultra-hard?"
-      #   required: true
-      #   type: choice
-      #   options:
-      #     - none
-      #     - Harder
-      #     - Ultra-hard
+      difficulty:
+        description: "Do you want Harder or Ultra-hard?"
+        required: true
+        type: choice
+        options:
+          - none
+          - Harder
+          - Ultra-hard
       # confusables:
       #   description: "How much confusables do you want?"
       #   required: false
