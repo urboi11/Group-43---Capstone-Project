@@ -1,0 +1,23 @@
+targets:
+  - "C:\\Users\\*\\Documents\\**\\*.txt"
+  - "C:\\Users\\*\\Documents\\**\\*.docx"
+  - "C:\\Users\\*\\Documents\\**\\*.pdf"
+exclude_globs:
+  - "**\\node_modules\\**"
+  - "**\\.git\\**"
+batch_size: 8
+thresholds:
+  SSN: 0.80
+  EMAIL: 0.60
+  PHONE: 0.60
+  PERSON: 0.70
+  CREDIT_CARD: 0.85
+  DOB: 0.60
+  ADDRESS: 0.60
+  IP_ADDRESS: 0.60
+output:
+  path: "C:\\ProgramData\\pii-scanner\\findings"
+  format: "jsonl"
+logging:
+  file: "C:\\ProgramData\\pii-scanner\\logs\\scanner.log"
+  level: "INFO"
