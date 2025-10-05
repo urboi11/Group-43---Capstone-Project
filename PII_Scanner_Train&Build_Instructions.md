@@ -41,10 +41,13 @@ Step 4: Evaluate Results:
 
 python .\pii-lab\scripts\evaluate_ner.py --per_label
 
-Step 5: Export to ONNX:
 
-python .\pii-lab\scripts\export_to_onnx.py
+Step 5: Export to ONNX
 
+optimum-cli export onnx --model "C:\Users\Capstone2026User\pii-lab\experiments\baseline\model\final-model" --task token-classification --opset 17 "C:\Users\Capstone2026User\pii-scanner\app\model"
+
+
+Copy-Item -Path "C:\Users\Capstone2026User\pii-lab\experiments\baseline\model\final-model\id2label.json" -Destination "C:\Users\Capstone2026User\pii-scanner\app\model"
 
 
 Build:
