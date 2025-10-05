@@ -18,41 +18,41 @@ on:
         description: "For Step 1... What --seed number do you want?"
         required: true
         type: number
-      difficulty:
-        description: "Do you want Harder or Ultra-hard?"
-        required: true
-        type: choice
-        options:
-          - none
-          - Harder
-          - Ultra-hard
-      confusables:
-        description: "How much confusables do you want?"
-        required: false
-        type: number
-      model: 
-        description: "Step 2 ... What model do you want?"
-        required: true
-        default: distilbert-base-uncased
-        type: string
-      epochs:
-        description: "Step 3.. How many epochs do you want?"
-        required: true
-        default: 5
-        type: number
-      batch_size:
-        description: "Step 3.. How big is the batch size?"
-        required: true
-        type: number
-      lr:
-        description: "Step 3... What is the lr?"
-        required: true
-        default: "5e-5"
-        type: string
-      opset:
-        description: "Step 4 .. What is your opset?"
-        required: true
-        type: number
+      # difficulty:
+      #   description: "Do you want Harder or Ultra-hard?"
+      #   required: true
+      #   type: choice
+      #   options:
+      #     - none
+      #     - Harder
+      #     - Ultra-hard
+      # confusables:
+      #   description: "How much confusables do you want?"
+      #   required: false
+      #   type: number
+      # model: 
+      #   description: "Step 2 ... What model do you want?"
+      #   required: true
+      #   default: distilbert-base-uncased
+      #   type: string
+      # epochs:
+      #   description: "Step 3.. How many epochs do you want?"
+      #   required: true
+      #   default: 5
+      #   type: number
+      # batch_size:
+      #   description: "Step 3.. How big is the batch size?"
+      #   required: true
+      #   type: number
+      # lr:
+      #   description: "Step 3... What is the lr?"
+      #   required: true
+      #   default: "5e-5"
+      #   type: string
+      # opset:
+      #   description: "Step 4 .. What is your opset?"
+      #   required: true
+      #   type: number
 
 
 
