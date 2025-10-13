@@ -28,7 +28,7 @@
     </font>
    </property>
    <property name="currentIndex">
-    <number>0</number>
+    <number>1</number>
    </property>
    <widget class="QWidget" name="WelcomeScreenPanel">
     <widget class="QRadioButton" name="ScanFilesButton">
@@ -75,9 +75,9 @@
     <widget class="QLineEdit" name="DirectoryLineEdit">
      <property name="geometry">
       <rect>
-       <x>170</x>
+       <x>120</x>
        <y>60</y>
-       <width>201</width>
+       <width>311</width>
        <height>22</height>
       </rect>
      </property>
@@ -93,7 +93,7 @@
     <widget class="QPushButton" name="DirectoriesBrowseButton">
      <property name="geometry">
       <rect>
-       <x>390</x>
+       <x>450</x>
        <y>60</y>
        <width>75</width>
        <height>24</height>
@@ -248,9 +248,9 @@
     <widget class="QLineEdit" name="FileLineEdit">
      <property name="geometry">
       <rect>
-       <x>180</x>
+       <x>100</x>
        <y>40</y>
-       <width>201</width>
+       <width>311</width>
        <height>22</height>
       </rect>
      </property>
@@ -266,7 +266,7 @@
     <widget class="QPushButton" name="FileBrowseButton">
      <property name="geometry">
       <rect>
-       <x>380</x>
+       <x>440</x>
        <y>40</y>
        <width>75</width>
        <height>24</height>
@@ -446,6 +446,24 @@
        <width>441</width>
        <height>291</height>
       </rect>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="ResultsMainMenuButton">
+     <property name="geometry">
+      <rect>
+       <x>240</x>
+       <y>390</y>
+       <width>161</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>12</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>Back To Main Menu</string>
      </property>
     </widget>
    </widget>
