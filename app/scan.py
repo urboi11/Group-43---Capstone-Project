@@ -72,6 +72,8 @@ def read_any(path):
     return ""  # unknown types ignored
 
 def main():
+
+
     app = QApplication([])
     
     window = MainWindow()
@@ -79,62 +81,12 @@ def main():
     window.show()
     
     sys.exit(app.exec())
+
     # ap = argparse.ArgumentParser()
     # ap.add_argument("--config", default="config.yaml")
     # ap.add_argument("--input", nargs="*", help="Optional explicit files/dirs to scan (overrides targets in config)")
     # ap.add_argument("--merge_gap", type=int, default=0, help="Max char gap to merge adjacent fragments")
     # args = ap.parse_args()
-
-
-    #Test this config location to make sure that it works. 
-    cfg = yaml.safe_load(open(os.getcwd() + "\config.yaml", "r", encoding="utf-8"))
-    out_dir = pathlib.Path(cfg["output"]["path"])
-    out_dir.mkdir(parents=True, exist_ok=True)
-
-    model = PiiModel(
-        model_dir=cfg.get("model_dir", "model"),
-        thresholds=cfg.get("thresholds", {}),
-        batch_size=cfg.get("batch_size", 8),
-    )
-
-    # Build file list
-    # if args.input:
-    # Verify that this logic works correctly
-    if len(window.FileLineEdit.text()) > 0 or len(window.DirectoryLineEdit.text()) > 0:
-        paths = []
-        # for p in args.input:
-        if os.path.isdir(p):
-            for root, _, files in os.walk(p):
-                if any(fnmatch.fnmatch(root, ex) for ex in cfg.get("exclude_globs", [])):
-                    continue
-                for f in files:
-                    paths.append(os.path.join(root, f))
-        elif os.path.isfile(p):
-            paths.append(p)
-    else:
-        #TODO: Work on this one, targets config property will not exist. 
-        paths = list(iter_files(cfg.get("targets", []), cfg.get("exclude_globs", [])))
-
-    for p in track(paths, description="Scanning"):
-        try:
-            text = read_any(p)
-            if not text:
-                continue
-            findings = model.predict(text)
-            merged = merge_findings(findings, max_gap=cfg.get("merge_gap", 0))
-            if merged:
-                record = {
-                    "ts": time.time(),
-                    "file": p,
-                    "findings": merged,
-                }
-                (out_dir / (pathlib.Path(p).name + ".json")).write_text(
-                    json.dumps(record, indent=2), encoding="utf-8"
-                )
-        except Exception:
-            # In production: log errors to a file; for now, continue scanning next file.
-            continue
-
 
 if __name__ == "__main__":
     main()
