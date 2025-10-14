@@ -19,11 +19,5 @@ def main():
     
     sys.exit(app.exec())
 
-    # ap = argparse.ArgumentParser()
-    # ap.add_argument("--config", default="config.yaml")
-    # ap.add_argument("--input", nargs="*", help="Optional explicit files/dirs to scan (overrides targets in config)")
-    # ap.add_argument("--merge_gap", type=int, default=0, help="Max char gap to merge adjacent fragments")
-    # args = ap.parse_args()
-
 if __name__ == "__main__":
     main()

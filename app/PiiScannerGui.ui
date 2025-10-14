@@ -289,7 +289,7 @@
     <widget class="QPushButton" name="ResultsMainMenuButton">
      <property name="geometry">
       <rect>
-       <x>240</x>
+       <x>140</x>
        <y>390</y>
        <width>161</width>
        <height>41</height>
@@ -302,6 +302,24 @@
      </property>
      <property name="text">
       <string>Back To Main Menu</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="FindingsFolderButton">
+     <property name="geometry">
+      <rect>
+       <x>350</x>
+       <y>390</y>
+       <width>161</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>12</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>Open Findings Folder</string>
      </property>
     </widget>
    </widget>
