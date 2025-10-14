@@ -28,7 +28,7 @@
     </font>
    </property>
    <property name="currentIndex">
-    <number>1</number>
+    <number>0</number>
    </property>
    <widget class="QWidget" name="WelcomeScreenPanel">
     <widget class="QRadioButton" name="ScanFilesButton">
@@ -108,87 +108,6 @@
       <string>Browse</string>
      </property>
     </widget>
-    <widget class="QRadioButton" name="DirectoriesAllPiiButton">
-     <property name="geometry">
-      <rect>
-       <x>250</x>
-       <y>170</y>
-       <width>89</width>
-       <height>20</height>
-      </rect>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>11</pointsize>
-      </font>
-     </property>
-     <property name="toolTip">
-      <string>Scans for all PII</string>
-     </property>
-     <property name="text">
-      <string>All Pii</string>
-     </property>
-    </widget>
-    <widget class="QLabel" name="label">
-     <property name="geometry">
-      <rect>
-       <x>250</x>
-       <y>100</y>
-       <width>141</width>
-       <height>41</height>
-      </rect>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>11</pointsize>
-      </font>
-     </property>
-     <property name="text">
-      <string>Search Intensity</string>
-     </property>
-    </widget>
-    <widget class="QRadioButton" name="DirectoriesMostPIIlButton">
-     <property name="geometry">
-      <rect>
-       <x>250</x>
-       <y>220</y>
-       <width>89</width>
-       <height>20</height>
-      </rect>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>11</pointsize>
-      </font>
-     </property>
-     <property name="toolTip">
-      <string>Scan for most PII within the files searched.</string>
-     </property>
-     <property name="text">
-      <string>Most PII</string>
-     </property>
-    </widget>
-    <widget class="QRadioButton" name="DirectoriesSensPIIButton">
-     <property name="geometry">
-      <rect>
-       <x>250</x>
-       <y>270</y>
-       <width>151</width>
-       <height>20</height>
-      </rect>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>11</pointsize>
-      </font>
-     </property>
-     <property name="toolTip">
-      <string>Scans for only sensitive PII like emails and SSNs</string>
-     </property>
-     <property name="text">
-      <string>Sensitive PII Only</string>
-     </property>
-    </widget>
     <widget class="QPushButton" name="DirectoryScanNowButton">
      <property name="geometry">
       <rect>
@@ -227,24 +146,6 @@
     </widget>
    </widget>
    <widget class="QWidget" name="FilesPanel">
-    <widget class="QLabel" name="label_5">
-     <property name="geometry">
-      <rect>
-       <x>250</x>
-       <y>80</y>
-       <width>141</width>
-       <height>41</height>
-      </rect>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>11</pointsize>
-      </font>
-     </property>
-     <property name="text">
-      <string>Search Intensity</string>
-     </property>
-    </widget>
     <widget class="QLineEdit" name="FileLineEdit">
      <property name="geometry">
       <rect>
@@ -279,69 +180,6 @@
      </property>
      <property name="text">
       <string>Browse</string>
-     </property>
-    </widget>
-    <widget class="QRadioButton" name="FileAllPIIButton">
-     <property name="geometry">
-      <rect>
-       <x>240</x>
-       <y>150</y>
-       <width>89</width>
-       <height>20</height>
-      </rect>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>11</pointsize>
-      </font>
-     </property>
-     <property name="toolTip">
-      <string>Scans for all PII</string>
-     </property>
-     <property name="text">
-      <string>All Pii</string>
-     </property>
-    </widget>
-    <widget class="QRadioButton" name="FileMostPiiButton">
-     <property name="geometry">
-      <rect>
-       <x>240</x>
-       <y>200</y>
-       <width>89</width>
-       <height>20</height>
-      </rect>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>11</pointsize>
-      </font>
-     </property>
-     <property name="toolTip">
-      <string>Scan for most PII within the files searched.</string>
-     </property>
-     <property name="text">
-      <string>Most PII</string>
-     </property>
-    </widget>
-    <widget class="QRadioButton" name="FileSensitivePiiButton">
-     <property name="geometry">
-      <rect>
-       <x>240</x>
-       <y>250</y>
-       <width>151</width>
-       <height>20</height>
-      </rect>
-     </property>
-     <property name="font">
-      <font>
-       <pointsize>11</pointsize>
-      </font>
-     </property>
-     <property name="toolTip">
-      <string>Scans for only sensitive PII like emails and SSNs</string>
-     </property>
-     <property name="text">
-      <string>Sensitive PII Only</string>
      </property>
     </widget>
     <widget class="QPushButton" name="FileScanNowButton">

@@ -19,6 +19,6 @@ output:
   path: "C:\\ProgramData\\pii-scanner\\findings"
   format: "jsonl"
 logging:
-  file: "C:\\ProgramData\\pii-scanner\\logs\\scanner.log"
+  file: "C:\\ProgramData\\pii-scanner\\logs\\"
   level: "INFO"
 merge_gap: 2

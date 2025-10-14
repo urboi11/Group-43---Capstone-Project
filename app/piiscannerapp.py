@@ -1,30 +1,54 @@
-from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog
-from PySide6.QtCore import QSize, QObject
-from PiiScanner import Ui_Form
+from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog, QWidget, QLabel, QPushButton
+from PySide6.QtCore import QSize, QObject, QRect
+from piiscanner import Ui_Form
 from functools import partial
 import argparse, json, os, fnmatch, glob, pathlib, time, yaml, sys, os
 from rich.progress import track
 from extract import read_txt, read_docx, read_pdf
 from infer import PiiModel
-from scan import read_any, merge_findings, iter_files
+from utils import read_any, merge_findings, iter_files
+import logging
+import datetime as dt
+import re
 
 
 
-"""
-    TODO: 
-    1. Grab the file location from the browse buttons, and also fill in the text field with the selected file location
-    2. Then Select the values that will be the for the PII, 
-        2.a. Full PII button needs to have a specified value
-        2.b. Some PII Button 
-        2.c. Only Sensitive PII button. 
-    3. Tie the Scan Now Button to the operation of the scanning of files. 
-        3.a With each operation that is passed, make sure to update the percentage of the Progress Bar. 
-    4. Once completed, display the results of the findings in the Results Pane. 
-"""
+
+class PopUpForWarning(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.setFixedSize(397, 219)
+        self.setWindowTitle("Warning")
+        self.WarningLabel = QLabel(self)
+        self.WarningLabel.setObjectName("WarningLabel")
+        self.WarningLabel.setGeometry(10, 10, 381, 111)
+        self.WarningLabel.setText("Please make sure you have a File or Directory selected before scanning!")
+    
+        self.OkayButton = QPushButton(self)
+        self.OkayButton.setObjectName("OkayButton")
+        self.OkayButton.setGeometry(148, 153, 91, 41)
+        self.OkayButton.setText("Okay")
+        self.OkayButton.clicked.connect(self.close)
+
 
 class MainWindow(QMainWindow, Ui_Form, QObject):
     def __init__(self):
         super().__init__()
+
+        self.popUpWindow = None
+        
+        if os.path.isfile(os.getcwd() + "\config.yaml"): 
+            self.cfg = yaml.safe_load(open(os.getcwd() + "\config.yaml", "r", encoding="utf-8"))
+
+        
+        if os.path.isdir(self.cfg["output"]["path"]) is not True:
+            out_dir = pathlib.Path(self.cfg["output"]["path"])
+            out_dir.mkdir(parents=True, exist_ok=True)
+            
+        if os.path.isdir(self.cfg["logging"]["file"]) is not True:
+            os.makedirs(self.cfg["logging"]["file"])
+
+        #Setting up log file.
 
         self.setupUi(self)
 
@@ -47,15 +71,15 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
 
         self.DirectoriesMainMenuButton.clicked.connect(lambda: self.SwitchToMainMenuPanel(0))
 
-        self.FileScanNowButton.clicked.connect(lambda: self.SwitchToFilePanel_Scan(3, self.scan))
+        self.FileScanNowButton.clicked.connect(self.scan)
 
-        self.DirectoryScanNowButton.clicked.connect(lambda: self.SwitchToFilePanel_Scan(3, self.scan))
+        self.DirectoryScanNowButton.clicked.connect(self.scan)
         
-        self.DirectoriesAllPiiButton.clicked.connect(self.grab_all_pii_button_value)
+        # self.DirectoriesAllPiiButton.clicked.connect(self.grab_all_pii_button_value)
 
     
     def open_file_browser(self):
-        fileName = QFileDialog.getOpenFileName(self, "Find Files..", os.getcwd(), "All Files(*.*)")
+        fileName = QFileDialog.getOpenFileName(self, "Find Files..", os.getcwd(), "Text Files (*.txt);;Word Files (*.docx);;PDF Files(*.pdf)")
         fileNameLength = len(fileName[0].split("/"))
         
         self.FileLineEdit.setText(fileName[0].split("/")[fileNameLength-1])
@@ -79,62 +103,75 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
 
     ## TODO: Work on this one. 
     def scan(self):
-            #Test this config location to make sure that it works. 
-        cfg = yaml.safe_load(open(os.getcwd() + "\config.yaml", "r", encoding="utf-8"))
-        out_dir = pathlib.Path(cfg["output"]["path"])
-        out_dir.mkdir(parents=True, exist_ok=True)
+        try:
+            pattern = "^(.+[/\\\\])?([^/\\\\]+)$"
+            if re.match(pattern, self.FileLineEdit.text()) or re.match(pattern, self.DirectoryLineEdit.text()):
+                
+                
+                self.stackedWidget.setCurrentIndex(3)
 
-        model = PiiModel(
-            model_dir=cfg.get("model_dir", "model"),
-            thresholds=cfg.get("thresholds", {}),
-            batch_size=cfg.get("batch_size", 8),
-        )
+                model = PiiModel(
+                    model_dir=self.cfg.get("model_dir", "model"),
+                    thresholds=self.cfg.get("thresholds", {}),
+                    batch_size=self.cfg.get("batch_size", 8),
+                )
+        
+                self.ProgressBar.setValue(25)
 
-        # Build file list
-        # if args.input:
-        # Verify that this logic works correctly
-        if len(self.FileLineEdit.text()) > 0 or len(self.DirectoryLineEdit.text()) > 0:
-            paths = []
-            # for p in args.input:
-            if os.path.isdir(p):
-                for root, _, files in os.walk(p):
-                    if any(fnmatch.fnmatch(root, ex) for ex in cfg.get("exclude_globs", [])):
-                        continue
-                    for f in files:
-                        paths.append(os.path.join(root, f))
-            elif os.path.isfile(p):
-                paths.append(p)
-        else:
-            #TODO: Work on this one, targets config property will not exist. 
-            paths = list(iter_files(cfg.get("targets", []), cfg.get("exclude_globs", [])))
+        #     #Build File List 
+        #     paths = []
+        #     if len(self.FileLineEdit.text()) > 0:
+        #         if os.path.isfile(p):
+        #             paths.append(p)
+        #     elif len(self.DirectoryLineEdit.text()) > 0:
+        #         if os.path.isdir(self.DirectoryLineEdit.text()):
+        #             for root, _, files in os.walk(p):
+        #                 if any(fnmatch.fnmatch(root, ex) for ex in self.cfg.get("exclude_globs", [])):
+        #                     continue
+        #                 for f in files:
+        #                     paths.append(os.path.join(root, f))
+        
+        #     self.ProgressBar.setValue(50)
+        # # else:
+        # #     paths = list(iter_files(self.cfg.get("targets", []), self.cfg.get("exclude_globs", [])))
 
-        for p in track(paths, description="Scanning"):
-            try:
-                text = read_any(p)
-                if not text:
-                    continue
-                findings = model.predict(text)
-                merged = merge_findings(findings, max_gap=cfg.get("merge_gap", 0))
-                if merged:
-                    record = {
-                        "ts": time.time(),
-                        "file": p,
-                        "findings": merged,
-                    }
-                    (out_dir / (pathlib.Path(p).name + ".json")).write_text(
-                        json.dumps(record, indent=2), encoding="utf-8"
-                    )
-            except Exception:
-                # In production: log errors to a file; for now, continue scanning next file.
-                continue
+        #     for p in paths:
+        #         text = read_any(p)
+        #         if not text:
+        #             continue
+        #         findings = model.predict(text)
+        #         merged = merge_findings(findings, max_gap=self.cfg.get("merge_gap", 0))
+                
+        #         self.ProgressBar.setValue(75)
+
+        #         if merged:
+        #             record = {
+        #                 "ts": time.time(),
+        #                 "file": p,
+        #                 "findings": merged,
+        #             }
+        #             (out_dir / (pathlib.Path(p).name + ".json")).write_text(
+        #                 json.dumps(record, indent=2), encoding="utf-8"
+        #             )
+        #         self.ProgressBar.setValue(100)
+            else:
+                if len(self.FileLineEdit.text()) == 0 or len(self.FileLineEdit.text()) == 0:
+                    self.popUpWindow = PopUpForWarning()
+                    self.popUpWindow.show()
+        except Exception as E:
+            logging.basicConfig(filename=self.cfg["logging"]["file"] + os.path.sep + str(dt.datetime.now().strftime('%y-%m-%d-Time-%H-%M')) + ".log" , filemode="a", format="%(asctime)s - %(levelname)s - %(message)s" )
+            self.logger = logging.getLogger(__name__)
+        
+            self.logger.error("Houston, this is a %s", E, exc_info=True)
+            
 
             
     
-    def grab_all_pii_button_value(self):
-        self.all_pii_value = 3
+    # def grab_all_pii_button_value(self):
+    #     self.all_pii_value = "max"
 
-    def grab_some_pii_button_value(self):
-        self.some_pii_value = 4
+    # def grab_some_pii_button_value(self):
+    #     self.some_pii_value = "mean"
     
-    def grab_sensitive_pii_button_value(self):
-        self.sensitive_pii_value = 5
+    # def grab_sensitive_pii_button_value(self):
+    #     self.sensitive_pii_value = "low"
