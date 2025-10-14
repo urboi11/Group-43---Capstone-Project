@@ -36,20 +36,20 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
         self.popUpWindow = None
 
         self.fileLocation = None
-
         
         if os.path.isfile(os.getcwd() + "\config.yaml"): 
             self.cfg = yaml.safe_load(open(os.getcwd() + "\config.yaml", "r", encoding="utf-8"))
+        
+        if os.path.isdir(self.cfg["output"]["path"]) is not True:
+            out_dir = pathlib.Path(self.cfg["output"]["path"])
+            out_dir.mkdir(parents=True, exist_ok=True)
+        
+            
+        if os.path.isdir(self.cfg["logging"]["path"]) is not True:
+            os.makedirs(self.cfg["logging"]["path"])
 
         self.outputDir = self.cfg["output"]["path"]
-        self.loggingDir = self.cfg["logging"]["file"]
-        
-        if os.path.isdir(self.outputDir) is not True:
-            out_dir = pathlib.Path(self.outputDir)
-            out_dir.mkdir(parents=True, exist_ok=True)
-            
-        if os.path.isdir(self.loggingDir) is not True:
-            os.makedirs(self.loggingDir)
+        self.loggingDir = self.cfg["logging"]["path"]
 
         #Setting up log file.
 
@@ -187,14 +187,3 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
         
             self.logger.error("%s", E, exc_info=True)
             
-
-            
-    
-    # def grab_all_pii_button_value(self):
-    #     self.all_pii_value = "max"
-
-    # def grab_some_pii_button_value(self):
-    #     self.some_pii_value = "mean"
-    
-    # def grab_sensitive_pii_button_value(self):
-    #     self.sensitive_pii_value = "low"

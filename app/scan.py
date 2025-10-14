@@ -10,7 +10,6 @@ from infer import PiiModel
 
 def main():
 
-
     app = QApplication([])
     
     window = MainWindow()
