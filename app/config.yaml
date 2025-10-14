@@ -21,3 +21,4 @@ output:
 logging:
   file: "C:\\ProgramData\\pii-scanner\\logs\\scanner.log"
   level: "INFO"
+merge_gap: 2
