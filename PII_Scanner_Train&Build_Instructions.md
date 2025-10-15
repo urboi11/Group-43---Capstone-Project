@@ -25,7 +25,7 @@ python .\pii-lab\scripts\train_ner.py --epochs 5 --bsz 8 --lr 5e-5
 
 Build off baseline:
 cd pii-lab
-python .\scripts\train_ner.py --base_model experiments\baseline\model\checkpoint-1000 --data_dir experiments\baseline\data --out_dir experiments\baseline\model --epochs 5 --bsz 8 --lr 5e-5
+python .\scripts\train_ner_v2.py --base_model experiments\baseline\model\checkpoint-1000 --data_dir experiments\baseline\data --out_dir experiments\baseline\model --epochs 5 --bsz 8 --lr 5e-5
 
 
 python .\pii-lab\scripts\train_ner.py `
@@ -68,3 +68,4 @@ pyinstaller app\scan.py --onefile --name pii-scanner `
   --hidden-import docx --hidden-import PyPDF2 `
   --add-data "app\model;model" `
   --add-data "app\config.yaml;."
+
