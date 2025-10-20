@@ -53,14 +53,7 @@ jobs:
             python -m venv .venv
             source .venv/bin/activate
             pip install -r requirements.txt
-      
-        - name: Briefcase Package
-          run: | 
-           briefcase
-
-        - name: List Contents
-          run: |
-           ls -la
+            ls .venv/ -la
       
         # - name: Upload Artifact
         #   if: success()
