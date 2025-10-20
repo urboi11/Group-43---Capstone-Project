@@ -18,7 +18,7 @@ jobs:
             
       - name: List Contents
         run: | 
-         python -m .venv venv
+         python -m venv .venv
          .venv\Scripts\activate.bat
          dir
       
