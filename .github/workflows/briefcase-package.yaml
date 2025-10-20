@@ -30,7 +30,7 @@ jobs:
       
       - name: Upload Artifact
         if: success()
-        uses: upload-artifact@v4
+        uses: actions/upload-artifact@v4
         with:
             name: pii-scanner.msi
             path: .\dist\pii-scanner-0.0.1.msi
