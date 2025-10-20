@@ -28,12 +28,25 @@ jobs:
          dir  .\dist\
 
       
-    #   - name: Upload Artifact
-    #     if: success()
-    #     uses: upload-artifact@v4
-    #     with:
-    #         name: pii-scanner.msi
-    #         path: .\dist\
+      - name: Upload Artifact
+        if: success()
+        uses: upload-artifact@v4
+        with:
+            name: pii-scanner.msi
+            path: .\dist\pii-scanner-0.0.1.msi
+      
+    Create_Release:
+        runs-on: ubuntu-latest
+        needs: build-windows
+        steps:
+            - name: Download Windows Artifacts
+              uses: actions/download-artifact@v5
+              with:
+                name: pii-scanner.msi
+            - name: Listing contents
+              run: ls -la
+
+              
 
     # build-linux:
     #     runs-on: ubuntu-latest
