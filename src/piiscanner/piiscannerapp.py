@@ -39,8 +39,8 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
         self.fileLocation = None
         
         if(os.name == "nt"):
-            if(os.path.isfile(str(Path.home()) + "AppData\Local\Programs\Jason Welsh\pii-scanner\config.yaml")):
-                self.cfg = yaml.safe_load(open(str(Path.home()) + "AppData\Local\Programs\Jason Welsh\pii-scanner\config.yaml", "r", encoding="utf-8"))
+            if(os.path.isfile(str(Path.home()) + "AppData\Local\Programs\Jason Welsh\pii-scanner\app\config.yaml")):
+                self.cfg = yaml.safe_load(open(str(Path.home()) + "AppData\Local\Programs\Jason Welsh\pii-scanner\app\config.yaml", "r", encoding="utf-8"))
         
         if os.path.isdir(self.cfg["output"]["path"]) is not True:
             out_dir = pathlib.Path(self.cfg["output"]["path"])
