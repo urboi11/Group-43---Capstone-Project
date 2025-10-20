@@ -50,6 +50,7 @@ jobs:
             
         - name: Activate virtual environment and install dependencies
           run: | 
+            python --version
             python3 --version
             python -m venv .venv
             source .venv/bin/activate
