@@ -88,6 +88,7 @@ jobs:
                 tag_name: ${{github.ref_name}}
                 files: |
                   example.txt
+                token: ${{ secrets.CAPSTONETOKEN }}
 
 
 
