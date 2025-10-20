@@ -41,7 +41,7 @@ jobs:
         steps:
             - name: Run Command
               run: | 
-                echo "Hello:)" >> example.txt
+                echo "Hello:)" >> example1.txt
 
             - name: Upload Artifact
               uses: actions/upload-artifact@v4
@@ -87,7 +87,7 @@ jobs:
                 name: Example Release
                 tag_name: ${{github.ref_name}}
                 files: |
-                  example.txt
+                  example*.txt
                 token: ${{ secrets.CAPSTONETOKEN }}
 
 
