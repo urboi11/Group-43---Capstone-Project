@@ -75,7 +75,7 @@ jobs:
         - name: Activate virtual environment and install dependencies
           run: | 
            python -m venv .venv
-           ls -la
+           ls .venv/ -la
         #    source .venv/Scripts/activate
         #    python -m pip install -r requirements.txt
       
