@@ -41,7 +41,7 @@ jobs:
         steps:
             - name: Run Command
               run: | 
-                echo "Hello:)" >> touch example.txt
+                echo "Hello:)" >> example.txt
 
             - name: Upload Artifact
               uses: actions/upload-artifact@v4
