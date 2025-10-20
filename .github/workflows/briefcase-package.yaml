@@ -43,8 +43,12 @@ jobs:
               uses: actions/download-artifact@v5
               with:
                 name: pii-scanner.msi
-            - name: Listing contents
-              run: ls -la
+
+            - name: Release
+              uses: softprops/action-gh-release@v2
+              with:
+                files: |
+                  pii-scanner-*.msi
 
               
 
