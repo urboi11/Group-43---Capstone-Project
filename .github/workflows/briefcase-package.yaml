@@ -6,16 +6,16 @@ on:
             - feature/**
 jobs:
     build-windows:
-        runs-on: windows-latest
+      runs-on: windows-latest
 
-        steps:
-            - uses: actions/checkout
+      steps:
+      - uses: actions/checkout@v4
             
-            - name: Setup Python 3.11.9
-              uses:  actions/setup-python
-              with:
-                python-version: '3.11.9'
+      - name: Setup Python 3.11.9
+        uses:  actions/setup-python@v3
+        with:
+         python-version: '3.11.9'
             
-            - name: List Contents
-              run: | 
-                ls -la
+      - name: List Contents
+        run: | 
+         ls -la
