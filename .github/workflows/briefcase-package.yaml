@@ -56,7 +56,7 @@ jobs:
       
         - name: Briefcase Package
           run: | 
-           briefcase package -u
+           python -m briefcase
 
         - name: List Contents
           run: |
