@@ -48,15 +48,16 @@ jobs:
         - name: Activate virtual environment and install dependencies
           run: | 
            python -m venv .venv
-           source .venv/Scripts/activate
-           python -m pip install -r requirements.txt
+           ls .venv -la
+           # source .venv/Scripts/activate
+           # python -m pip install -r requirements.txt
       
-        - name: Briefcase Package
-          run: | 
-           briefcase package -u
-        - name: List Contents
-          run: |
-           ls -la
+        # - name: Briefcase Package
+        #   run: | 
+        #    briefcase package -u
+        # - name: List Contents
+        #   run: |
+        #    ls -la
       
         # - name: Upload Artifact
         #   if: success()
