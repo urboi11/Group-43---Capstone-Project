@@ -53,7 +53,7 @@ jobs:
             python -m venv .venv
             source .venv/bin/activate
             python -m pip install briefcase
-            briefcase package -u            
+            briefcase package           
             ls ./dist/ -la
         
         # - name: Upload Artifact
