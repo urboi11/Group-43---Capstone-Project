@@ -5,20 +5,86 @@ on:
             - main
             - feature/**
 jobs:
-    build-windows:
-      runs-on: windows-latest
+    # build-windows:
+    #   runs-on: windows-latest
 
-      steps:
-      - uses: actions/checkout@v4
+    #   steps:
+    #   - uses: actions/checkout@v4
             
-      - name: Setup Python 3.11.9
-        uses:  actions/setup-python@v3
-        with:
-         python-version: '3.11.9'
+    #   - name: Setup Python 3.11.9
+    #     uses:  actions/setup-python@v3
+    #     with:
+    #      python-version: '3.11.9'
             
-      - name: Activate virtual environment and install dependencies
-        run: | 
-         python -m venv .venv
-         .venv\Scripts\activate.bat
-         python -m pip install -r requirements.txt
+    #   - name: Activate virtual environment and install dependencies
+    #     run: | 
+    #      python -m venv .venv
+    #      .venv\Scripts\activate.bat
+    #      python -m pip install -r requirements.txt
       
+    #   - name: Briefcase Package
+    #     run: | 
+    #      briefcase package -u
+      
+    #   - name: Upload Artifact
+    #     if: success()
+    #     uses: upload-artifact@v4
+    #     with:
+    #         name: pii-scanner.msi
+    #         path: .\dist\
+
+    # build-linux:
+    #     runs-on: ubuntu-latest
+
+    #     steps:
+
+    #     - name: Setup Python 3.11.9
+    #       uses:  actions/setup-python@v3
+    #       with:
+    #        python-version: '3.11.9'
+            
+    #     - name: Activate virtual environment and install dependencies
+    #       run: | 
+    #        python -m venv .venv
+    #        source .venv/Scripts/activate
+    #        python -m pip install -r requirements.txt
+      
+    #     - name: Briefcase Package
+    #       run: | 
+    #        briefcase package -u
+      
+    #     - name: Upload Artifact
+    #       if: success()
+    #       uses: upload-artifact@v4
+    #       with:
+    #         name: pii-scanner.deb
+    #         path: ./dist/
+
+    #TODO: Self Hosted Action Runner
+    build-macos:
+        runs-on: self-hosted
+
+        steps:
+
+        - name: Setup Python 3.11.9
+          uses:  actions/setup-python@v3
+          with:
+           python-version: '3.11.9'
+            
+        - name: Activate virtual environment and install dependencies
+          run: | 
+           python -m venv .venv
+           source .venv/Scripts/activate
+           python -m pip install -r requirements.txt
+      
+        - name: Briefcase Package
+          run: | 
+            briefcase package -u
+            ls -la
+        # - name: Upload Artifact
+        #   if: success()
+        #   uses: upload-artifact@v4
+        #   with:
+        #     name: pii-scanner
+        #     path: ./dist/
+         
