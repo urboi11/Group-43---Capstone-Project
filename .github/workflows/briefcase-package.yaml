@@ -52,6 +52,7 @@ jobs:
           run: | 
             python -m venv .venv
             source .venv/bin/activate
+            python --version
             python -m pip install briefcase
             python -m briefcase package           
             ls ./dist/ -la
