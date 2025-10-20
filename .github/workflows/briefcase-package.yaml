@@ -39,30 +39,24 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - name: Run Command
-              run: | 
-                echo "Hello:)" >> example1.txt
 
-            - name: Upload Artifact
-              uses: actions/upload-artifact@v4
-              with:
-                name: example.txt
-                path: ./example.txt
-
-        # - name: Setup Python 3.11.9
-        #   uses:  actions/setup-python@v3
-        #   with:
-        #    python-version: '3.11.9'
+        - name: Setup Python 3.11.9
+          uses:  actions/setup-python@v3
+          with:
+           python-version: '3.11.9'
             
-        # - name: Activate virtual environment and install dependencies
-        #   run: | 
-        #    python -m venv .venv
-        #    source .venv/Scripts/activate
-        #    python -m pip install -r requirements.txt
+        - name: Activate virtual environment and install dependencies
+          run: | 
+           python -m venv .venv
+           source .venv/Scripts/activate
+           python -m pip install -r requirements.txt
       
-        # - name: Briefcase Package
-        #   run: | 
-        #    briefcase package -u
+        - name: Briefcase Package
+          run: | 
+           briefcase package -u
+        - name: List Contents
+          run: |
+           ls -la
       
         # - name: Upload Artifact
         #   if: success()
@@ -71,24 +65,24 @@ jobs:
         #     name: pii-scanner.deb
         #     path: ./dist/
       
-    Create_Release:
-        runs-on: ubuntu-latest
-        needs: build-linux
-        steps:
-            - name: Download Windows Artifacts
-              uses: actions/download-artifact@v5
-              with:
-                name: | 
-                    example.txt
+    # Create_Release:
+    #     runs-on: ubuntu-latest
+    #     needs: build-linux
+    #     steps:
+    #         - name: Download Windows Artifacts
+    #           uses: actions/download-artifact@v5
+    #           with:
+    #             name: | 
+    #                 example.txt
 
-            - name: Release
-              uses: softprops/action-gh-release@v2
-              with:
-                name: Example Release
-                tag_name: ${{github.ref_name}}
-                files: |
-                  example*.txt
-                token: ${{ secrets.CAPSTONETOKEN }}
+    #         - name: Release
+    #           uses: softprops/action-gh-release@v2
+    #           with:
+    #             name: Example Release
+    #             tag_name: ${{github.ref_name}}
+    #             files: |
+    #               example*.txt
+    #             token: ${{ secrets.CAPSTONETOKEN }}
 
 
 
