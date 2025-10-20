@@ -5,26 +5,28 @@ on:
             - main
             - feature/**
 jobs:
-    # build-windows:
-    #   runs-on: windows-latest
+    build-windows:
+      runs-on: windows-latest
 
-    #   steps:
-    #   - uses: actions/checkout@v4
+      steps:
+      - uses: actions/checkout@v4
             
-    #   - name: Setup Python 3.11.9
-    #     uses:  actions/setup-python@v3
-    #     with:
-    #      python-version: '3.11.9'
+      - name: Setup Python 3.11.9
+        uses:  actions/setup-python@v3
+        with:
+         python-version: '3.11.9'
             
-    #   - name: Activate virtual environment and install dependencies
-    #     run: | 
-    #      python -m venv .venv
-    #      .venv\Scripts\activate.bat
-    #      python -m pip install -r requirements.txt
+      - name: Activate virtual environment and install dependencies
+        run: | 
+         python -m venv .venv
+         .venv\Scripts\activate.bat
+         python -m pip install -r requirements.txt
       
-    #   - name: Briefcase Package
-    #     run: | 
-    #      briefcase package -u
+      - name: Briefcase Package
+        run: | 
+         briefcase package -u
+         dir  .\dist\
+
       
     #   - name: Upload Artifact
     #     if: success()
@@ -61,32 +63,32 @@ jobs:
     #         path: ./dist/
 
     #TODO: Self Hosted Action Runner
-    build-macos:
-        runs-on: self-hosted
+    # build-macos:
+    #     runs-on: self-hosted
 
-        steps:
-        - uses: actions/checkout@v4
+    #     steps:
+    #     - uses: actions/checkout@v4
 
-        - name: Setup Python 3.9
-          uses:  actions/setup-python@v3
-          with:
-           python-version: '3.9'
+    #     - name: Setup Python 3.9
+    #       uses:  actions/setup-python@v3
+    #       with:
+    #        python-version: '3.9'
             
-        - name: Activate virtual environment and install dependencies
-          run: | 
-           python -m venv .venv
+    #     - name: Activate virtual environment and install dependencies
+    #       run: | 
+    #        python -m venv .venv
         
-        - name: Activate venv environment
-          run: source .venv/bin/activate
+    #     - name: Activate venv environment
+    #       run: source .venv/bin/activate
         
-        - name: Install Dependencies
-          run: python -m pip install -r requirements.txt
+    #     - name: Install Dependencies
+    #       run: python -m pip install -r requirements.txt
       
         
-        - name: Briefcase Package
-          run: | 
-            briefcase package -u
-            ls -la
+    #     - name: Briefcase Package
+    #       run: | 
+    #         briefcase package -u
+    #         ls -la
         # - name: Upload Artifact
         #   if: success()
         #   uses: upload-artifact@v4
