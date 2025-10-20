@@ -39,9 +39,8 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
         self.fileLocation = None
         
         if(os.name == "nt"):
-            if(os.path.isfile(Path.home() + "AppData\Local\Programs\Jason Welsh\pii-scanner\config.yaml")):
-                self.cfg = yaml.safe_load(open(Path.home() + "AppData\Local\Programs\Jason Welsh\pii-scanner\config.yaml", "r", encoding="utf-8"))
-        # if os.path.isfile("C:\Program Files\piiscanner\config.yaml"): 
+            if(os.path.isfile(str(Path.home()) + "AppData\Local\Programs\Jason Welsh\pii-scanner\config.yaml")):
+                self.cfg = yaml.safe_load(open(str(Path.home()) + "AppData\Local\Programs\Jason Welsh\pii-scanner\config.yaml", "r", encoding="utf-8"))
         
         if os.path.isdir(self.cfg["output"]["path"]) is not True:
             out_dir = pathlib.Path(self.cfg["output"]["path"])
@@ -90,7 +89,6 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
     
     def open_file_browser(self):
         fileName = QFileDialog.getOpenFileName(self, "Find Files..", os.getcwd(), "Text Files (*.txt);;Word Files (*.docx);;PDF Files(*.pdf)")
-        # fileNameLength = len(fileName[0].split("/"))
         
         self.FileLineEdit.setText(fileName[0])
         
