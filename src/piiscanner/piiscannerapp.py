@@ -160,7 +160,7 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
                             "file": p,
                             "findings": merged,
                         }
-                        with open(str(self.outputDir + os.path.sep + (pathlib.Path(p).name + ".json")), "a") as file:
+                        with open(str(self.outputDir + os.path.sep + (pathlib.Path(p).name + ".json")), "w") as file:
                             file.write(json.dumps(record, indent=2))
                             self.FileResults.setText(json.dumps(record, indent=2))
 
