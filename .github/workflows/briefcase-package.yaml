@@ -63,24 +63,24 @@ jobs:
           python -m pip install -r requirements.txt
         
 
-    Create_Release:
-        runs-on: ubuntu-latest
-        needs: build-windows
-        steps:
-            - name: Download Windows Artifacts
-              uses: actions/download-artifact@v5
-              with:
-                name: | 
-                    pii-scanner.msi
+    # Create_Release:
+    #     runs-on: ubuntu-latest
+    #     needs: build-windows
+    #     steps:
+    #         - name: Download Windows Artifacts
+    #           uses: actions/download-artifact@v5
+    #           with:
+    #             name: | 
+    #                 pii-scanner.msi
 
-            - name: Release
-              uses: softprops/action-gh-release@v2
-              with:
-                name: PiiScanner Release
-                tag_name: ${{github.ref_name}}
-                files: |
-                  pii-scanner-1.0.msi
-                token: ${{ secrets.CAPSTONETOKEN }}
+    #         - name: Release
+    #           uses: softprops/action-gh-release@v2
+    #           with:
+    #             name: PiiScanner Release
+    #             tag_name: ${{github.ref_name}}
+    #             files: |
+    #               pii-scanner-1.0.msi
+    #             token: ${{ secrets.CAPSTONETOKEN }}
 
 
 
