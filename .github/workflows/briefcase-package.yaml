@@ -54,7 +54,7 @@ jobs:
        - name: Setup Python 3.11.9
          uses: actions/setup-python@v3
          with:
-           python-version: 3.10
+           python-version: 3.10.19
        
        - name: Set up Virtual Environment and Install Dependencies
          run: |
