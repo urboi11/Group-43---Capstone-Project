@@ -5,70 +5,64 @@ on:
             - main
             - feature/**
 jobs:
-    build-windows:
-      runs-on: windows-latest
+    # build-windows:
+    #   runs-on: windows-latest
 
-      steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      - name: Checkout LFS objects
-        run: git lfs checkout
+      # steps:
+      # - uses: actions/checkout@v4
+      #   with:
+      #     lfs: true
+      # - name: Checkout LFS objects
+      #   run: git lfs checkout
        
-      - name: Setup Python 3.11.9
-        uses:  actions/setup-python@v3
-        with:
-         python-version: '3.11.9'
+      # - name: Setup Python 3.11.9
+      #   uses:  actions/setup-python@v3
+      #   with:
+      #    python-version: '3.11.9'
             
-      - name: Activate virtual environment and install dependencies
-        run: | 
-         python -m venv .venv
-         .venv\Scripts\activate.bat
-         python -m pip install briefcase
+      # - name: Activate virtual environment and install dependencies
+      #   run: | 
+      #    python -m venv .venv
+      #    .venv\Scripts\activate.bat
+      #    python -m pip install briefcase
 
-      - name: Briefcase Package
-        run: | 
-         briefcase package -u
-         dir  .\dist\
+      # - name: Briefcase Package
+      #   run: | 
+      #    briefcase package -u
+      #    dir  .\dist\
 
       
-      - name: Upload Artifact
-        if: success()
-        uses: actions/upload-artifact@v4
-        with:
-            name: pii-scanner.msi
-            path: .\dist\pii-scanner-1.0.msi
-    
-    # build-linux:
-    #     runs-on: ubuntu-latest
-
-    #     steps:
+      # - name: Upload Artifact
+      #   if: success()
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #       name: pii-scanner.msi
+      #       path: .\dist\pii-scanner-1.0.msi
 
 
-    #     - uses: actions/checkout@v4
+    build-macos:
+       runs-on: macos-latest
+       steps:
+       
+       - uses: actions/checkout@v4
+         with:
+            lfs: true
+       
+       - name: Checkout LFS objects
+         run: git lfs checkout
 
-    #     - name: Setup Python 3.11.9
-    #       uses:  actions/setup-python@v3
-    #       with:
-    #        python-version: '3.11.9'
-            
-    #     - name: Activate virtual environment and install dependencies
-    #       run: | 
-    #         python --version
-    #         python3 --version
-    #         python -m venv .venv
-    #         source .venv/bin/activate
-    #         python -m pip install briefcase
-    #         python -m briefcase package           
-    #         ls ./dist/ -la
+       - name: Setup Python 3.11.9
+         uses: actions/setup-python@v3
+         with:
+           python-version: 3.11.9
+       
+       - name: Set up Virtual Environment and Install Dependencies
+         run: |
+          python -m venv .venv
+          source .venv/Scripts/activate
+          python -m pip install -r requirements.txt
         
-        # - name: Upload Artifact
-        #   if: success()
-        #   uses: upload-artifact@v4
-        #   with:
-        #     name: pii-scanner.deb
-        #     path: ./dist/
-      
+
     Create_Release:
         runs-on: ubuntu-latest
         needs: build-windows
