@@ -10,7 +10,11 @@ jobs:
 
       steps:
       - uses: actions/checkout@v4
-      
+        with:
+          lfs: true
+      - name: Checkout LFS objects
+        run: git lfs checkout
+       
       - name: Run Commmand
         run: |
           dir .\src\piiscanner\model
