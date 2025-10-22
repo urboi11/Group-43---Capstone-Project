@@ -75,7 +75,7 @@ def read_any(path):
 def read_txt(path: str) -> str:
     try:
         if(os.path.getsize(path) == 0):
-            return "No Data in File"
+            return ""
         else:
             return Path(path).read_text(encoding="utf-8", errors="ignore")
     except:
@@ -84,7 +84,7 @@ def read_txt(path: str) -> str:
 def read_docx(path: str) -> str:
     try:
         if(os.path.getsize(path) == 0):
-            return "No Data in File"
+            return ""
         else:
             doc = Document(path)
             return "\n".join(p.text for p in doc.paragraphs)
@@ -94,7 +94,7 @@ def read_docx(path: str) -> str:
 def read_pdf(path: str) -> str:
     try:
         if(os.path.getsize(path) == 0):
-            return "No Data in File"
+            return ""
         else:
             pdf = PdfReader(path)
             return "\n".join(page.extract_text() or "" for page in pdf.pages)

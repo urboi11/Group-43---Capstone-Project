@@ -145,37 +145,38 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
         
                 self.ProgressBar.setValue(50)
 
-                merged_list = []
-                for p in paths:
-                    text = read_any(p)
-                    if not text:
-                        continue
-                    findings = model.predict(text)
-                    merged = merge_findings(findings, max_gap=self.cfg.get("merge_gap", 0))
+                merged = []
+                if paths:
+                    for p in paths:
+                        text = read_any(p)
+                        if not text:
+                            continue
+                        findings = model.predict(text)
+                        file_merged = merge_findings(findings, max_gap=self.cfg.get("merge_gap", 0))
+                        fname = pathlib.Path(p).name
+                        for f in file_merged:
+                            merged.append({**f, "file": fname})
 
-                    print("Merged Result", merged)
-                
-                    self.ProgressBar.setValue(75)
+                self.ProgressBar.setValue(75)
 
+                if merged:
+                    record = {
+                        "ts": time.time(),
+                        "files": [pathlib.Path(p).name for p in paths],
+                        "findings": merged,
+                    }
 
-                    if merged:
-                        record = {
-                            "ts": time.time(),
-                            "file": p,
-                            "findings": merged,
-                        }
-                        print("Records: " , record)
-                        with open(str(self.outputDir + os.path.sep + (pathlib.Path(p).name + ".json")), "w") as file:
-                            file.write(json.dumps(record, indent=2))
-                            self.FileResults.setText(json.dumps(record, indent=2))
+                    with open(str(self.outputDir + os.path.sep + (pathlib.Path(p).name + ".json")), "w") as file:
+                        file.write(json.dumps(record, indent=2))
+                        self.FileResults.setText(json.dumps(record, indent=2))
 
-                            self.fileLocation = self.outputDir + os.path.sep + (pathlib.Path(p).name + ".json")
+                        self.fileLocation = self.outputDir + os.path.sep + (pathlib.Path(p).name + ".json")
                             
-                            file.close()
+                        file.close()
                         self.ProgressBar.setValue(100)
                         self.stackedWidget.setCurrentIndex(4)          
-                    else:
-                        self.stackedWidget.setCurrentIndex(4)
+                else:
+                    self.stackedWidget.setCurrentIndex(4)
 
     
             else:
