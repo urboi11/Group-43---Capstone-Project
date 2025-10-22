@@ -1,7 +1,9 @@
 
+from pathlib import Path
+from docx import Document
+from PyPDF2 import PdfReader
 import os
 import os, fnmatch, glob
-from .extract import read_txt, read_docx, read_pdf
 
 
 
@@ -68,3 +70,33 @@ def read_any(path):
     if ext == ".pdf":
         return read_pdf(path)
     return ""  # unknown types ignored
+
+
+def read_txt(path: str) -> str:
+    try:
+        if(os.path.getsize(path) == 0):
+            return "No Data in File"
+        else:
+            return Path(path).read_text(encoding="utf-8", errors="ignore")
+    except:
+        pass
+
+def read_docx(path: str) -> str:
+    try:
+        if(os.path.getsize(path) == 0):
+            return "No Data in File"
+        else:
+            doc = Document(path)
+            return "\n".join(p.text for p in doc.paragraphs)
+    except:
+        pass
+
+def read_pdf(path: str) -> str:
+    try:
+        if(os.path.getsize(path) == 0):
+            return "No Data in File"
+        else:
+            pdf = PdfReader(path)
+            return "\n".join(page.extract_text() or "" for page in pdf.pages)
+    except Exception:
+        return ""  # unreadable PDFs just return empty

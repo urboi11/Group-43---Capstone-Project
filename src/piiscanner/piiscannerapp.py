@@ -145,14 +145,18 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
         
                 self.ProgressBar.setValue(50)
 
+                merged_list = []
                 for p in paths:
                     text = read_any(p)
                     if not text:
                         continue
                     findings = model.predict(text)
                     merged = merge_findings(findings, max_gap=self.cfg.get("merge_gap", 0))
+
+                    print("Merged Result", merged)
                 
                     self.ProgressBar.setValue(75)
+
 
                     if merged:
                         record = {
@@ -160,6 +164,7 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
                             "file": p,
                             "findings": merged,
                         }
+                        print("Records: " , record)
                         with open(str(self.outputDir + os.path.sep + (pathlib.Path(p).name + ".json")), "w") as file:
                             file.write(json.dumps(record, indent=2))
                             self.FileResults.setText(json.dumps(record, indent=2))
@@ -168,6 +173,8 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
                             
                             file.close()
                         self.ProgressBar.setValue(100)
+                        self.stackedWidget.setCurrentIndex(4)          
+                    else:
                         self.stackedWidget.setCurrentIndex(4)
 
     
