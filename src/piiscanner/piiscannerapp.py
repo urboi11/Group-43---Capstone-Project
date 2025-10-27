@@ -11,7 +11,13 @@ from os import startfile
 from pathlib import Path
 
 
-## TODO: Fix error handling, add tests.
+"""
+    TODO: Work through adding the following....
+    1. Tests
+    2. Code Organization/Comments.
+    3. Documentation/ README.md
+
+"""
 
 class PopUpForWarning(QWidget):
     def __init__(self):
