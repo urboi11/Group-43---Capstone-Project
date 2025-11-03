@@ -1,6 +1,6 @@
 {
   "_attn_implementation_autoset": true,
-  "_name_or_path": "C:\\Users\\Capstone2026User\\pii-lab\\experiments\\baseline\\model\\final-model",
+  "_name_or_path": "C:\\Users\\Capstone2026User\\pii-lab\\experiments\\baseline\\model\\checkpoint-run\\final-model",
   "activation": "gelu",
   "architectures": [
     "DistilBertForTokenClassification"
