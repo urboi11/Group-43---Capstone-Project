@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'PiiScannerGui.ui'
+# Form implementation generated from reading ui file '.\PiiScannerGui.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.11
 #
@@ -134,7 +134,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "Form"))
+        Form.setWindowTitle(_translate("Form", "PIIE"))
         self.ScanFilesButton.setText(_translate("Form", "Scan For Files"))
         self.ScanDirectoryButton.setText(_translate("Form", "Scan In Directory"))
         self.label_4.setText(_translate("Form", "Welcome! Select one of the following options below to begin your PII Scanning!"))
