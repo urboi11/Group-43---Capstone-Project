@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Melinda Patrick", email: "kimberlуwаtkins@yahoo.cоm", phone: "+𝟦9 6𝟣 872 𝟥377", dob: "2𝟶/04/1936", addr: "Unit 5120 Box 3745, DPO АЕ 𝟥𝟥754", ssn: "653600191", cc: "𝟦630-21𝟪5-14𝟫9-𝟤138", ip: "175.098.214.10𝟦" };

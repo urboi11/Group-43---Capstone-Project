@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Gregory Bowman</td><td>сwаre@mсgee-stevens․com</td><td>+𝟥3 533 90𝟨 37𝟤2</td><td>𝟣963-06-28</td><td>41𝟪5 1741 4637 5979</td></tr></table>

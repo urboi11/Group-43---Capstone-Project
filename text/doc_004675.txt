@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sandra Hebert DDS</td><td>archerrenee at gmail.com</td><td>+49‐𝟪59-722-𝟫583</td><td>Jun 30, 1987</td><td>𝟦263·𝟤584·779𝟫·3511</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

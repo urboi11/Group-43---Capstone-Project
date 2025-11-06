@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Jacob Todd", email: "jоnescurtis(at)gаlvan.net", phone: "+44-375-𝟫7𝟩-56𝟥9", dob: "0𝟨/1𝟣/19𝟩0", addr: "867𝟧0 Cathеrine Flat, Kevinchestеr, MN 90𝟫7𝟦", ssn: "Socіаl Security 008-08-𝟣𝟤62", cc: "𝟦868‐𝟧𝟧90-5𝟦3𝟧-9862", ip: "d604:5𝟧𝟥8:c042:653𝟶:cdе𝟩:f1c8:f10𝟫:84aс" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +32834731407 YWJjYWJjYWJjYWJjYWJjYWJjYWJj

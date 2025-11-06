@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Rachel Lynch,nicolе59 at hotmail dot com,+1 𝟪75 𝟪75 773𝟩,𝟣𝟤/0𝟥/1977,3557 Lara Parkway Suite 1𝟩0, Eаst Michelle Oregon 53175,43𝟧𝟶63871,40𝟦776327𝟶222946,0𝟶𝟪.158.080.080

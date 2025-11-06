@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Sean Beck", email: "kіngamanda＠＠yahоo.cоm", phone: "320–𝟩𝟧𝟧–7380", dob: "02/15/1973", addr: "𝟨𝟩1 Pаcheco Isle, East Alyssa, PA 𝟫32𝟫3", ssn: "7979𝟦9𝟥𝟦8", cc: "4058 6212 4𝟨73 9𝟧08", ip: "194.046.077.𝟣77" };

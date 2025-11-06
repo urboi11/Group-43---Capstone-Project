@@ -1,0 +1,5 @@
+// user record
+const user = { name: "William Armstrong", email: "jordаnkаtеlyn [at] mail.johnson․org", phone: "882-𝟤92‐2042", dob: "17/1𝟶/𝟣945", addr: "61𝟪0 Christopher Pass Apt. 6𝟩3, Arroyochester MO", ssn: "SSN 𝟥16 𝟧1 90𝟦5", cc: "457038683987𝟦𝟦89", ip: "21𝟥.234.2𝟶5.2𝟤0" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

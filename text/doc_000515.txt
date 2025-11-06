@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Rachel Mason", email: "аllenkaren@( mail.garcia.net )", phone: "𝟪23.𝟪𝟦2․𝟤090", dob: "𝟣𝟧/0𝟥/20𝟶3", addr: "𝟨𝟶4 Smith Gаrden, Thomashaven MS", ssn: "215397780", cc: "4𝟣14·9633·609𝟪·9101", ip: "27.9𝟶․8𝟪.1𝟥2" };

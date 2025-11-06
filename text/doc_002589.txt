@@ -1,0 +1,6 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 04cb5b5c-118d-409d-96fa-ff69e0ece936 c3e009d091d877b106d3b8c910b54bc2eef0b4d8 366.666.512.460 91-72-2161

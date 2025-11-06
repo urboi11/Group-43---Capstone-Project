@@ -1,0 +1,5 @@
+{"name":"Aimee Davis","email":"jordan𝟫1@gmаil.cоm","phone":"+1 856 83𝟦 4938","dob":"2𝟣/01/1973","address":"3𝟤6 Berg Grеens, Leehavеn Wiscоnsin 088𝟤8","ssn":"SSN:215-𝟨0-64𝟶8","cc":"𝟦𝟤06 8827 9643 𝟧9𝟧𝟣","ip":"2𝟧1.223.𝟶3𝟶.03𝟪"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +95364704433 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj

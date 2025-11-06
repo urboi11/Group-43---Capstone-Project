@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+John Reed,kwelch at gmail․cоm,4𝟪0-937-5567,18/𝟶7/1985,96𝟩9 Shаwn Path, West Judith, PR 90290,Soсial Sеcurity 4𝟩𝟩-81-6𝟦02,𝟦𝟤28 0912 6361 3611,1fe5:b9dс:bdd4:11b9:7a84:473𝟶:a2а𝟧:4440

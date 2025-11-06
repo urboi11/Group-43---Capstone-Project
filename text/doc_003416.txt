@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Justin Gomez</td><td>сainkim at miranda-wilkerson dоt org</td><td>+44 262 776 1641</td><td>06/14/𝟣𝟫76</td><td>4012 1𝟤𝟣6 𝟫856 𝟪50𝟶</td></tr></table>

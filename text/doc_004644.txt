@@ -1,0 +1,2 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: zavila(dot)Gonzalez(at)thompson-stewart.com 0500aca6-9629-4f5f-a5f8-78a2beec95fb

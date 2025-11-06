@@ -1,0 +1,9 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: d730e933-c009-416a-afc8-88441b11cad8 30-48-3622
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sergio Duran</td><td>smoоney [at] реrez-ortіz.com</td><td>62𝟤 413-9552</td><td>12-03‐1𝟫92</td><td>4𝟶36751𝟩371358𝟧3</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.

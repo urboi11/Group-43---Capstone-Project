@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Mary Hernandez</td><td>russеllеrin@maіl.brewеr‐williams.cоm</td><td>244.88𝟨.3107</td><td>Аug 05, 197𝟤</td><td>4349 3505 0𝟦84 870𝟩</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: wthomas(dot)Smith(at)hamilton.org YWJjYWJjYWJjYWJjYWJj bbd3c118fdddad50dfbcdbca4ffe5ecbce31a5d9 98-41-9217
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

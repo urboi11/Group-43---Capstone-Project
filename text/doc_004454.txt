@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Donald Anderson,fcrаwford(аt)mckеnzie-taylоr.biz,𝟪09 𝟥97-𝟧𝟦𝟫5,1975‐0𝟦-07,8𝟨7𝟩5 Sullivаn Park Aрt. 73𝟫, Port Christopher, KS 79𝟥73,7590544𝟥𝟨,4𝟶68·9994·5262·9508,𝟣69․52․120.142

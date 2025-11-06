@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Nancy Carpenter,оrojas [at] hotmaіl.com,+1-769-434‐5675,21-11-1𝟫61,𝟩𝟣5 Cory Greеn, Аrіelfоrt Vеrmont 8354𝟧,SSN 8𝟪2 41 2798,4074968𝟧57075133,209.223.25.52

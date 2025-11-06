@@ -1,0 +1,8 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 9f1cb88f2061584c94416283f960642b69ad55ee +42646302792 5f7c31b8-6f64-43d8-b0f1-f834d2c969d3
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJj 47c8bcca6872de79ad1da52a96fb4782691924ef
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

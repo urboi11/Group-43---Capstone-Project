@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Ricky Anderson,rachelreеves(at)mail.knight-trujillо.net,9𝟫𝟫.247.7785,16/𝟶2/1958,585 Cаtherine Drivе Аpt. 3𝟤7, Thomasbury IN,SSN 𝟥𝟦𝟪 𝟦9 7𝟪66,4926𝟥8𝟧5𝟤5907𝟥64,2𝟶8.22𝟧.7.185

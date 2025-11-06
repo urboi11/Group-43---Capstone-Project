@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Nicholas Prince,jennifer4𝟥@@hоtmail.com,+1 𝟤6𝟦 𝟨16 3𝟩𝟤7,25/𝟶𝟨/1969,352 Sims Grоves, Port Catherіne, MD 68001,Social Securitу 505-96‐𝟦091,𝟦126·0𝟫65·2327·618𝟧,041․062․006.034

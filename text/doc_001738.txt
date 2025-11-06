@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Stacey Wilkerson</td><td>susanrоdrіguеz@maіl.beasley-young.infо</td><td>+33 937 8𝟥7 𝟩36𝟨</td><td>22/11/197𝟦</td><td>𝟦43𝟤 𝟪409 5𝟫0𝟧 9600</td></tr></table>

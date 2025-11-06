@@ -1,0 +1,9 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 68-57-4558 671dd26e-b044-4c94-a191-e2a2025f1171
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 392.33.408.123 4435·8898·1877·9332 b1453419-d077-4b62-b6e1-850f3c77b9e9
+WARN scheduler: job=27 retry=1 corr=7f3ad0

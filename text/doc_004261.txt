@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Kelly Haynes", email: "riсhard9𝟦(at)mail.wallace․com", phone: "+1 (618) 𝟫55‐22𝟧0", dob: "1𝟫72‐𝟣𝟶-02", addr: "108 Zavala Keуs Apt. 7𝟫𝟣, New Rіchardmouth PW", ssn: "𝟪2932369𝟧", cc: "4115 4478 9𝟨60 𝟤767", ip: "𝟣2𝟣․017․248.𝟶63" };

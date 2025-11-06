@@ -1,0 +1,5 @@
+// user record
+const user = { name: "David Jacobs", email: "zlеonаrd@( yahoо.com )", phone: "970‐8𝟤8‐1057", dob: "07/10/2005", addr: "8418 Gregory Island, Dianeshire OK", ssn: "SSN:𝟶𝟪8‐𝟣𝟶-𝟣055", cc: "4714 𝟣045 𝟤𝟪8𝟩 6468", ip: "099.𝟶𝟩𝟣.255.𝟶25" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

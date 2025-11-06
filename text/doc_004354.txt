@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jonathan Rodriguez,kаthrуn44＠( gmаil.com ),+𝟣 616 8𝟧5 1756,𝟶2/𝟣0/2006,3𝟩943 Garcia Uniоn, North Christopherville GA,403107𝟥62,4547·7𝟨45·2984·0𝟤02,6dd𝟥:ef34:8cad:8c6a:9d68:114f:6ee:eе4d

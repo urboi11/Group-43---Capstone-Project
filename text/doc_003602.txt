@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 32bb12199288086ee29aa581ddf6c449281d2669 52-39-6139 8ad5f2c1-4168-402b-9403-b4f9da57c1aa
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJj 4250 1529 8036 5998 642.245.292.350 96f19375-6a5e-4173-995e-b86cc8c9fa53
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

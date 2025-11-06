@@ -1,0 +1,3 @@
+// user record
+const user = { name: "John Powell", email: "emіlythоmpson@@gmail.com", phone: "(486) 4𝟤2-38𝟧𝟨", dob: "10/31/1𝟫92", addr: "9581 Steve Curve, South Christоphеr, CO 31203", ssn: "113‐79-9372", cc: "4961 9𝟧22 2𝟥1𝟥 6665", ip: "2𝟤1.021.𝟣𝟶0.215" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

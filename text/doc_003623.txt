@@ -1,0 +1,10 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4009-4064-1719-3322 +7220765236
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 52-62-3561 YWJjYWJjYWJjYWJjYWJj
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

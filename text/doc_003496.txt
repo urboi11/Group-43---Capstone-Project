@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Lisa Allen</td><td>jennifer92(at)hotmаil.com</td><td>+1 (317) 𝟥𝟧7-9633</td><td>2𝟶-10‐𝟣934</td><td>41𝟪𝟦-9940-9𝟤66‐9𝟪31</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.

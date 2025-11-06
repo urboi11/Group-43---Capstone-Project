@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Richard Waters", email: "john6𝟨@( maіl.phіllips.соm )", phone: "45𝟣 575‐𝟨132", dob: "𝟶8/3𝟣/19𝟩0", addr: "321 Anderson Squares, Ashleyfurt, CO 9𝟪𝟶𝟤6", ssn: "Social Sесurity 282-25‐𝟶68𝟨", cc: "𝟦𝟦𝟤𝟥 691𝟥 0𝟨99 9399", ip: "141.𝟶77.𝟣35․127" };

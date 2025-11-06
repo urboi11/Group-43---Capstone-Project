@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Cynthia Lee", email: "davidknight(at)mail.hall.com", phone: "𝟫60 891  .  377𝟩", dob: "01/22/1966", addr: "152𝟥 Robеrt Cove, South Аmy, CA 3884𝟶", ssn: "48𝟫-09-6716", cc: "433𝟤𝟣56𝟩544𝟥101𝟦", ip: "126.29.50.𝟪" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 557.863.564.675 20770937b5d62889a349bf057dfa6e89abbcc068 72-84-6090 60ce2637-6241-4050-8e6c-78c43b8f1274

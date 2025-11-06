@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Amber Holloway", email: "knolan@＠gmаil.cоm", phone: "+𝟦𝟫 𝟧15 707 1298", dob: "1946-04-18", addr: "4369 Ellis Pоrts, Jonathаnmouth, TN 6154𝟫", ssn: "484978424", cc: "45267929598687𝟪6", ip: "5b23:5038:526𝟤:8с3f:badf:3a𝟣7:8𝟦54:9e15" };

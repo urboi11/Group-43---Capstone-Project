@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Nancy Johnson", email: "ryan𝟶𝟪 at freemаn-phillіps dot сom", phone: "+1 41𝟪 870 5𝟩30", dob: "Nov 10, 1𝟫𝟩0", addr: "323 Debra Oval, Hernandezshirе, MT 10𝟥70", ssn: "SSN:𝟤10-𝟧3-4091", cc: "4𝟩83·4348·38𝟥4·8304", ip: "c446:cb𝟥6:d861:cc𝟥c:аab𝟣:𝟨1аb:2𝟶𝟨d:90𝟪c" };

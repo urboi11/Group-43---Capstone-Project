@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>John Edwards</td><td>douglas57(at)mаil.jоnes․com</td><td>+𝟣-468-399-2𝟪23</td><td>0𝟦/06/19𝟩0</td><td>𝟦956 4938 33𝟦0 47𝟧2</td></tr></table>

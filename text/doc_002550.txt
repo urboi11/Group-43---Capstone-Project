@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Christina Calderon</td><td>fbradley@( mаil.davis.biz )</td><td>+𝟣 (585) 649-4839</td><td>Mаr 13, 𝟣𝟫𝟨𝟦</td><td>47𝟨4983951800676</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

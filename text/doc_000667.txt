@@ -1,0 +1,9 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 92-98-2377 +55214240139 01c90d847bab1e65014498371c30baf1836d80c8

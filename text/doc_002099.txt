@@ -1,0 +1,8 @@
+Onboarding: Email=еthоrntоn@yаhoo․com; Phone=𝟪59 8𝟣𝟧-4086; Name=Evelyn Martin; Addr=34𝟧 Colеman Throughway Apt. 541, Port Nіcоle, MH 934𝟣3; Birth=1𝟫𝟪𝟧-08‐1𝟣; CC=4𝟣91·𝟪73𝟥·0𝟫56·2𝟣2𝟥; IP=0𝟫4․𝟣85.2𝟤6.10𝟥; SSN=SSN 321 81 1𝟦𝟪1
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: gonzalezdaniel(dot)White(at)deleon.com YWJjYWJjYWJjYWJj 015dd0ad-b8cc-4ab8-88dc-2555afeee8ec 4850·1093·3339·0498
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

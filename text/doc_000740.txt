@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Nicholas Hernandez", email: "sherrуwilliams@＠mail.hunt.net", phone: "778 4𝟤7  .  5553", dob: "11-𝟶5-1981", addr: "0623𝟫 Case Prairiе Suite 264, South Robertside Rhodе Island 𝟦284𝟣", ssn: "2𝟣20𝟪1395", cc: "4296·2𝟶56·336𝟦·0974", ip: "219.99.39.83" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +92184524408 YWJjYWJjYWJj

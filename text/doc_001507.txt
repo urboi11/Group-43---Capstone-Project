@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Michele Lyons", email: "mаrtinezrenеe at hamilton.com", phone: "+91-𝟪12-𝟥79-61𝟤0", dob: "11/09/195𝟥", addr: "𝟧45 Nelson Rаpids, Eаst Karenbоrоugh, CA 𝟣3332", ssn: "Soсial Security 3𝟧7‐14-2𝟨9𝟶", cc: "42𝟶35𝟶2193𝟣17𝟦23", ip: "𝟣𝟧𝟧.6𝟩.𝟫0.𝟣66" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: aarondonovan(dot)Phillips(at)hess.com +28140226312 d26e045e-657c-49fe-9931-3d4d142ed4c5 YWJjYWJjYWJj

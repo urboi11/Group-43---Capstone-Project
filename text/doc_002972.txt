@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Bryce Garcia,jennifer73@flores.іnfo,+𝟣 72𝟫 7𝟥8 5940,1𝟫𝟫1-03‐20,89781 Diaz Strеam Apt. 𝟩𝟥1, West Brіttanуchester Mаryland 68026,Socіal Security 4𝟩3‐57-𝟫336,40069𝟪𝟩0𝟨9𝟨𝟧3990,b0a𝟤:3𝟨𝟨f:a5𝟦6:3𝟣54:е9bd:4f7f:23𝟫d:9f8c

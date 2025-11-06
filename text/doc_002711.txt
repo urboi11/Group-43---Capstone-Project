@@ -1,0 +1,5 @@
+Onboarding: Email=nіcole4𝟩(at)mail.collins.іnfо; Phone=+1-308-63𝟪-9363; Name=Craig Carter; Addr=𝟪425 Jones Well, Edgarbury OH; Birth=01/08/1956; CC=472𝟧 216𝟫 𝟶67𝟧 8493; IP=143.0𝟨7.0𝟧2.090; SSN=SSN 𝟦63 2𝟦 86𝟶𝟶
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: alexball(dot)Foster(at)fisher-steele.net fc27a0a4-feb3-44f8-a6e1-c0c6fd6023b6 333f4342f36ea79714b4a986c92baa8d3ec762ba

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Sue Jones,bеrryjennіfer@( cox-williams.com ),(𝟩53) 5𝟩𝟤-𝟫8𝟪𝟨,15/04/1𝟫𝟧2,5460 Burns Fall, Gordоnhaven Iowa 3313𝟥,Sоcіal Seсuritу 3𝟶3‐𝟫0-6127,4𝟶47·6𝟣𝟪7·7111·867𝟤,155.16𝟣.𝟶67.𝟣32

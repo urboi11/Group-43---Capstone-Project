@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +33381486766 569.594.688.726
+<p>Release: add audit headers, improve error resilience.</p>
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

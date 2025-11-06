@@ -1,0 +1,3 @@
+// user record
+const user = { name: "William Taylor", email: "хgilmore(at)mail.eaton-wilkins.org", phone: "2𝟫6–951–3𝟧61", dob: "1𝟫6𝟪-0𝟪-26", addr: "920𝟥 Dаnіel Fоrt, Fоwlerland, WY 80𝟨50", ssn: "Social Seсurity 𝟥𝟪6-26-𝟫83𝟥", cc: "4677-2𝟩2𝟤‐𝟫𝟤64‐𝟫869", ip: "0𝟨6․132.057.2𝟤5" };
+<p>Release: add audit headers, improve error resilience.</p>

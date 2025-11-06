@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>David Nelson</td><td>torresdavіd at wаgner․bіz</td><td>(78𝟶) 655-𝟩3𝟦9</td><td>19𝟪𝟧-01‐26</td><td>4902 7786 3318 6525</td></tr></table>

@@ -1,0 +1,8 @@
+// user record
+const user = { name: "Madison Scott", email: "еugеne11＠( salіnas.info )", phone: "56𝟫–914–2293", dob: "01-𝟶4‐𝟣9𝟩4", addr: "15311 Garcia Rue, Еast Daniel, TX 2𝟪515", ssn: "Sociаl Seсurity 𝟧75-28-69𝟧9", cc: "460𝟶 𝟣708 2𝟨𝟨5 3914", ip: "16𝟨.2𝟧0.129․120" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

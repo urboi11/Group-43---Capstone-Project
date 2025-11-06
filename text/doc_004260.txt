@@ -1,0 +1,5 @@
+Onboarding: Email=brandondіaz@＠cobb-vargas.соm; Phone=857 275  ․  𝟦717; Name=Nicholas Acevedo; Addr=𝟩246 Mіchael Skуway Apt. 887, South Candice OR; Birth=0𝟦/30/200𝟣; CC=44𝟤0·4120·905𝟧·9643; IP=06𝟩.250.2𝟥𝟧.203; SSN=Social Security 8𝟥2-78-0887
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 00f3af87-09c8-46d1-b71c-97e8649d6d46 07402c95d6ab684e589817b7b4cbadd2af035dfe

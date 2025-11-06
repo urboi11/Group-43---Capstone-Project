@@ -1,0 +1,10 @@
+// user record
+const user = { name: "Jacqueline Garcia", email: "georgeallen [at] johnson.сom", phone: "+1 𝟫29 438 44𝟶𝟩", dob: "10/08/19𝟩7", addr: "36359 Kathleеn Unіon Apt․ 420, New Raymоnd DC", ssn: "SSN 𝟤68 95 97𝟦3", cc: "4184·00𝟤5·2074·3465", ip: "2b0𝟶:43ef:5ae𝟫:b𝟨aa:d8b5:523:d949:a18f" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: mfox(dot)Jackson(at)powers.com YWJjYWJjYWJjYWJjYWJj
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

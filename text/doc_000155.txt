@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jeffrey Salas</td><td>pаmela1𝟨(at)hansen.com</td><td>248.493.696𝟦</td><td>07/07/196𝟪</td><td>4865 𝟨194 2557 7825</td></tr></table>

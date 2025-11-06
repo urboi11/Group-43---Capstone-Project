@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Melissa Gibson</td><td>andrеwmеyers(at)gonzаlеs-mоrris.com</td><td>289 403  .  𝟥212</td><td>Nov 14, 𝟣980</td><td>4283458119648087</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.

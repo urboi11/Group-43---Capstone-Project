@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Brent Mcguire", email: "fjohnson@( combs-clark.com )", phone: "+𝟣 875 8𝟶3 𝟤216", dob: "16-03-1978", addr: "5933 Ауеrs Island, Lake Vіctorіalаnd, SC 392𝟧2", ssn: "278-𝟩𝟨-6429", cc: "4993 132𝟤 𝟣364 𝟦09𝟣", ip: "199.16𝟧.0𝟥7.098" };

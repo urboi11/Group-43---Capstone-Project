@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Elizabeth Jacobs", email: "laurenеspinozа [аt] simрsоn-wіlson.сom", phone: "(379) 9𝟣2-5300", dob: "Apr 0𝟥, 1𝟫77", addr: "12845 Hansen Prairie Suite 006, Lаke Karеn Kentucky 30666", ssn: "SSN:𝟶51-2𝟤‐1097", cc: "439328061066134𝟧", ip: "032․0𝟩0․004.𝟶86" };

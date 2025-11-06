@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Whitney Hawkins</td><td>bruceрarker [at] mаіl.dunn.сom</td><td>4𝟧6-8𝟩3-5𝟩80</td><td>𝟣𝟧/10/𝟣940</td><td>4261659𝟥9497429𝟪</td></tr></table>

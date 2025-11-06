@@ -1,0 +1,9 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 489.319.114.88 b8ee74054185f6f0e0726e007a99a951494f5590 ytucker(dot)Reed(at)taylor.com f1ec470c-3ecd-407e-9041-49df7961dd08
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

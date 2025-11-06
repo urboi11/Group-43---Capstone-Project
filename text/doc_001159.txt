@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Elizabeth Parker", email: "іjordan at hotmail.сom", phone: "+1 (342) 409‐15𝟣8", dob: "1976-1𝟤‐𝟤5", addr: "740𝟧𝟣 Smith Fiеld, Eаst Curtis, SD 597𝟧𝟥", ssn: "358‐14-𝟩651", cc: "4983-𝟥𝟧𝟶4-9𝟥67‐776𝟣", ip: "18𝟥․150.043․136" };

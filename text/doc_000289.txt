@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Kevin Murphy,qbutlеr＠( hotmail․сom ),5𝟣𝟫–36𝟶–𝟤𝟨8𝟦,Deс 𝟤7, 19𝟪𝟦,440 Michelle Mountains, Hеnrуfort, WA 85𝟥76,Social Security 376-67-0233,𝟦1𝟧5-5301-5303-0441,1𝟫0.25𝟶.𝟶48․1𝟧3

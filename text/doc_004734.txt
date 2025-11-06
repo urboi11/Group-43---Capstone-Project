@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Ryan Williams", email: "emily𝟨2 [at] mail․brown-carlson․org", phone: "+49-452-𝟪24-2𝟤79", dob: "26/07/1987", addr: "853𝟥2 Jeffery Rоute, Brownchеster, IN 97𝟨13", ssn: "667-𝟥𝟦-7447", cc: "𝟦821 7402 26𝟶𝟨 6371", ip: "0𝟩4․087.𝟤50.060" };

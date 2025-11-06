@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 40-71-9765 9fb938e0-776e-43e6-baf3-3cc5b176e71f YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj johnnavarro(dot)Cisneros(at)aguirre-bennett.biz

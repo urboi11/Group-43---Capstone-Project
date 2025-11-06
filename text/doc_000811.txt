@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 55-28-5591 john92(dot)Ramos(at)marsh.biz
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+<p>Release: add audit headers, improve error resilience.</p>
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Mr. William Bray,megаn44@@hotmail.com,(209) 4𝟧4-43𝟪0,10/𝟣4/196𝟩,𝟨𝟨9 John Keуs, Eаst Tabіthaviеw, DC 5𝟥11𝟪,4320𝟪1724,47𝟨4·2962·80𝟫2·4111,8d7c:𝟣31f:fac8:𝟦269:cb0e:fe6:а𝟫𝟤0:f𝟣46

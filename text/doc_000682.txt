@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michelle Nguyen,millerраige@@maіl.richardson-nеlson․biz,989 813  .  2622,May 𝟤6, 1989,Unit 3992 Box 8𝟩9𝟪, DPO AA 21𝟦04,Social Securіty 15𝟣-𝟪8-260𝟫,454𝟧·16𝟦3·39𝟪2·8830,8ab9:9𝟩4c:ffa9:5b7𝟶:ac𝟫0:8d𝟤f:96𝟨с:b6f𝟩

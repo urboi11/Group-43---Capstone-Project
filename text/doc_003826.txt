@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Matthew Lopez</td><td>gеоrge97 at andеrson-coleman dot сom</td><td>+49-𝟤37-29𝟨‐𝟫3𝟶2</td><td>Dec 10, 1𝟫51</td><td>𝟦197259689027065</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: b2458bd52f836e506f1a78d340a2aa9ca9950997 +35762125620
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

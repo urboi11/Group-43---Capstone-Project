@@ -1,0 +1,4 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 33c2e606-531c-4354-bb95-efe9d35fad6e 490.292.754.581

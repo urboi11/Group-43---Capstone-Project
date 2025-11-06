@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 925.417.134.510 a660b1070a1edf51f95b84464e826fdd54ccddfd hoffmanronald(dot)Campbell(at)kelly.org 74-39-9910
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

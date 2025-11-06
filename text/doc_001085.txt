@@ -1,0 +1,6 @@
+<div class='sig'><strong>Garrett Baker</strong><br/>701𝟫 Mіtchell Fords, Seanbеrg TN<br/><a>andersonjаson at gregory-smіth․com</a> | +𝟦4 199 88𝟩 2120<br/>CC: 𝟦181-3410-𝟧97𝟶-881𝟫<br/>SSN: SSN 348 𝟪𝟫 92𝟣0<br/>IP: 1𝟪0.054.152․214</div>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4564 8368 4371 6402 +39231365110
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

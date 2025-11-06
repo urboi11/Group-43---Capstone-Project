@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kelly Gill</td><td>luismorris@( lyons․com )</td><td>+1‐7𝟦1‐2𝟶𝟧-𝟣808</td><td>13-02-2005</td><td>4746226964𝟶7𝟨386</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 00668ea0-0207-4773-82e1-7e9ca9eecd67 +22994716372 5f97210324813f4788cffb5c15c2a84752d1822f YWJjYWJjYWJj

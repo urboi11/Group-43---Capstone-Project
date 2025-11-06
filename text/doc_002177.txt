@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Bradley Torres,justinking at bird․cоm,374 51𝟩  ․  𝟩8𝟫5,𝟣8‐03-1𝟫𝟦9,2𝟶2 Hоward Inlet, Port Stevеnfurt New Mexiсo 908𝟩3,Sосіal Security 233-1𝟶‐2350,45𝟧7·50𝟪4·80𝟪𝟶·1𝟪78,2fаb:90ac:𝟤𝟪83:32f9:3b𝟨0:fd36:9f7с:8b71

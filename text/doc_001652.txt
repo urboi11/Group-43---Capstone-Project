@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Amanda Tran", email: "fgomez@mail.young.сom", phone: "+𝟣 (65𝟫) 𝟧2𝟥-4271", dob: "1949-11‐𝟣𝟦", addr: "170 Leah Mill, Jonesmоuth, GA 38𝟤31", ssn: "SSN:35𝟦-44-8620", cc: "466𝟩 9597 50𝟤5 49𝟣7", ip: "df𝟫8:92e𝟦:4a3f:c80d:3b1a:e9fc:𝟨60f:1218" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

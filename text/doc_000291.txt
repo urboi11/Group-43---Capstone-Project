@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sheila Smith</td><td>joеlharris＠( mаil.sanchеz.сom )</td><td>962–420–6002</td><td>21/0𝟤/19𝟫2</td><td>4480-15𝟥7-3586‐𝟨715</td></tr></table>

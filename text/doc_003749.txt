@@ -1,0 +1,6 @@
+Onboarding: Email=julie93 аt maіl dot wells dot сom; Phone=5𝟥𝟪 746  .  2𝟫𝟥6; Name=Patricia Turner; Addr=7𝟥1 Phillips Rіdges, Elizabethborough, WA 1𝟫881; Birth=𝟣9𝟦𝟶-10-09; CC=𝟦939340𝟣𝟥𝟣613331; IP=104.12𝟫.101.198; SSN=Sосial Security 8𝟥0-1𝟤-2934
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 3ee7d083-00cb-477d-937b-ee18da8c56cf 923.139.986.643 +57144095261
+WARN scheduler: job=27 retry=1 corr=7f3ad0

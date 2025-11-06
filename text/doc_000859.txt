@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Nicholas Riddle</td><td>kristуmоore(at)mail.thomas.com</td><td>+𝟣 (717) 243-𝟧𝟧90</td><td>31/0𝟪/𝟣988</td><td>47𝟤𝟧‐81𝟣4-1689-𝟧064</td></tr></table>

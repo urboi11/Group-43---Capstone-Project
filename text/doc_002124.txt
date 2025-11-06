@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 568.28.696.970 69-28-1374

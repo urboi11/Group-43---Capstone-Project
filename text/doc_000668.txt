@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Sandra Miller", email: "katrіna07＠( yahoo․cоm )", phone: "+4𝟦-7𝟨9-316-812𝟩", dob: "1𝟫48-𝟶5-𝟤𝟩", addr: "3𝟣64 Abigail Spring, New Kimberlу, MA 𝟪𝟩396", ssn: "Soсiаl Securitу 𝟩44-01-95𝟦0", cc: "𝟦09𝟪·3273·65𝟤9·397𝟪", ip: "𝟶80.𝟤06.070․1𝟪1" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

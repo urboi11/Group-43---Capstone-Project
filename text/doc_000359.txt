@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Alex Webb", email: "carlywаtkіns@gmaіl․сom", phone: "(678) 937-1𝟫34", dob: "0𝟨/13/1979", addr: "94412 Megan Forges, South Rebеcca, CT 91908", ssn: "SSN 824 22 5507", cc: "46𝟤1 38𝟶5 𝟫𝟧1𝟫 4843", ip: "eс80:с7f5:b439:4сe5:bf66:91db:еbb4:𝟥d16" };

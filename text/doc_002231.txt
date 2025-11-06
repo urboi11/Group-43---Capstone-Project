@@ -1,0 +1,3 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +53726684403 lisamiller(dot)Patel(at)martin.net 30-41-1818 4617 4027 1428 3927
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

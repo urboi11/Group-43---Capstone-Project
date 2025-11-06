@@ -1,0 +1,4 @@
+Jennifer Smith | 𝟶𝟣/𝟣𝟤/1𝟫86 | 7113 Michael Stravеnue, Hamiltonhavеn Oklahoma 1𝟫9𝟨7 | SSN:𝟤44‐46-5𝟫0𝟣 | robinsonjames аt mail dot lawrence-walker dot com | (972) 698-𝟪872 | CC:4414·9940·8𝟦𝟦8·6444 | IP:01𝟤.181.208.2𝟥𝟧
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

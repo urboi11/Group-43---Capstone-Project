@@ -1,0 +1,4 @@
+{"name":"Patricia James","email":"lawrencejustin@( mail.jоrdan.com )","phone":"312 𝟨𝟥5-3795","dob":"𝟣4-𝟶𝟫-2001","address":"6688𝟤 Jennifеr Square, North Elizabеth, ОR 1𝟫𝟣41","ssn":"𝟣12‐45-3401","cc":"4973786𝟪90335𝟨30","ip":"144.33.100․98"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,4 @@
+name,email,phone,dob,address,ssn,cc,ip
+Patrick Perry,аnnemоrris@gmail.сom,+44-𝟫𝟪2-614-2𝟪1𝟫,21/𝟶8/199𝟪,975 Valencia Village Apt. 1𝟤𝟥, New Juan, TX 𝟫5220,493‐𝟧𝟤-0644,4031·7𝟫15·42𝟨1·𝟶8𝟣𝟶,a749:6c7d:𝟣а3𝟧:2cb0:43𝟫1:b𝟦b7:7373:1𝟪cc
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 26-72-6831 4b4096915db6db33b19489b994f6e28471b44ec9 acd530fc-0827-4950-8f93-445295802226 862.203.246.760

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Julie Hamilton", email: "wsanders(at)olsen‐johnsоn․оrg", phone: "360 383  .  𝟦𝟤71", dob: "2𝟩-11‐1963", addr: "𝟶738 Green Lodgе Аpt. 52𝟣, Cooleyborough DC", ssn: "SSN 83𝟩 𝟦5 5467", cc: "4585412101616870", ip: "238.07𝟦.1𝟣6.𝟣67" };

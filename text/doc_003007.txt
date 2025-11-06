@@ -1,0 +1,2 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: nathandavis(dot)Hicks(at)herring.com b74e2d02-8ed2-4c9d-9ee0-04e8e27b1de4 98bbed2c1c794202e0c4b98fda9be81b55592709

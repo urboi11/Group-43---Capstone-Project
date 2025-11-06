@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Roy Garza</td><td>yknіght(at)gіlbert-santana․com</td><td>+33-𝟪91-𝟫74-35𝟤8</td><td>0𝟫/02/1998</td><td>4436·𝟩8𝟤𝟶·𝟨1𝟩5·698𝟨</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 961.729.237.168 YWJjYWJjYWJj 94-27-4603
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+Terry Garcia,rjohnson@( miller.cоm ),+𝟨1-𝟣48-𝟤32‐5721,01/17/1𝟫52,73𝟣9 Rоbеrts Locks Apt. 𝟣5𝟤, Rosаriobury, WV 𝟫44𝟪2,SSN 6𝟥1 𝟦9 𝟶688,4𝟩321𝟦6𝟣89030453,4𝟧7:f9dc:𝟩9𝟩𝟣:𝟧94а:52fe:7𝟨2е:87𝟶5:cfca
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

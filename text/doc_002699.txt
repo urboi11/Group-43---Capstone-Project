@@ -1,0 +1,3 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +88717144622 kimtammy(dot)James(at)jones-bass.com YWJjYWJjYWJjYWJjYWJjYWJj
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

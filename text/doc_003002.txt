@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: hstrong(dot)Knapp(at)sanchez-wolf.com YWJjYWJjYWJj
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: bryan(dot)Small(at)keller.org 076062c20d0c2a26f750935d310240d3e630341a +25950562805 2bdcdd05-d33f-4398-9235-6a3429bfbda7
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

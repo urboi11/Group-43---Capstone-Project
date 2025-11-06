@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jody Rogers", email: "qpadilla@( hotmail․cоm )", phone: "(70𝟧) 2𝟨0-𝟦𝟩06", dob: "Dec 14, 1𝟫𝟥𝟦", addr: "6𝟶385 Mаrtin Throughway Apt. 3𝟣3, New Christine NE", ssn: "SSN 525 47 8𝟥86", cc: "4011349976224𝟧𝟨𝟪", ip: "034.129.085․214" };

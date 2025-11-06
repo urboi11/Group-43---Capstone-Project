@@ -1,0 +1,7 @@
+name,email,phone,dob,address,ssn,cc,ip
+Sandra Johnson,susan9𝟩＠＠hotmail.com,882.814․7584,0𝟥/15/𝟣9𝟦2,617𝟶 Theodore Crescеnt, West Ryan, WI 𝟫3855,Sоcial Security 267-6𝟣-7329,41𝟫0 1𝟨1𝟧 8864 70𝟨𝟩,c8𝟩𝟪:𝟥𝟫2c:𝟨a𝟨3:883f:e980:fb48:95c8:2𝟧db
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 30e0aeb974371c44f7f38f572eb7046ff542b3c2 18-58-3242 79121089-b950-4ea7-b006-7357aad5e1a4
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

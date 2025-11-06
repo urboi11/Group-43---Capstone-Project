@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Michael Carter</td><td>cummingsstephanie at уu-garrison dot net</td><td>𝟤𝟥𝟩–𝟧9𝟧–6𝟧4𝟶</td><td>14-1𝟤-𝟣937</td><td>428𝟫 𝟪683 2120 8𝟨𝟣𝟩</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4741059394815043 YWJjYWJjYWJjYWJjYWJjYWJjYWJj 17ad04bdcd0d6b9ec0fa2521294c54c993048b91 e44e923a-8643-4ed7-9d30-24fcb864aaf7
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

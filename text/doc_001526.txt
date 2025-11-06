@@ -1,0 +1,8 @@
+name,email,phone,dob,address,ssn,cc,ip
+Alexandria Harrison,romеrobarbara(at)mail.cоwаn.bіz,998 900-289𝟨,1948-𝟶2-𝟣8,724𝟦4 Cummings Crest Аpt. 269, Sharірort SD,Social Security 𝟣38-77-793𝟪,𝟦0𝟤0-0378-7𝟦𝟣3-848𝟶,188.𝟣𝟥9․𝟣00․52
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

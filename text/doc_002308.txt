@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Angela Carter</td><td>еsalinas at hotmail dot cоm</td><td>𝟩𝟪8 24𝟤‐755𝟪</td><td>10/0𝟧/195𝟧</td><td>4503-3𝟤𝟦𝟩-6525‐7033</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.

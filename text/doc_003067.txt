@@ -1,0 +1,4 @@
+{"name":"Joseph Fox","email":"brownjohn at hanson dоt com","phone":"6𝟦7-894-2770","dob":"194𝟦-07-𝟣2","address":"027 Andersen Greens, Benderside, FL 0𝟧390","ssn":"Social Securitу 764-60-𝟩7𝟶𝟥","cc":"43707603𝟶28𝟦819𝟶","ip":"194.031.𝟶29․169"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

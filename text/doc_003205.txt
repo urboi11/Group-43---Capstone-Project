@@ -1,0 +1,10 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +49365330078 204.183.508.353 89-20-6846
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

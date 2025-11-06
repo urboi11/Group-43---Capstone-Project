@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sherri Jackson</td><td>plittle at уаhоo.com</td><td>+𝟦𝟫 527 33𝟶 939𝟦</td><td>1953‐1𝟶-06</td><td>𝟦909-713𝟩-3884‐95𝟪𝟫</td></tr></table>

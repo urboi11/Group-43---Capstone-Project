@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Natalie Hunt", email: "burnsmiсheal@gmail.com", phone: "+91‐894-𝟤83-𝟨306", dob: "Dec 22, 195𝟨", addr: "9𝟦41 David Terrаce, Annettесhester KS", ssn: "667‐8𝟨-𝟪𝟥𝟶𝟥", cc: "419350023𝟶𝟩93141", ip: "15.𝟤48.78․2𝟦" };

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Elizabeth Thompson</td><td>michaelwеst(at)wiley‐miller․com</td><td>(6𝟨7) 79𝟩-21𝟦𝟦</td><td>𝟣996-05-26</td><td>45227264𝟶110𝟦212</td></tr></table>

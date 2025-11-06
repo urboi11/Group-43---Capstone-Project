@@ -1,0 +1,5 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +96469285420 5a5fe60333ee9554549e82a562593aaa3c4ba235 283.417.51.670 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +71437369333 4049 8951 9939 4924 eed5a96b-bcda-4894-81c5-e090f2b5d00c

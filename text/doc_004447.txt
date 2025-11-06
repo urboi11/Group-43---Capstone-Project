@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Christian Quinn", email: "fsavage@saunders-aguilаr.net", phone: "7𝟫𝟩.𝟫6𝟥.4𝟪8𝟣", dob: "𝟣946-01-05", addr: "4676𝟧 Foster Ranсh, North Erinfort, MA 8𝟣572", ssn: "700𝟫586𝟶5", cc: "4851·𝟥𝟦58·0637·𝟤729", ip: "085.19𝟪․04𝟣.2𝟧1" };

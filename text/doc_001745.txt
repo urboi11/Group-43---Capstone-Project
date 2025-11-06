@@ -1,0 +1,3 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: christopher23(dot)Hobbs(at)morrow-steele.net fcd19254235b431c873e2fdcb01c0e883f28fe3a

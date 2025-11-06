@@ -1,0 +1,2 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: ebbfbf13b5319cb725a0dd1b249469f4008b752f +7413707852 petersvictoria(dot)Smith(at)leblanc.biz 7e0b7220-d6cc-4dc2-9a29-a160d1a362e5

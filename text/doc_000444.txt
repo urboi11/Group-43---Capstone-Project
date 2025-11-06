@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 19f620a2-26bb-4675-ac6a-e5e1443cf3a1 fergusontrevor(dot)Downs(at)williamson.com
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Changelog: refactor module, update dependencies, and improve logging verbosity.

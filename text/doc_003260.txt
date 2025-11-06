@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Taylor Patel</td><td>morrowbradley＠＠yahоо.cоm</td><td>+1‐2𝟩𝟦-924‐54𝟶7</td><td>Aug 20, 19𝟦9</td><td>4614 619𝟧 𝟨935 2328</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4551-8352-6695-5264 +94866836590

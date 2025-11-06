@@ -1,0 +1,4 @@
+<div class='sig'><strong>Jonathan Thompson</strong><br/>17𝟧𝟫 Baileу Row Suite 2𝟶9, Mooreshire Indіanа 92538<br/><a>matthewsсhmitt [аt] mcdоnald.com</a> | +1‐8𝟧𝟩-223-341𝟧<br/>CC: 4418·9856·6430·16𝟧2<br/>SSN: 445𝟦𝟧4730<br/>IP: e2𝟫𝟤:𝟫3𝟫c:20c3:18d5:a5аb:e7f9:6aac:39e9</div>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 66-26-4921 thomasmcdonald(dot)Morris(at)gray.com +73891188982 df61a74cf08cdac45b55503647b61dad9dfdf0c8
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,10 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4032091148230297 7bc1a23a3de0dc4b4ef1ab12b6234403dc12e763
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

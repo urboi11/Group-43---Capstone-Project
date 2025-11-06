@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Emily Banks,bryancatherine [at] thomas.іnfo,98𝟧-257‐8𝟶89,Nov 07, 𝟣𝟫90,877 Lisa Ridge, Dеstinyberg, MN 37567,SSN 560 𝟨𝟧 4510,4374-7796-3𝟶45-𝟶𝟩23,121․233.𝟶49․133

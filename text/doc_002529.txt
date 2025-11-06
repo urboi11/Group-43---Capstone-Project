@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Bradley Moore</td><td>wcherry at jones dot nеt</td><td>+𝟣 𝟦96 70𝟶 2997</td><td>Nov 30, 19𝟨4</td><td>4𝟦04 4661 5085 2215</td></tr></table>

@@ -1,0 +1,6 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJj a3b17835ab5839ba3f4816b4dfd92d481fdd8bfd deborahgreen(dot)Haynes(at)ferguson-jones.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

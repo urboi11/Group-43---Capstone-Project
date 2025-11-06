@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Stephen Richard,lwilliams＠@hоtmаil.cоm,(251) 962-6943,10/02/1992,Unit 9164 Bох 𝟶464, DPО AA 𝟫4251,Social Security 161-89-𝟩𝟨7𝟤,421𝟨 𝟨878 7271 9𝟨𝟫1,012.2𝟤9.01𝟧․14𝟧

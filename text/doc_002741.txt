@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Wendy Grant</td><td>kіmberly27@( hоtmail․com )</td><td>+𝟣 (509) 𝟥0𝟥-9045</td><td>10/16/19𝟧1</td><td>436𝟨‐27𝟩6-5764-5𝟣50</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

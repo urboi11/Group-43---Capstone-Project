@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Lisa Buchanan", email: "sоnia62@( powell.com )", phone: "492 472-3𝟤17", dob: "𝟶5/02/1𝟫𝟥7", addr: "4321 Heather Rivеr, Jеssicahaven OK", ssn: "895-06-6𝟥93", cc: "43𝟦0‐62𝟶1-𝟨63𝟥-4𝟶17", ip: "031.𝟣𝟫0.233.22𝟩" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 312.920.375.76 4911 6479 2464 2991 +95140270585 YWJjYWJjYWJjYWJjYWJjYWJj

@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +4716152681 ee2496e2e0a98a386df5c325606ad327f28a0053 655.479.590.48 57-50-3421
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

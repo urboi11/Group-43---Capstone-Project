@@ -1,0 +1,4 @@
+name,email,phone,dob,address,ssn,cc,ip
+Dustin Friedman,gonzalezderrісk@( ford.com ),6𝟧0 𝟦71-6799,19𝟦𝟨-01-15,87𝟩60 Tеrry Statіon, Sоuth Ricardo, WA 5𝟧718,SSN:34𝟫-𝟥2‐8𝟶43,431𝟶·39𝟨4·0673·60𝟣𝟨,03𝟤.064.1𝟥𝟶.065
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 347.215.38.697 cebe680b-f87c-41e9-9cf7-50c010806a0a

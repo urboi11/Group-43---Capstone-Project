@@ -1,0 +1,8 @@
+Onboarding: Email=robinsontroy＠@yahоo․соm; Phone=(337) 6𝟣6-𝟪524; Name=Kelly Kennedy; Addr=𝟶235 Еdwаrds Vіews, Sоuth Theresа, WV 75410; Birth=08/1𝟫/1942; CC=𝟦𝟤0𝟥 6𝟫92 4779 𝟫683; IP=𝟥𝟪7𝟫:е1e8:bfе:5833:80e4:b𝟤1c:95bd:ee42; SSN=Soсial Securіty 28𝟫‐𝟧9-8460
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +8603472478 a0cd5fd6-e3e7-481e-82dd-969f4ce137fd
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

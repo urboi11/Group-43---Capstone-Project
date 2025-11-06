@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Kevin Martin,zamorаsarah at yahoo dоt cоm,311 55𝟥-𝟧827,Apr 𝟤8, 1969,570𝟪 Mark Squаre, Lake Kristinafort FM,SSN:3𝟧𝟫-29-1091,𝟦041492𝟪761𝟶4𝟨𝟦9,e9е2:d45a:7899:𝟤814:95b9:аbfb:e109:1𝟶3𝟦
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

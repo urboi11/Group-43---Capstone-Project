@@ -1,0 +1,4 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: fc9473624ddcda098b4ad4b5650717c2e69dc911 4578·5371·3724·3771 73-37-9480
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

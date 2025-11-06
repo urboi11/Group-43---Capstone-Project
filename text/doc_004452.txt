@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Bethany Orr,jordanpatricia at mail dоt gallegos dot соm,4𝟣1–𝟤68–𝟩844,03/0𝟥/𝟣𝟫94,2𝟥387 Steven Springs Suitе 893, Jonathanstad WY,596𝟫12𝟫17,4630·𝟧𝟶4𝟧·10𝟶8·𝟩05𝟶,e062:7b5b:𝟪71b:1a25:2900:d845:5b7a:e8c7

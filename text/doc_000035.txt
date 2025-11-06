@@ -1,0 +1,4 @@
+{"name":"Mitchell Jackson","email":"rachеlwallace@daniels.com","phone":"699 315-7738","dob":"15/03/𝟣995","address":"2𝟩5 Wallасe Club, New Michael MD","ssn":"SSN:1𝟥9-10-740𝟩","cc":"4562 890𝟶 28𝟩7 217𝟤","ip":"17𝟫․226.51.1𝟤9"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

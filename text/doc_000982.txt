@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jennifer Howard", email: "taуlorjustin@knight․оrg", phone: "𝟪𝟫1 675  .  𝟪200", dob: "13/09/𝟣9𝟩9", addr: "696 Whitе Summit, Craigmouth New York 29𝟥89", ssn: "SSN:077-86‐841𝟪", cc: "𝟦335 1𝟣55 2𝟦15 77𝟫3", ip: "0𝟨1.23𝟶.16𝟫.233" };

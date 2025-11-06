@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: george68(dot)Clark(at)valencia.com 4424338745739948 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

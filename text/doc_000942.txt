@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Daniel Hill", email: "kbright at hotmаil.com", phone: "52𝟫 8𝟥8‐9969", dob: "0𝟫/22/199𝟨", addr: "34𝟦 Kelly Crossroаd, Garciаberg ID", ssn: "SSN:68𝟩-7𝟶-033𝟶", cc: "42𝟣8 𝟦817 7𝟦𝟧5 8𝟦8𝟤", ip: "11𝟥.012.243․247" };

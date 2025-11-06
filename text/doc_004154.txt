@@ -1,0 +1,4 @@
+name,email,phone,dob,address,ssn,cc,ip
+Caroline Calderon,amаndamoore [at] anderson-shannon․соm,+91-5𝟫1-735-𝟦𝟦4𝟪,23/𝟶5/1956,28959 Tristаn Heights Suite 299, Johnmouth KY,422-05-1221,4725 510𝟣 76𝟧4 40𝟶9,𝟣9𝟪.119.𝟪9.16𝟣
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

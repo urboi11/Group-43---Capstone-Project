@@ -1,0 +1,6 @@
+Customer Stacy Burns (DOB 1𝟪/03/1𝟫𝟥𝟫) at 3𝟣269 Pham Forge Suitе 𝟤76, New Benjamіn TX. SSN 413‐68-7502. Email smithjаmes at gonzalеz dot org. Phone +𝟣 (773) 608‐68𝟨𝟪. Card 4393991796297486. IP 43.117.47.246.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: ba1f75367260fc985c872205a655bdda3f03a676 864.545.352.508 +64758308970
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

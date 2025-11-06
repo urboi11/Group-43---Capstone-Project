@@ -1,0 +1,11 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: jacksonbradley(dot)Meyers(at)garza.net 576.64.459.171 8dc1b6aa-f5a1-4407-a28f-779f88c9c081
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

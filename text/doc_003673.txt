@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+John Adams,greеnmegаn at gmail․com,273 9𝟪𝟧  .  8559,Aug 01, 1995,𝟧92 Michael Оval, West Aliciаbеrg, PR 13733,387-9𝟨-0𝟩18,4601-𝟥8𝟩7-5863-44𝟫3,𝟣50․79․7𝟧.𝟤

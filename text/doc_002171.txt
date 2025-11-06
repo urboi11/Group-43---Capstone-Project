@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Brittany Franco", email: "hoрkinscheyennе@hotmaіl.com", phone: "+𝟣 𝟤02 64𝟩 11𝟨1", dob: "𝟥1/03/197𝟶", addr: "𝟥𝟣1 Lisa Cove, West Andrea, IA 0𝟧𝟤0𝟤", ssn: "SSN:𝟤75-0𝟥-1𝟥35", cc: "4607·5𝟩58·𝟫𝟫4𝟧·929𝟣", ip: "f𝟣57:сe33:b722:a𝟫5c:894:70d5:dff9:a0b9" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 559.478.704.777 4100908020439938

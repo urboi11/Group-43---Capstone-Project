@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Karen Hicks", email: "angelahowell@( mаil.steele.com )", phone: "𝟨𝟨1–𝟥89–3𝟨5𝟧", dob: "𝟣𝟫7𝟨-06‐24", addr: "53𝟣6 Elizabеth Tunnel Suite 97𝟶, Garnershіre RI", ssn: "SSN 574 87 𝟶130", cc: "𝟦825-0853-9𝟤𝟨6-5507", ip: "221.12𝟫.03𝟨.𝟶𝟪9" };

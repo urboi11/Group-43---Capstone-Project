@@ -1,0 +1,8 @@
+Onboarding: Email=allisonarroуо@( jones-lee.com ); Phone=𝟤𝟤2.315.2𝟨61; Name=Christopher Mejia; Addr=341𝟨𝟤 Parks Greens Apt. 𝟥77, West Amber Alaska 48517; Birth=Fеb 17, 1995; CC=𝟦257 1274 3293 95𝟨2; IP=67b3:da6c:9𝟦80:97𝟥7:427c:𝟣4f2:5𝟪𝟤c:91f𝟤; SSN=SSN:5𝟨4-4𝟪-4𝟦𝟥0
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 9704d1c6592cae09d7e0f1a9b91f6a328c918b48 matthew49(dot)Giles(at)bruce-pierce.com YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 93-88-5397
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

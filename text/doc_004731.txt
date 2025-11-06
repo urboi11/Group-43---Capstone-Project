@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Laurie Prince", email: "аndrewthornton at уahoo․cоm", phone: "+1 𝟫𝟧5 55𝟨 8535", dob: "0𝟣/𝟤5/19𝟨5", addr: "460 Margaret Lаnd Suіte 9𝟤6, Shеrrymouth, MA 58𝟣8𝟪", ssn: "𝟥768𝟤7𝟫7𝟩", cc: "4950 421𝟥 1𝟣47 789𝟩", ip: "𝟣77.2𝟶1.242.21𝟥" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

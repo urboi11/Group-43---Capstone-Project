@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: foleythomas(dot)Miller(at)flores.com 4344617355507989 ee8ea8c0e27636f775e88f4ea0f8ceae7ccbc17e
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: qhart(dot)Francis(at)anderson.org 4486510909894359

@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Matthew Cobb", email: "mortega аt yahoo dot com", phone: "+44-692‐429-4𝟨07", dob: "0𝟧/14/2000", addr: "804 Еlаіnе Path Suіte 567, New Theresa, PR 56898", ssn: "SSN:563-17-𝟥072", cc: "4244·𝟦950·3286·𝟫𝟪02", ip: "𝟤14.1𝟨8.54.190" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

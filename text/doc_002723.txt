@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jeffrey Reese</td><td>prattkatrina [at] mail․cole.info</td><td>+𝟣 7𝟨5 73𝟶 20𝟣0</td><td>02/𝟶2/200𝟶</td><td>𝟦𝟤𝟩1·89𝟦6·8𝟦2𝟫·𝟦903</td></tr></table>

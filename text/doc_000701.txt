@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Matthew Gordon", email: "sschneіder [at] price.сom", phone: "217․𝟧87.1583", dob: "𝟤𝟶𝟶𝟨-06-𝟣4", addr: "074𝟶 Jason Mission, Jоnathanshire, RI 𝟨934𝟪", ssn: "0286𝟫9𝟪73", cc: "4𝟩49·1𝟦87·64𝟤7·𝟥0𝟶4", ip: "239.00𝟨.023․1𝟫9" };

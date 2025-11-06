@@ -1,0 +1,3 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: da7c2256-68f0-41e7-9219-d23bc7d059ba 81-43-9702
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

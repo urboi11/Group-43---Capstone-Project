@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Donald Fischer</td><td>william57 [at] yahoo.com</td><td>215 476-1𝟤02</td><td>19𝟥8-1𝟣-0𝟪</td><td>4𝟶01·73𝟣3·𝟣271·0610</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +57455492299 29c156bc-fbb1-477a-9ebb-00fcbc4a2e41
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

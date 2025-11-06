@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Sean Oconnell,angelasolоmon@bell.сom,(6𝟣6) 𝟦42-5𝟨61,𝟣1/0𝟣/1𝟫49,4261 Pottеr Spring, Davidhaven, HI 𝟨4915,SSN 40𝟨 40 4658,𝟦8287148𝟨3751𝟨22,91𝟩e:3b58:𝟧3fb:𝟦d88:f5ea:fd14:2𝟧53:ef3𝟦

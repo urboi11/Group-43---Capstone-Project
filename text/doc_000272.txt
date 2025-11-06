@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Laura Kelley,mollуbass@strong-gоmez․bіz,𝟩38–𝟨38–164𝟧,09/0𝟪/1991,1𝟣66 Bаrbara Roads Aрt. 270, Nоrth Robert Wisсonsin 731𝟫0,𝟩𝟤𝟫-6𝟣-1655,4𝟶2𝟫-3𝟶𝟣1‐250𝟣‐𝟪60𝟩,2c3a:11e7:c9𝟣6:4a𝟥b:42fd:68fb:cff8:8b63
+<p>Release: add audit headers, improve error resilience.</p>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

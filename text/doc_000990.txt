@@ -1,0 +1,8 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 25af3214a5f1d344c1d3958ad829a572695e6760 650.456.978.208
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 460bb92435946a8c21d038177cfd347be300663c claudiaglass(dot)Cannon(at)sullivan.net 67-57-1145
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

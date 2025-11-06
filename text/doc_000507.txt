@@ -1,0 +1,8 @@
+name,email,phone,dob,address,ssn,cc,ip
+Kristin Taylor DDS,travis24 [at] nichols‐martin.com,(278) 88𝟥-10𝟶𝟩,17/05/1949,01283 Stephen Burgs, Lake Nаtashaburgh, ID 17167,Social Security 76𝟤-81-3359,4𝟫2𝟤-0925‐13𝟫0‐0294,40.19.242.249
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

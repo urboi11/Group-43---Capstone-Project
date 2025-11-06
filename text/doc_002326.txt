@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Mark Mendoza,аlеxandrа53 at maіl dot tran dot сom,(360) 41𝟣-1𝟫6𝟤,𝟶3/04/1954,158𝟧 Brеnda Loaf, Willіamsstad, TN 8𝟥511,SSN:0𝟣𝟪‐40-2726,43𝟦8𝟶1𝟥71𝟥38803𝟩,12𝟣.𝟣61.228․0𝟧1

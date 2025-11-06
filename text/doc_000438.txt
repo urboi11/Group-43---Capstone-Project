@@ -1,0 +1,6 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4741·0506·8590·2332 fed46e35-1891-4896-a848-849e0dacf645 +63117881196
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

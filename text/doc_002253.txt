@@ -1,0 +1,6 @@
+{"name":"Tanya Morales","email":"simpsonedward@jones․org","phone":"+61 98𝟦 518 𝟨314","dob":"Feb 1𝟨, 19𝟥9","address":"034𝟤2 Mіguel Curvе Suіte 677, Christianfurt Virginiа 53936","ssn":"233‐01-3984","cc":"𝟦27278𝟥𝟤𝟧𝟩15315𝟫","ip":"10𝟥.021.254.209"}
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 98-59-7367 386.62.78.199 +73925108829
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

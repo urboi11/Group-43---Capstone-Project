@@ -1,0 +1,3 @@
+{"name":"Lauren Cunningham","email":"tkhan [at] gmаil.com","phone":"𝟧01–2𝟪9–58𝟦𝟦","dob":"20𝟶6-07-11","address":"39𝟣99 Taylor Run, Zimmermаntown, DC 73𝟥72","ssn":"760-𝟩8-4669","cc":"4838·0619·1971·25𝟨4","ip":"003.050․197.23𝟶"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: kelsey53(dot)Ray(at)cole-walsh.com 0755cdb0cd55e51c7ffeb0fe1a790b490e3a9f5b b70196c2-f280-4c8b-ba15-5c7b39f508b9

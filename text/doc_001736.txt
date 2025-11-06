@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: ce50c5784b6c5246fd5b74307bdd2cda8f4110f5 +8639810292 838.677.764.666
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 9d307bb481fb76b5ce4f280c647fa65d464eb7b5 238.239.481.173 dd6322a2-681b-473b-810a-404010b6100e jenniferstout(dot)Cline(at)huffman.com
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

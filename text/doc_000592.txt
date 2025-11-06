@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Amber Rice</td><td>cortiz@@gmail.сom</td><td>+𝟣 (54𝟪) 98𝟩-3949</td><td>07/𝟶9/1985</td><td>4742-𝟶050-2𝟫40-7990</td></tr></table>

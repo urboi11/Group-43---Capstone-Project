@@ -1,0 +1,6 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: zcrawford(dot)Walls(at)brandt-klein.com 1865947b57821318bf56d79f0af05e55d4a85cbd 4353 1128 0854 7073 YWJjYWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 1a6a9ebf-82aa-48c8-b3de-d5154d7ed020 YWJjYWJjYWJj 51-78-2844 +76718858240

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Shawn Curtis,rjohnson [at] mail․rіley․com,+𝟦9 58𝟫 437 𝟪771,Aug 20, 1941,𝟣7𝟧𝟣7 White Via, South Brаndоnsіdе FL,SSN:783-99-4𝟦𝟩2,𝟦298-01𝟩6-9𝟤𝟤𝟶‐1251,26𝟪d:9cb4:5f4d:4𝟦ff:b0f1:9333:6𝟶fb:2099

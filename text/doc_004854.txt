@@ -1,0 +1,5 @@
+{"name":"April Hall","email":"davidbecker＠@atkinsоn-lester.com","phone":"+44 𝟦59 589 508𝟨","dob":"19𝟧2-01-𝟶6","address":"𝟣𝟪𝟪89 Benjamin Passagе, Darlеneburgh, IN 2𝟶8𝟫5","ssn":"SSN:868-7𝟩-4381","cc":"48𝟶9-7827-6012-2844","ip":"2𝟤9.1𝟨𝟦․𝟣09.0𝟧7"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 325.856.267.293 griffinkevin(dot)Chase(at)mccarthy.info YWJjYWJjYWJjYWJjYWJj

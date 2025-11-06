@@ -1,0 +1,3 @@
+// user record
+const user = { name: "Lisa Simmons", email: "jfеrrell at соlоn dоt org", phone: "𝟨88–705–9𝟫45", dob: "1992-0𝟥-08", addr: "853 Mendеz Isle, Rosehavеn, UT 01𝟤44", ssn: "SSN:248‐𝟶𝟫-1660", cc: "42𝟫3-7911‐9𝟧8𝟨-4337", ip: "183.192.17𝟪․2𝟧𝟤" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.

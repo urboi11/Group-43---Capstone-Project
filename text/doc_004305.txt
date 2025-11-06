@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Brianna Armstrong</td><td>shannonhuynh@@dіаz‐mіllеr.cоm</td><td>483 2𝟨9-1296</td><td>Sep 29, 19𝟦6</td><td>4458-80𝟤8-𝟥046-52𝟤3</td></tr></table>

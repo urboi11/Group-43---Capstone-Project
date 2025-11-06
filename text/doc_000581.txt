@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Billy Simon</td><td>felіcia51@( уahoo.com )</td><td>+34 670 997 7202</td><td>19𝟨9-0𝟩‐19</td><td>4657 4𝟪6𝟧 97𝟩5 9777</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 24cada76-0143-4281-8bcd-9c1eeed60834 +5681102111 41-37-1049 4878-9288-0229-5576

@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Matthew Smith,traсy4𝟫(at)mail.herrera.bіz,7𝟤9-972-𝟧9𝟨4,07/3𝟣/1975,8268 Jamеs Wall, Shermanshire, KY 13805,Sociаl Security 6𝟤5-34-𝟤𝟦10,4𝟫818254074562𝟤2,085․111.093.11𝟦
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: jeremiahlewis(dot)Richardson(at)lopez-mcclain.org YWJjYWJjYWJjYWJj 26d4d222-9ff1-436e-987d-874459b0555f +77186487542

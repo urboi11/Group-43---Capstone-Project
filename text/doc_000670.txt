@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Travis Schneider</td><td>bsmith(at)уahoo․com</td><td>(401) 414‐2931</td><td>Sep 17, 19𝟫7</td><td>4197𝟦3950444920𝟥</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

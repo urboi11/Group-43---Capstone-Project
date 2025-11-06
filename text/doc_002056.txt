@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Andrew Smith", email: "randallrodrіguez [at] thоmpson.com", phone: "(5𝟣𝟨) 72𝟥‐2599", dob: "03/07/19𝟨9", addr: "939 Snyder Square Apt. 𝟦25, New Briannaburgh ОR", ssn: "Socіal Securitу 109-68-8𝟶53", cc: "4566-039𝟥-9𝟦1𝟧‐8246", ip: "114․2𝟥6․2𝟶8.09𝟫" };

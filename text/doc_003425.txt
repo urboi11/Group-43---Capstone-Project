@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Daniel Barnes</td><td>todd69 [at] rodriguez.cоm</td><td>(388) 83𝟥‐1899</td><td>03/15/1𝟫𝟩8</td><td>4603‐𝟫062-141𝟶-6149</td></tr></table>

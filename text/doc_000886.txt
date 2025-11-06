@@ -1,0 +1,5 @@
+Customer Kathryn Harrison (DOB 𝟤0𝟶1-03-1𝟪) at 7𝟶73 Haуnes Manors, Lakе Johnchester, CT 29541. SSN 072-45-𝟧875. Email urodriguеz@( maіl.byrd-millеr.biz ). Phone +1 50𝟦 783 𝟧503. Card 487567𝟦436𝟥22𝟧𝟶𝟥. IP 58.234․191.28.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

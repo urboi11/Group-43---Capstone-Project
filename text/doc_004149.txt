@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Monica Nelson</td><td>lаuren4𝟫 [at] gmail․com</td><td>+𝟦4-49𝟫-959-890𝟤</td><td>1𝟫93‐10-𝟤2</td><td>42𝟨2·41𝟣𝟫·𝟤524·1261</td></tr></table>

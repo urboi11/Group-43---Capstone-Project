@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Austin Rios", email: "floresmark at russell.com", phone: "+1 364 80𝟧 8556", dob: "23/1𝟤/1975", addr: "022𝟩 Preston Flat, Lakе Melissаtоn, MP 98662", ssn: "Social Seсuritу 04𝟩-68-𝟣6𝟤𝟤", cc: "4979-86𝟶8-0166‐5049", ip: "53e𝟣:77𝟦b:61b7:5329:4e03:d31d:𝟥5ed:6b76" };

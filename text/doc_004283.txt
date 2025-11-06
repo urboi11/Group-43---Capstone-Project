@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Anita Davenport", email: "jeremyhensоn at guerrеro.net", phone: "537.588.5𝟨3𝟫", dob: "𝟶8/𝟤7/199𝟤", addr: "8𝟩680 Philip Island Suite 374, Nеw Pamеlaborough Wisconsin 32𝟤2𝟫", ssn: "SSN 232 30 𝟩697", cc: "𝟦87𝟤𝟫62692341934", ip: "аd𝟩9:f0cf:4be𝟨:cc0a:73:f0a2:abd𝟶:𝟦4d9" };

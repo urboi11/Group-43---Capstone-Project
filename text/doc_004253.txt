@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>David Graham</td><td>brаndonbоoker＠( yahoo.сom )</td><td>𝟫3𝟪-7𝟣8-9508</td><td>𝟤2/05/193𝟧</td><td>42𝟣0 7𝟥9𝟫 969𝟩 𝟦1𝟫𝟥</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJjYWJj 17-24-5446 4534-0927-1190-9465 0c7bfac5-53bd-478a-b7a7-022a5e39aa97
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

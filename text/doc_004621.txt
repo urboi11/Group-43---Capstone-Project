@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Wendy Case", email: "shеrrу𝟨9 at hotmail.com", phone: "𝟩𝟦2-𝟥00-3751", dob: "07/22/194𝟣", addr: "609 Gary View, West Robert, CА 50129", ssn: "SSN 𝟦87 82 5359", cc: "𝟦986 4964 5319 462𝟥", ip: "аbc7:190а:𝟫362:c73c:167𝟫:b5a7:3ed4:5𝟨35" };

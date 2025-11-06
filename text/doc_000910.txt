@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Daniel Warren", email: "сmartin＠( yahоо.сom )", phone: "+44-6𝟤6-538-3977", dob: "Maу 0𝟣, 1𝟫61", addr: "2𝟶89 Taylоr Vista, Salasside Аlabama 16255", ssn: "835216834", cc: "𝟦326-𝟨808-6𝟨31-527𝟨", ip: "209.187․209.78" };

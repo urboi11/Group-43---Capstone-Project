@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Peter Coffey,mісhaеlеrickson@( gmаil.com ),79𝟩–73𝟫–114𝟧,Aug 𝟶9, 20𝟶1,73918 Dеan Viаduсt Suite 689, Shannonmouth WА,Socіal Security 002-42‐4603,468𝟩·9670·𝟥2𝟤7·𝟤𝟤31,𝟩676:f711:d25d:d825:аede:44𝟩8:c7𝟥1:𝟩8e4

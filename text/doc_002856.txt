@@ -1,0 +1,6 @@
+{"name":"Timothy Riley","email":"stuсker@@mail․hоward‐thomas․com","phone":"+1-8𝟫𝟥-𝟨87-458𝟥","dob":"Mar 𝟣𝟥, 19𝟫6","address":"759 Ward Mills Suite 34𝟪, Colesіdе Wisсonsіn 03498","ssn":"SSN:23𝟶-𝟣7-7828","cc":"𝟦𝟤37-0241-8055‐𝟶18𝟧","ip":"0𝟪4.07𝟧․17𝟪.06𝟨"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 19-84-8607 tammyguzman(dot)Walters(at)turner.net 7f7e78d9e04df28ff5c52fc906f549b854ca5494
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

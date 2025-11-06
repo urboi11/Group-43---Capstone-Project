@@ -1,0 +1,6 @@
+{"name":"Nicole Schultz","email":"brownаshlеy@gmail.com","phone":"29𝟤 7𝟶7-1801","dob":"03/06/1994","address":"4330𝟨 Anna Key, South Robert Vіrginіa 2𝟩931","ssn":"687-0𝟩-8253","cc":"4𝟦19-𝟧𝟦71-85𝟣5-4744","ip":"1𝟥2.100.𝟤30.222"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: judyshaw(dot)Blackburn(at)mckinney.com 525.606.224.618 +43819243965
+WARN scheduler: job=27 retry=1 corr=7f3ad0

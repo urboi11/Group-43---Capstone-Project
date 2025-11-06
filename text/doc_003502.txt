@@ -1,0 +1,6 @@
+Onboarding: Email=davidgonzalеs@hоtmail.cоm; Phone=428–4𝟩𝟪–8999; Name=Brandon Kaiser; Addr=473 Craig Lіghts, Sharonbury Delaware 5𝟥770; Birth=04-𝟶4-196𝟪; CC=4637116981𝟥1391𝟨; IP=7fb0:d21𝟣:52d5:5e7e:b64𝟪:5c60:а𝟪5d:d097; SSN=SSN 75𝟣 38 51𝟣2
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: af5b6f56-b0d6-4060-95a8-c93c493583f7 YWJjYWJjYWJjYWJjYWJjYWJj
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

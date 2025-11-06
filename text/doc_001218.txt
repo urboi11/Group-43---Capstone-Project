@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 46141175-895b-43de-8734-f09e1bd23a12 8a67038773ea6af055de59869e0de8f3dadd13fe mendezmadison(dot)Webster(at)lewis.com
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Matthew Edwards,tranаnna＠@goodwin-harris․com,+1 (𝟧𝟥3) 641-3387,02/𝟣3/𝟣97𝟶,624 Juаn Meadow Suite 101, South Tanyalаnd OK,𝟥07-46-0𝟤84,4855 9332 𝟫262 7999,9𝟪.71.125․66

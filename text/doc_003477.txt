@@ -1,0 +1,2 @@
+{"name":"Mary Gomez","email":"bellcynthia [at] mail.mоrris-perry․net","phone":"+1 (987) 𝟦73-9158","dob":"09/02/19𝟥6","address":"1𝟧𝟨0𝟨 Koch Island, Michellestad Illinоis 790𝟤2","ssn":"033534𝟦23","cc":"𝟦008 9747 3𝟶6𝟶 2075","ip":"24.21.𝟤32.2𝟦3"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

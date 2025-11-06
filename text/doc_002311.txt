@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: b493fed9d569e0db739b06fa7c964c1d052cdfe4 james80(dot)Morris(at)baker.biz 813fe0b2-d998-4563-a5c0-9f425666b7d5 +73330984733
+Reminder: rotate API keys monthly and validate error handling for timeouts.

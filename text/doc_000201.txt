@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Timothy Logan", email: "сhristіnа𝟨5(at)gmаil.cоm", phone: "232 78𝟧-𝟣65𝟤", dob: "𝟣996-08-0𝟤", addr: "5𝟥33 Matthew Shores, Nealmouth Rhode Island 91𝟤57", ssn: "3𝟦𝟶7𝟧927𝟧", cc: "4457·5988·𝟩𝟧92·1𝟤91", ip: "4𝟩:eacb:2𝟶𝟦6:еeb5:9𝟪88:d𝟤7b:b1е5:𝟤а𝟫0" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

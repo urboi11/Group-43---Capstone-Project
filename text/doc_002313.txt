@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kara Hunter</td><td>uроnce [at] yahoо.com</td><td>𝟤𝟦𝟪-6𝟪𝟩-4𝟦58</td><td>1𝟫/0𝟪/𝟣𝟫51</td><td>4𝟧48·4505·0059·2𝟫2𝟨</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

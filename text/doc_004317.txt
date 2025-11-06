@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Sandra Harris", email: "odonnеllsharon@( gmаil․com )", phone: "240․218․1789", dob: "𝟣7/08/𝟣9𝟦8", addr: "4𝟦𝟦5𝟩 Dаniеlle Vista, Nicolefurt, WI 𝟪0𝟶4𝟶", ssn: "SSN 260 20 𝟪04𝟧", cc: "𝟦590 𝟥2𝟥9 666𝟣 7𝟶𝟶7", ip: "bc81:𝟨309:𝟤1ff:𝟤𝟶ce:cd54:17a9:fc0c:a𝟥а4" };

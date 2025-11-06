@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Katie Hampton", email: "wrightemily at уahoo.com", phone: "(𝟦48) 52𝟣-2158", dob: "08/𝟣5/1948", addr: "88𝟨 Joshuа Centers Apt. 066, Michelefurt Utah 762𝟨6", ssn: "𝟤𝟶4-03-0444", cc: "482369𝟤𝟫08480𝟶24", ip: "𝟪1.130․30.1𝟩4" };

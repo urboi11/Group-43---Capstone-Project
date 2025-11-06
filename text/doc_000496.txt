@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Cesar Romero</td><td>barnеsrichard@( thompson․com )</td><td>𝟩16–58𝟩–9694</td><td>𝟣9𝟨𝟩‐06-𝟣3</td><td>4980-3703-𝟩𝟩31-20𝟧𝟨</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: YWJjYWJjYWJj 17-88-4125

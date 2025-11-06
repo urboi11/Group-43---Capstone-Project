@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jacqueline Perkins", email: "mperez@уahoo.com", phone: "513–667–9𝟨49", dob: "𝟣2/𝟶1/1𝟫92", addr: "025 Randy Mews, Lіttletоn, MO 85203", ssn: "4𝟧3-𝟥𝟪‐3374", cc: "44𝟤𝟤 12𝟶3 7𝟥60 01𝟦5", ip: "6915:534b:4dc𝟧:9950:82b7:𝟧c𝟶c:b087:2af4" };

@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 918.228.142.522 99-10-7418 0a186676-f473-4022-981b-99f9c145419c +41596871541
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

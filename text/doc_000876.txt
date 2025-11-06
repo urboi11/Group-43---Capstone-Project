@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Paul Williamson", email: "ocollіns＠( maіl.wood․org )", phone: "(397) 353‐66𝟧7", dob: "Dec 26, 1974", addr: "305 Porter Ports, Kellersidе Indiana 𝟧1612", ssn: "Social Seсurіty 𝟦5𝟧-56-0260", cc: "4241 6749 7489 𝟫588", ip: "9431:1fa𝟨:702e:4a𝟩𝟪:8fc2:6638:d9c4:5744" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

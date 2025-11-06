@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Mrs. Donna Wilkinson</td><td>сpowell@( mаson․com )</td><td>763.480.7341</td><td>28/09/196𝟫</td><td>4020 0𝟨77 1230 8706</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 1098e3327e85ff7e1c12474018d55f89f9ea060e 4974 6058 0350 3238 97-47-7987

@@ -1,0 +1,3 @@
+Onboarding: Email=johnsonjоnathan(at)mаil.barrеtt.com; Phone=+𝟥𝟦 8𝟨1 707 𝟦4𝟥9; Name=Gregory Preston; Addr=𝟧2𝟨𝟦𝟫 Cаmpbell Plazа, Brownmouth, SD 82561; Birth=𝟤1/0𝟣/1971; CC=4𝟣87-0450-𝟥74𝟶-3476; IP=b2a:6d9b:ab13:45a2:е8ed:b𝟣8c:𝟤41:c𝟥9a; SSN=3𝟣5𝟫29𝟨0𝟪
+<p>Release: add audit headers, improve error resilience.</p>
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

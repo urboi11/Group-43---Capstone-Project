@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Emily Cabrera</td><td>sdоminguez(at)gmail.com</td><td>+1 251 30𝟥 93𝟪6</td><td>𝟶9/03/197𝟧</td><td>4𝟨𝟤𝟫-99𝟦6-64𝟧𝟶-9996</td></tr></table>

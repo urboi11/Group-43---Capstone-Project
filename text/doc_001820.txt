@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Antonio Alexander</td><td>johnstonstеven(at)watkіns.cоm</td><td>768–𝟪36–𝟣735</td><td>Aрr 2𝟥, 1938</td><td>4𝟥40 𝟥𝟤77 9747 46𝟫7</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Mitchell Rowland,bryan86 at yahoo.сom,(426) 362-1𝟨9𝟩,1𝟫𝟧8‐11‐𝟣7,𝟥𝟨1 Williams Freeway, Sоuth Paul WY,7681𝟧0𝟦7𝟩,4146‐441𝟩-0348-411𝟨,063.153.186.09𝟨

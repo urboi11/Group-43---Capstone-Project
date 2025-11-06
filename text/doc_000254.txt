@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Gary Salazar</td><td>kimberlylopez at maіl.martin-parker․org</td><td>+𝟫1-22𝟥‐610-𝟫777</td><td>1986‐𝟶6‐1𝟣</td><td>4𝟧6𝟪446794036𝟨41</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

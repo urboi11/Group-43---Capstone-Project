@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Douglas Smith</td><td>miсhelle10@@cross.info</td><td>𝟤34․718.43𝟩9</td><td>2𝟶-𝟶3-1999</td><td>4𝟤𝟥4892335866646</td></tr></table>

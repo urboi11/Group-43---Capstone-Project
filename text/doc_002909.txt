@@ -1,0 +1,6 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 3e9d77d8-0269-4915-a008-42c8899769d6 8c9b7c3d99f3d6fe2a3d2b18ea8b69befdb0f6f3 345.857.520.593 4988183346507424
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+WARN scheduler: job=27 retry=1 corr=7f3ad0

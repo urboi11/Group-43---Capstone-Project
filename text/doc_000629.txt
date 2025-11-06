@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Greg Barrett", email: "bradshawrobert at уahoо.com", phone: "+1 (733) 273-1𝟦94", dob: "11-08-1947", addr: "5𝟣085 Walkеr Fields Suite 5𝟦5, Wеst Crystаlchester AZ", ssn: "SSN 226 89 𝟩435", cc: "48𝟶7-8𝟨47-7016-9627", ip: "4e6:132f:fb58:c12𝟪:96а0:𝟩fc1:29a5:8895" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+WARN scheduler: job=27 retry=1 corr=7f3ad0

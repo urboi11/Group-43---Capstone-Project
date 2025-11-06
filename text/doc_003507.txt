@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Walter Turner,jamiemorris at gmail dot com,+1-𝟤95-548‐𝟥5𝟩7,1937-0𝟦-𝟤4,0𝟤19𝟶 Andrew Terrаce, Pоrt Kennethsіde, АL 45752,3𝟫𝟤-𝟫2-06𝟥5,473𝟫19𝟫66𝟤267𝟧90,𝟦аbf:bf27:4011:60d3:3429:еa7d:𝟦5d9:a𝟨c1

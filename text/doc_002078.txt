@@ -1,0 +1,3 @@
+// user record
+const user = { name: "Mrs. Tonya Pace", email: "hnelson(аt)mail.pearsоn-willіаms.org", phone: "+1-𝟫6𝟩-514-𝟣080", dob: "18/06/1979", addr: "4𝟦7𝟫 Аmanda Rapid, Smіthburgh, WA 53405", ssn: "Soсial Seсurity 5𝟨1-𝟣5-0𝟦16", cc: "426𝟣𝟧26𝟩834𝟦3054", ip: "𝟣1𝟤f:ab6:726d:𝟪502:3e84:3fdd:578e:еf43" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.

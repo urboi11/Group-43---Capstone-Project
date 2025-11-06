@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Rebecca White</td><td>mhоuston@( mаil․trujіllo․com )</td><td>352 4𝟥𝟶  .  26𝟦7</td><td>Oct 12, 19𝟩6</td><td>4𝟨5046𝟩𝟨𝟧50560𝟧5</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: fb5744e7-397a-4bbb-ac72-e4248b9be269 427.359.81.681 +6289390640
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

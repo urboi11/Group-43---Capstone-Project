@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Timothy Griffin</td><td>rodriguеzjuliе(at)mail.parker.com</td><td>+𝟣-559-392-69𝟤3</td><td>04/10/1996</td><td>4𝟶𝟣5‐5𝟥46‐75𝟣𝟥‐61𝟪1</td></tr></table>

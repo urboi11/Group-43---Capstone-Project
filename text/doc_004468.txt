@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +81649852805 801.954.657.954 4769·4224·5657·6044 bc1639e4-4131-4095-a7af-91f0a1b065f4
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

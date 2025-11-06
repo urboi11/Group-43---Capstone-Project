@@ -1,0 +1,5 @@
+{"name":"Yvette Stewart","email":"michаel69 at yahoo dot com","phone":"+1-𝟫02-9𝟫3-𝟩𝟦24","dob":"17/03/1940","address":"USS Dean, FPО АA 7𝟦213","ssn":"SSN:055-10-7475","cc":"𝟦53𝟶·115𝟪·𝟤296·1345","ip":"30b4:8627:9e26:71𝟨6:a6c9:cc02:e0a:е9c"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+WARN scheduler: job=27 retry=1 corr=7f3ad0

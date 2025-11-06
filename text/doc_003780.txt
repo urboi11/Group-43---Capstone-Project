@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Paul Snyder", email: "cartermarсus@gmail․com", phone: "+34 36 66𝟩 9495", dob: "14/06/1951", addr: "PSC 7076, Boх 3731, APO AA 𝟧2104", ssn: "688𝟪19634", cc: "𝟦𝟩76 8262 41𝟪9 5𝟨24", ip: "128․𝟣30.5𝟶.𝟣21" };

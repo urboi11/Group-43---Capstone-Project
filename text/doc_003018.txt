@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Anna Williams", email: "williamturner@＠mаil.lyons-lee․biz", phone: "+1-𝟨50-3𝟥𝟩-6𝟧𝟧6", dob: "1𝟫𝟪7‐10-11", addr: "94508 Rоbert Ports, West Monica, GA 751𝟫8", ssn: "SSN:042-65-𝟥983", cc: "𝟦798 94𝟪0 4576 𝟶442", ip: "172․5𝟨.𝟣74.2𝟦6" };

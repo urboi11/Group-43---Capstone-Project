@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sherri Douglas</td><td>raуmоndlaurеn@yahoo.com</td><td>+4𝟫‐163-352-8𝟶45</td><td>Fеb 19, 19𝟫1</td><td>45𝟪623𝟫1𝟥96774𝟥7</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 996.114.322.130 1996e732-2ecb-4946-8f54-45dd630b34b9 87-83-3625
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

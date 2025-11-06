@@ -1,0 +1,2 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: michele19(dot)Taylor(at)owen-rojas.com 46999827c138804c2dc3972d32cf527cb1b0cedb 12-86-8387 72040443-b262-47e2-b5ea-99189c8f5914

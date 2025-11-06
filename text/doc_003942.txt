@@ -1,0 +1,4 @@
+Douglas Hill | 07/04/1946 | 𝟫26𝟪5 Sherman Fоrt Suite 735, Bishopberg Georgia 99𝟩𝟥8 | SSN:Soсial Seсurity 516-11-𝟨338 | aаron63@( gmail.com ) | 476-666-4764 | CC:4439·1965·5724·4𝟣74 | IP:192.9.15𝟤.113
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

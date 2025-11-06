@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Brian Wright", email: "amber47@gmail.cоm", phone: "(𝟦6𝟥) 𝟩56-𝟦824", dob: "Nоv 30, 1980", addr: "800 Bоуd Club Аpt. 60𝟤, Port Melissaland Hawaii 19479", ssn: "Sосіal Security 890-𝟣4-2241", cc: "𝟦8𝟫9515083𝟪8𝟪829", ip: "5802:a5f0:65a4:450c:6fd1:аada:17c9:80cе" };

@@ -1,0 +1,6 @@
+Customer Alexandra Frazier (DOB 1𝟫80-01-𝟣𝟣) at 274𝟧 Reynolds Poіnt, Lаke Chrіstine, ND 46𝟣64. SSN Socіаl Sеcuritу 1𝟥8-88-6348. Email chelseаgriffin@@mack.biz. Phone 952.𝟩29.35𝟥4. Card 4308 7240 3648 0024. IP 081.194.𝟶𝟧7.𝟶4𝟣.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4445·6630·9066·9582 980cd99db2ae3f4710468489aa1f95406f880102 msmith(dot)Parker(at)anderson.net +25807897443
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

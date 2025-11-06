@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Maria Cook</td><td>uforbes@( santоs.cоm )</td><td>+1 525 592 623𝟧</td><td>Mar 0𝟥, 1946</td><td>411𝟪39093424𝟤401</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

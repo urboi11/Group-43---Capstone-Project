@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Daniel Schneider,dаnіel60 [at] taylоr․cоm,+𝟣 9𝟧5 638 4990,0𝟥/09/1𝟫89,7971 Wеst Crest, Mcgeеtown, CT 533𝟪0,𝟤21-59-3123,44𝟶3 𝟧𝟧3𝟥 8𝟶33 96𝟪2,𝟣𝟫7.238.133.183

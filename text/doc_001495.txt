@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Andrea Dorsey</td><td>ryanlewis(at)yahoo.com</td><td>+𝟣 (633) 379-𝟪6𝟧5</td><td>Sep 𝟣𝟤, 𝟣983</td><td>4596 𝟣298 753𝟶 1268</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: f755f0da-5aed-41b1-ac89-eaa538832b2d 4556·8420·7781·5508

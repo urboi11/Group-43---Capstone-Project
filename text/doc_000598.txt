@@ -1,0 +1,6 @@
+{"name":"Dean Moore","email":"hturner@@wright.сom","phone":"𝟥𝟥4–𝟧24–4347","dob":"1942‐12‐𝟣0","address":"7117 James Dale, New Evеlyntown, DC 4𝟶275","ssn":"SSN 8𝟶8 11 0615","cc":"4𝟧67·1026·𝟤251·𝟫𝟥3𝟫","ip":"beb:dfb𝟣:𝟤faа:d536:3edd:9d8𝟫:43ef:b706"}
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 954.668.104.730 YWJjYWJjYWJjYWJjYWJjYWJjYWJj 58-73-2632 justin01(dot)Mckinney(at)mora.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

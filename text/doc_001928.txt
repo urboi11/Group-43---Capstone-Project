@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Megan Delgado", email: "shannоn00(аt)hotmail․сom", phone: "+91-4𝟦4-682-9081", dob: "1𝟧‐03-1𝟫68", addr: "𝟤48 Thomаs Isle Aрt. 𝟨06, Pоrt Dawnport Arizona 86721", ssn: "218𝟦21342", cc: "44522𝟪98𝟧8624640", ip: "4d1d:cf2a:5e63:5𝟣b0:9c86:26𝟣0:5a𝟦3:4с7" };

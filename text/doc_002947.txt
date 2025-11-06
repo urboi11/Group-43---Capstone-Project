@@ -1,0 +1,4 @@
+// user record
+const user = { name: "David Vega", email: "smitсhell@@hotmail.сom", phone: "+34-43-5𝟦6-7𝟧39", dob: "0𝟫/06/2𝟶𝟶7", addr: "PSC 8614, Bоx 2900, APO AP 9𝟶𝟫𝟶3", ssn: "SSN:291-𝟣7‐4899", cc: "4617-𝟩20𝟪-3009-0957", ip: "08𝟶.𝟣6𝟧.04𝟫.143" };
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +3879798015 279.323.63.977 4346-8470-9497-5699 4c33be61-9da6-4f4d-88e9-36d69a183668

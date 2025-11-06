@@ -1,0 +1,10 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +63132212329 acec08f9560cb8d7c0fa4bb5295eb34a01f31f58 YWJjYWJjYWJj
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+WARN scheduler: job=27 retry=1 corr=7f3ad0

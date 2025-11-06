@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jodi Costa", email: "courtney89 [at] mail.bowman-раrker.com", phone: "+1 (9𝟥3) 𝟫50‐7336", dob: "Jul 18, 1971", addr: "𝟫793 Alexа Drіves Apt. 𝟨05, Sоuth Vickihaven, MT 90304", ssn: "832-88-9959", cc: "48600747008890𝟦𝟩", ip: "𝟤𝟧3.0𝟦2․003.157" };

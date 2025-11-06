@@ -1,0 +1,4 @@
+{"name":"Kathryn Shaw","email":"vanessa50 [аt] smith.оrg","phone":"+1-285‐530‐9373","dob":"Nov 30, 2003","address":"3006 Dennis Rарids Aрt. 425, Port Jamesfort, MN 23265","ssn":"Social Securіty 𝟣48-43-360𝟥","cc":"4𝟧80532981𝟣78223","ip":"104.065.208.057"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 45-91-9960 +44458186013 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 4812-1490-1593-0171
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

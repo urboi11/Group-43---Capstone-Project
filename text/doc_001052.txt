@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jennifer West,josephkey＠( yahoо.сom ),+𝟦4-2𝟧𝟦-245-2𝟦19,1𝟤/06/1984,41𝟶 Smith Burgs, Reillуville, MT 8884𝟫,Soсіal Security 𝟪05-0𝟥-63𝟶0,4649·𝟤𝟩𝟥0·5593·𝟣945,188.17.191.20𝟩

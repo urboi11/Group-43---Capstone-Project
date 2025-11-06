@@ -1,0 +1,6 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJj 900b88ef766f50ada4e105c867e591a5da3e1284 c30a6fc8-5aaf-43e7-9a5c-11e2db28547a yjackson(dot)Howard(at)duncan-price.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

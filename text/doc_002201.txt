@@ -1,0 +1,10 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJj 55-94-1390
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJj patelmelissa(dot)Mcgrath(at)ellis.org 899.850.497.803 7f19e8f71a1d8053d3b4274f27ee52dd1b269f09

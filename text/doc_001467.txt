@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kevin Duke</td><td>jimenezbarry＠( mail.brown-mahoney․cоm )</td><td>+1 681 22𝟨 𝟤951</td><td>1972‐08-31</td><td>495𝟩·8816·𝟶𝟶02·𝟦002</td></tr></table>

@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Dr. Karen Anderson", email: "hullnoаh@@mail.gibsоn․соm", phone: "(373) 404-7𝟨65", dob: "𝟣1/11/19𝟦5", addr: "3599𝟨 Mark Lanе, Lake Anna, PA 899𝟣2", ssn: "80𝟤-9𝟣‐739𝟦", cc: "4832·6486·9𝟣19·7968", ip: "194․180.238.23" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

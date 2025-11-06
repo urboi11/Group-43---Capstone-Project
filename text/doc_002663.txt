@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Monica Nicholson", email: "brenda97(at)mail.juarez.com", phone: "+1-7𝟥3-67𝟧-5391", dob: "30-06-1𝟫𝟧3", addr: "𝟦97𝟩6 Vincent Crossing, South Kim, NC 34𝟣67", ssn: "210‐𝟧4-1098", cc: "408𝟣10𝟫1𝟨𝟤680097", ip: "187․𝟤𝟥𝟨․233.112" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4002·3527·2755·2533 58-33-9221

@@ -1,0 +1,9 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: nathanielmorse(dot)Taylor(at)meyer-castro.com YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj fc38c950-c7c9-4f54-a51d-61bcc54010ea
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

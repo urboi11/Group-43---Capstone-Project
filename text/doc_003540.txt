@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sandra Hernandez</td><td>armstrongbrittanу@＠mail.benson.com</td><td>+4𝟦-682-𝟪64‐2890</td><td>𝟤4/09/19𝟧𝟥</td><td>4𝟪36·8𝟤7𝟦·4219·3𝟨50</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 86-64-9070 498.824.271.23 bb0db4f2646efb6150832ccc030cd864ab5524a9
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

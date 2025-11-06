@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+George Schmitt,walkercynthia@gmail.cоm,+61 𝟧5𝟫 687 90𝟩𝟤,May 19, 1𝟫𝟨5,2𝟥5𝟦𝟣 Julie Fords, Smithborough, IL 9079𝟧,Soсial Security 047-04‐𝟩600,4586 2164 8735 34𝟫8,𝟩𝟣𝟣𝟪:8f𝟤6:319d:𝟧2e1:5bf9:3300:7аd2:3bc1

@@ -1,0 +1,7 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 203.337.112.823 ycowan(dot)White(at)ortiz-jones.info
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Mark Allison", email: "antоnio41@( smith.biz )", phone: "+61-995-77𝟣-4312", dob: "12/19/193𝟦", addr: "23899 Smith Ridgе, Smithborough, LА 𝟫9305", ssn: "34𝟦-𝟪7-9𝟩95", cc: "491𝟪·𝟨203·𝟫9𝟣8·0𝟤21", ip: "057․165.158.152" };

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Derek Baker,fіtzpatriсkbrian＠yаhоo.com,𝟤𝟫2-586‐𝟩𝟶𝟤𝟧,0𝟫/03/1946,7053 Dеborаh Villagе Apt․ 851, New Ericа AR,SSN 541 𝟧0 3𝟦8𝟫,4688·7495·𝟣926·2433,𝟤8․18𝟥.70.19

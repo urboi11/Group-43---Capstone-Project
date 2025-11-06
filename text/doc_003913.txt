@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jennifer Green</td><td>smithhannah [at] mail.smith․net</td><td>5𝟤𝟥 6𝟤2  .  4576</td><td>𝟶𝟣/31/1975</td><td>4075·𝟥697·187𝟣·5338</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>

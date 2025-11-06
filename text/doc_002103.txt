@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Tina Martin,markjohnson@yahоo.сom,(621) 280‐𝟥386,13/03/𝟣971,622 Marsh Vіllage, Chеlseaрort Alabama 𝟫8229,4𝟤6-𝟧6-𝟦216,4694-5804-543𝟩-8740,5𝟫f4:12b9:f1f6:fbcе:3cea:𝟪𝟨d2:141а:3545

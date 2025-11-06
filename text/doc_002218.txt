@@ -1,0 +1,2 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: dc1156a0c6ee132ae8bda632842f0d439ea254ab ramirezsally(dot)Anderson(at)marshall.info +34487152926

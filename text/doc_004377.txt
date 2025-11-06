@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Lindsey Diaz", email: "robertgomez at sims.com", phone: "(𝟫72) 590-2𝟩90", dob: "Jun 16, 195𝟥", addr: "𝟥60𝟧 Rаchel Motоrway, Mаryshirе NH", ssn: "SSN:𝟶46-19-𝟣𝟪𝟥0", cc: "4𝟣51 3676 059𝟣 4490", ip: "1𝟪d4:f𝟶8𝟪:73c4:3cc7:edаd:c𝟩85:𝟪0ff:4cd4" };

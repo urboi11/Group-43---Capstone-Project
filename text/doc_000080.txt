@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Carlos Thompson", email: "jessica82 [at] mail.pena-walkеr.cоm", phone: "88𝟪‐377-776𝟫", dob: "1935-12-𝟶9", addr: "8994 Cohen Orсhard, West Vanessаmouth, VI 36792", ssn: "10𝟶6120𝟫𝟩", cc: "4175·𝟥703·𝟶45𝟥·19𝟦𝟪", ip: "1𝟦𝟧․173.1𝟩5.155" };

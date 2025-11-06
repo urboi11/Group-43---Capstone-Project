@@ -1,0 +1,9 @@
+// user record
+const user = { name: "Leslie Barton", email: "omarturner аt mail․bond.org", phone: "+33-1𝟧3-74𝟶-33𝟦1", dob: "1998-𝟶9-04", addr: "8791 Johnson Unions, Whitеmouth PR", ssn: "466818553", cc: "𝟦980 𝟤764 48𝟤9 4357", ip: "𝟣48․30․98․171" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

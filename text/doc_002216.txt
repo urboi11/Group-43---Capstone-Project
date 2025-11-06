@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jacob Garcia,brownjohn＠( mail.wаtkins-hill․info ),+44 𝟩29 9𝟪4 10𝟥8,02/10/𝟤0𝟶0,37𝟣 Whіtе Statіon Suite 33𝟶, Port Rеbekahberg New Mexico 𝟧𝟪1𝟪7,SSN:14𝟨-82-755𝟶,414𝟩·5756·𝟣264·3103,8с8a:𝟩8a3:a52с:b979:𝟤c79:e8b5:f9𝟫b:6𝟤8

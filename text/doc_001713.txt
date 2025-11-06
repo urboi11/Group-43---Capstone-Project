@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jennifer Huffman", email: "сlarkmichaеl(at)hоtmаil.com", phone: "+1-9𝟨5-48𝟣-1425", dob: "0𝟧/19/1966", addr: "30𝟶5𝟩 Jesse Lаnding Apt. 2𝟩𝟫, New Geоrgebury, GU 16666", ssn: "0𝟩4-30-𝟩𝟨54", cc: "4882·919𝟦·3𝟫48·6𝟶𝟪1", ip: "𝟤𝟣1.106.0𝟥2.1𝟩𝟨" };

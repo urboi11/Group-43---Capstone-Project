@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jenna Hill,katie07@hotmаіl.сom,510–𝟧55–70𝟪8,196𝟦-09-𝟶8,2443𝟤 Zachary Lane, Ianville Michіgаn 53063,SSN:323-𝟩9-4393,4𝟦0291𝟧277029844,28.105.𝟧.1𝟧𝟪
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 4875-1764-3008-4861 cc8f168cda2505847a2a8e12b804b7486a19089b 382.75.57.435 d8450977-74ff-4fee-87c3-0a244461bd94
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

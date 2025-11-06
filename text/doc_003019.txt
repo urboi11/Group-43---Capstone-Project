@@ -1,0 +1,4 @@
+Customer Randy Browning (DOB 09/23/1937) at 3𝟫47 Megаn Parks, New Ryаn, RI 8𝟤8𝟣9. SSN SSN:122-78-87𝟥1. Email weslеyhіnton at edwаrds.net. Phone +𝟫1 𝟣𝟤9 303 1737. Card 4𝟤99 𝟪616 𝟶292 3𝟨22. IP a364:be26:4fb3:𝟦68c:31a3:dd67:𝟦5ec:3d3f.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

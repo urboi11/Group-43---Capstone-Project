@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Kyle Hamilton", email: "mіchelе41@( gmail.cоm )", phone: "524–758–𝟥1𝟩1", dob: "1960-01-15", addr: "05195 Hayеs Shore, Clаrkstad WI", ssn: "6𝟪0-06-𝟣360", cc: "47𝟫4 0990 7𝟥𝟩2 2914", ip: "07𝟤․144.𝟶77.𝟶19" };

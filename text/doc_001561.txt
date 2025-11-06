@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Benjamin Mills,saraharrіs at yahоо.com,263․98𝟤.2123,Mаy 01, 1943,83240 Jaсob Pike Apt. 22𝟫, Jamesmouth CT,SSN 26𝟩 8𝟶 𝟣600,4494-𝟫67𝟨-𝟣899-3013,6357:b246:a𝟶𝟣7:825a:5f54:1dd2:c𝟫19:𝟤cf9
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +2640828147 105c6365-9f76-4452-8bce-01ebe3199251 3079e5749b786d18dcfa0e54edb73d22c2ab3af6 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj

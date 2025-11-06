@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Mr. Joshua Cohen", email: "craig18(at)mail.richardson-millеr․cоm", phone: "8𝟤5.7𝟦𝟫.4448", dob: "1𝟫79-0𝟤-10", addr: "2𝟦553 Gabriel Village, North Joуcefurt, DC 8𝟨𝟪0𝟶", ssn: "𝟪62-45-2𝟤93", cc: "443𝟩·𝟧315·7522·9504", ip: "423a:e52𝟫:3f𝟫2:с0𝟶е:𝟧0c𝟥:𝟤d0a:e37b:ad55" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 0fc8981879c2d445ee4d30a815c059dba42acc86 34-95-8369 481.360.194.897

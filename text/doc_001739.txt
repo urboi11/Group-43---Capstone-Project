@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Deanna Williams</td><td>obrown(at)parker-ortiz.com</td><td>+1 (6𝟣6) 416-2444</td><td>0𝟤-𝟶9-1977</td><td>41𝟣𝟦-7883-445𝟫-1859</td></tr></table>

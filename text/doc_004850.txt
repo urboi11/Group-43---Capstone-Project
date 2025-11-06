@@ -1,0 +1,6 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 13-62-4934 4041·7717·0869·1665 YWJjYWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

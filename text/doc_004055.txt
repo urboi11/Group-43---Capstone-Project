@@ -1,0 +1,8 @@
+name,email,phone,dob,address,ssn,cc,ip
+Brett Flores,ewhіtе@@yahоo.cоm,(𝟫68) 790-8662,2𝟪-01-1976,0598 Smith Road, North Kellybury Connеcticut 27261,SSN:𝟥6𝟩‐96‐𝟨𝟦57,4234 𝟤099 5075 7184,3c26:61b:9d24:8𝟶e3:8ebb:29𝟶5:fd5e:𝟣feb
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

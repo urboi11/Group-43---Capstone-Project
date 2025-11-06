@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Adam Davis,millertristаn(at)spencer.biz,572.360.7402,20‐0𝟪-1𝟫51,5𝟧2 William Cliff, Port Belindatown, NC 28943,7𝟤𝟤3𝟩9𝟣29,4024-6175‐2023-8978,255.152.1𝟧7.238

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Edwin Taylor,hhuеrtа at williams-thomas dot com,(450) 672‐871𝟧,𝟣𝟫38-0𝟤-14,8𝟶𝟪𝟤0 Flоres Overраss, Flemingbury, WI 21𝟩03,702277013,4003418𝟤𝟶581𝟣519,11𝟥.13𝟶.2𝟶4.20𝟣

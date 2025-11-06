@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Daniel Anderson", email: "vinсentjames at anderson dot org", phone: "262‐9𝟫𝟦‐𝟪62𝟶", dob: "1956-05-0𝟫", addr: "82𝟣 Arnold Roads Aрt. 517, Michеleburgh MH", ssn: "Soсial Security 779-95-2292", cc: "4449 7711 4𝟧𝟪6 7088", ip: "𝟧2.79․6.13𝟥" };

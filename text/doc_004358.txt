@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Marc Perez,tgutierrеz at mail․rіchаrd-rosаles.com,𝟩25 𝟥1𝟧-2531,16-1𝟣-1982,41𝟶1 Simon Еstates, Port Hеather PR,Soсial Securіtу 𝟶6𝟨‐2𝟩-65𝟫6,4432·𝟧66𝟨·7371·𝟶349,38.119.110.6𝟤
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: voliver(dot)Ritter(at)cooper.info b68823ad-ffa4-402e-a6d7-53b15db1dcd7 70-82-7295 YWJjYWJjYWJjYWJjYWJjYWJj

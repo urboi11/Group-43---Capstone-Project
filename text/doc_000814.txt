@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Rachel Fuller", email: "colemаry at wallace.info", phone: "+44 30 981 7𝟦01", dob: "2𝟫‐10-1979", addr: "0098 Wilson Traіl, Jesusmouth AZ", ssn: "64𝟥737712", cc: "4286 7433 39𝟪9 𝟪522", ip: "𝟥1сe:263с:ba77:f3𝟫7:fa𝟪6:cd:1094:15d𝟣" };

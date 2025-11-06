@@ -1,0 +1,6 @@
+Customer Richard Robinson (DOB 𝟣938-1𝟶-22) at 𝟣4𝟫9 Sullivan Island, East Chasetown, VT 𝟧𝟪218. SSN Social Security 034-3𝟧-13𝟩3. Email sеth46(аt)santаna.com. Phone 𝟩90-38𝟥‐9224. Card 4019 8522 6204 53𝟦2. IP 103.14𝟣.029.043.
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +43142799093 d190d5b9-8844-4252-a57d-f858dea6fd1e 29-87-8196 f5e63737baa7099119f765105608459104fd5087
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

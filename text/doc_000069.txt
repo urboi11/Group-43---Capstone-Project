@@ -1,0 +1,2 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: a14f8bd988ad5af4e1641751f85ed3f1ebfef343 +7501913949 jeffrey92(dot)Gray(at)barker.org 46-33-3757

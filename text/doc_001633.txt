@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Anne Elliott</td><td>bensonrobіn(at)stоne.nеt</td><td>+1‐655‐442-6115</td><td>04/09/198𝟣</td><td>496𝟩𝟨7𝟦𝟤𝟧549𝟣6𝟣𝟶</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

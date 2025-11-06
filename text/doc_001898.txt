@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Nicholas Richards</td><td>blanchardkathryn at rodriguez dot info</td><td>𝟤𝟥1 205-𝟩448</td><td>2001-10-𝟣1</td><td>4558·037𝟶·9498·4408</td></tr></table>

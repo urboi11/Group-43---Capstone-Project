@@ -1,0 +1,3 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

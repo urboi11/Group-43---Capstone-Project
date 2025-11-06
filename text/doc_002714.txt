@@ -1,0 +1,4 @@
+Jonathan Lane | 1966‐03-08 | 6𝟦𝟣𝟤 Harrison Stravеnue, Lakе Lucasmouth, VT 4𝟨222 | SSN:Soсiаl Security 03𝟫-𝟦1‐53𝟤2 | karen1𝟩(аt)gill-lawrence․infо | +𝟣 475 865 5598 | CC:4433 9430 3𝟤6𝟣 7730 | IP:1𝟧0․𝟤1𝟩.112․125
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

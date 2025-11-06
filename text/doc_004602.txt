@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Ryan Taylor</td><td>darrеnhayden@hotmаіl.cоm</td><td>686–634–1570</td><td>0𝟣-09-19𝟥8</td><td>4𝟥9𝟧 993𝟶 058𝟪 044𝟫</td></tr></table>

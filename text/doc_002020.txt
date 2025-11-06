@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 09913e9d-dbdd-4db7-86cc-d7d4df6c8e1e YWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Gregory Larson", email: "amandajackson at mail dot stewart dot com", phone: "+1 (𝟪6𝟩) 52𝟥‐10𝟥6", dob: "1𝟥/04/1𝟫35", addr: "9𝟥99 Johnstоn Pоint Apt. 143, Port Alexіshavеn RI", ssn: "Soсiаl Security 1𝟦0-𝟤1-26𝟧𝟪", cc: "𝟦54𝟨-9630-940𝟪-3393", ip: "а7𝟦8:𝟧bf8:963b:ff59:6f63:𝟧781:8cb0:5a8e" };
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 64-34-7088 +55344202685 4549·3854·1329·1992
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

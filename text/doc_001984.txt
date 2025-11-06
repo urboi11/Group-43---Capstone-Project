@@ -1,0 +1,4 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: pjordan(dot)Harris(at)williams.com +88102374657 8a72cc66-f02f-4b8c-8a1f-7c5b8d16af55 81-79-2532
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +92160368372 4554·0516·3035·2119 95-74-2855

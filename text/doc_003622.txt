@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +8675684989 ff15e85f-b7a6-4869-a41c-588dbfe6c70d 675db1a65c03565a0089b8b9b628b4379a0343ca
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

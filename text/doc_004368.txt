@@ -1,0 +1,5 @@
+{"name":"Paul Garcia","email":"lаura00 at yahoo․com","phone":"+1‐875-53𝟣-8680","dob":"𝟣7-11-2006","address":"𝟥8691 Mаhonеу Oval, Moraview, NJ 763𝟦5","ssn":"𝟥215389𝟦6","cc":"4981235𝟫124888𝟣1","ip":"045․140.1𝟣8.139"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +92584745076 angela98(dot)Clay(at)brown.com 928.214.379.31

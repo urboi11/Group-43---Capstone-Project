@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kelsey Rivera</td><td>trevinojessica at ellison dot com</td><td>+34-248-𝟥54‐4𝟦𝟩5</td><td>𝟤𝟨/09/194𝟨</td><td>4209‐4𝟶𝟣4-8𝟧46‐7220</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: amandahall(dot)Williams(at)huff-ortiz.com 259.84.238.229 e3408f09-955d-446e-9e30-a146abb21577

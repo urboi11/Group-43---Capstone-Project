@@ -1,0 +1,5 @@
+<div class='sig'><strong>Alexis Miller</strong><br/>𝟧2𝟩 Gordon Fall Apt. 𝟫18, East Elijahfurt Missоuri 𝟣𝟨6𝟣3<br/><a>jаcоbstraсy@smith.com</a> | +1 (9𝟪7) 896-7𝟥0𝟫<br/>CC: 4254·8857·5𝟤27·1857<br/>SSN: SSN 26𝟨 𝟤1 8797<br/>IP: 2𝟣𝟶․12𝟤.𝟥4.146</div>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 51-26-1390 537.602.701.830

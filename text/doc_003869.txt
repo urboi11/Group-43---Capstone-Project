@@ -1,0 +1,5 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: f1fa9e5f-c3d4-4b0f-acf0-94ba3c1dde97 74a4baffd488c3345f23e14a7417d58a2e2febe7 +96685889597
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 99-14-8576 675.264.899.668 4524-3944-6207-5502
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

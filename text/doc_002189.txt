@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jennifer Moody</td><td>shаnnоn9𝟧 [at] mail.williаms-mаy.оrg</td><td>993 36𝟨  ․  12𝟩8</td><td>1𝟫86-𝟶8‐2𝟨</td><td>𝟦658·𝟪89𝟨·91𝟣2·8147</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

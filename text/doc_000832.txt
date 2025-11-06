@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 19e242e0fcd3b8b0d3e1026da24502d6bec37c9e 386.873.700.829 michaelvalencia(dot)Leonard(at)fleming.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

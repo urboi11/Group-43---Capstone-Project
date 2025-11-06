@@ -1,0 +1,9 @@
+// user record
+const user = { name: "Joshua Hall", email: "charlotte85@＠smith-bryant.com", phone: "+𝟣-8𝟧7-465-8252", dob: "12/𝟶2/194𝟫", addr: "𝟶109𝟦 Joseph Plaіn, Daniеltown, NC 28𝟶63", ssn: "818‐01‐2716", cc: "𝟦768 𝟤259 41𝟧5 4971", ip: "070.𝟶31.1𝟨9․𝟤54" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4138-1382-3664-9661 a6959e188bcdeb5e967981a82b84bba0c7216a19 7ab503a1-44bc-4ecb-a306-45e91fa9c343
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

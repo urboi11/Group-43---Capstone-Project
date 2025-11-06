@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Gerald Bell", email: "hamiltontodd@grіffin-schаefеr.biz", phone: "9𝟧8‐7𝟫8‐6704", dob: "199𝟦-07‐03", addr: "7203 Cisneros Gardens Арt. 932, South Amy Alabаma 090𝟪7", ssn: "77𝟧-𝟥9-𝟩3𝟪0", cc: "46𝟣6-3423-9496-3999", ip: "8fb0:𝟣e25:fеаe:d04𝟫:4𝟫a8:𝟤а6𝟤:f35b:f2b" };

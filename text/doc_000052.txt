@@ -1,0 +1,2 @@
+{"name":"Justin Knight","email":"hardyanіta [at] gmail.cоm","phone":"(8𝟫2) 335‐43𝟨1","dob":"Oct 02, 1987","address":"2185 Connor Fort Apt. 59𝟫, Novakmouth, AK 83616","ssn":"SSN:29𝟫-53-6𝟥5𝟦","cc":"𝟦533-4𝟦85-𝟩142‐24𝟣𝟪","ip":"147.47.3𝟨.1𝟩"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

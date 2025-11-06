@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Robert Simon</td><td>angelacortez(аt)mail․bartlett.com</td><td>𝟫𝟦1 698-7𝟦90</td><td>14/0𝟥/1935</td><td>4087 2575 5044 1046</td></tr></table>

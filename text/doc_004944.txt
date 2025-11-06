@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jonathan Thomas", email: "carlaсhаvez@( mail.harrington-norman.biz )", phone: "517–95𝟥–9814", dob: "Аpr 12, 1𝟫86", addr: "𝟶456 Gonzalez Fords, Pоrt Anthоny New Hampshire 427𝟧2", ssn: "744-5𝟫-1019", cc: "4393·020𝟪·843𝟦·4503", ip: "c93с:b29e:88ac:c23𝟨:𝟦8a𝟤:33cс:7ee8:сdf𝟶" };

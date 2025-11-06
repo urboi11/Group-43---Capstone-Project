@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Brian Johnson</td><td>garciabarbarа＠pruitt‐williams.com</td><td>+1-544-66𝟨‐1𝟥50</td><td>23‐09-1𝟫𝟧7</td><td>4445 𝟩𝟪10 5257 4𝟦6𝟦</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 92-76-1287 amoody(dot)Walker(at)james.biz

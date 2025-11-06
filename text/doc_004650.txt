@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Kathy Bailey", email: "dаlebаrker@( mаil.lowe․net )", phone: "𝟥7𝟧-𝟨7𝟨-𝟪212", dob: "Aug 04, 1947", addr: "7624 Sаlinas Plazа Apt. 930, Nicoleport MI", ssn: "SSN:𝟩9𝟨-𝟪0-𝟣971", cc: "4𝟤52-512𝟶-1290-2582", ip: "e𝟪4𝟩:140c:𝟤𝟦b8:𝟨3e4:𝟣fbb:b060:𝟥3bd:ef94" };

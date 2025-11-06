@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Derrick Taylor</td><td>garciajoseph@mail.warner.com</td><td>708․2𝟤7.5𝟤99</td><td>17-01-1946</td><td>4351𝟨𝟤255𝟨854196</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJj 7ef8173b-0837-4140-b025-0b1dbf44ef29 +32654902001

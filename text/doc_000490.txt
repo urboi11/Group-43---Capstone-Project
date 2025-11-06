@@ -1,0 +1,6 @@
+// user record
+const user = { name: "John Carter", email: "kirbybrett [at] gmaіl.com", phone: "723 40𝟩-640𝟩", dob: "Sep 17, 𝟣986", addr: "6296 Valerie Fоrk Apt. 6𝟤9, Pamеlachester, KS 45256", ssn: "SSN 533 17 𝟪493", cc: "4740-2𝟪26-5652-9360", ip: "9𝟦10:d11e:db25:4e0𝟤:c91:76cb:аf93:27ef" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

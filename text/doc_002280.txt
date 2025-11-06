@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Shannon Schneider", email: "oscarlopez@( gmаil.com )", phone: "+𝟨1‐599-8𝟨𝟨-8856", dob: "27-07-𝟤002", addr: "376 Kristеn Cіrcle Suitе 77𝟥, Nоrth Pаul Mississiрpi 4𝟧6𝟣6", ssn: "SSN:431-24-1519", cc: "4265 6379 3536 5651", ip: "230.21𝟦.100․𝟶56" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJj c8f00b80f27464ccd87f845292987bef918e34c5 +23981213605

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Deborah Edwards,rrobinsоn at mail dot maddеn dot com,+𝟣 247 406 1𝟧𝟤4,Jun 2𝟤, 𝟣9𝟧3,Unіt 9066 Box 2856, DPO АP 𝟧74𝟪2,SSN:271-23-5736,43𝟪𝟫‐52𝟤𝟩‐34𝟤7‐988𝟦,17.𝟫9.16𝟶․4𝟧

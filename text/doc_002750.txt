@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>David Valdez</td><td>davidgrаy [at] chаmbers.com</td><td>(𝟪𝟤4) 558‐𝟤997</td><td>1𝟣/𝟤7/1945</td><td>𝟦873941467695418</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 735.456.737.826 77afca1c-1dab-4701-ad67-3f184c549718 +75087838685 28-51-9889
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

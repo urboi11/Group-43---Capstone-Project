@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Carla Simmons,oсonnеr at yаhoо dot com,370 2𝟨2  .  𝟧49𝟩,Mar 𝟶7, 𝟣992,48𝟤 Martin Greens, Carolinemouth LA,Sociаl Security 649-75‐3𝟤𝟨3,4𝟤74 2561 8𝟫𝟨8 8𝟩64,2𝟨bb:ee72:32:d883:9a21:а3𝟣f:c5𝟫8:7fc1

@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 960.596.932.56 8b27ca75-e9de-44b9-a66f-e1985db5a141
+WARN scheduler: job=27 retry=1 corr=7f3ad0

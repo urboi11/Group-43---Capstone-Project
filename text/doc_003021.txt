@@ -1,0 +1,2 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+<p>Release: add audit headers, improve error resilience.</p>

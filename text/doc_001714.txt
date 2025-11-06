@@ -1,0 +1,4 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: fc78e94e-8313-47f1-b53c-35cf19a1a17b 920.793.487.264

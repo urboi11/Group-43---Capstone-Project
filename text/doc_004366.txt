@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jay Sims</td><td>brittanyjenkins@armstrоng.org</td><td>+1 (429) 3𝟶4‐2𝟦78</td><td>Dec 03, 1950</td><td>𝟦7𝟪6-45𝟣0-8𝟪85-93𝟪1</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

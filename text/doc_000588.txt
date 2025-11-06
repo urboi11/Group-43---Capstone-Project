@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Maureen Bates</td><td>elizabeth6𝟶＠@mail.scott․іnfo</td><td>624 𝟦𝟧9-6𝟫𝟨1</td><td>27-𝟶7-1966</td><td>45𝟧7·𝟦125·1218·833𝟣</td></tr></table>

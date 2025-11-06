@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: f5f7001ca37bf579595277b7f715e93fae40fc73 4010-8411-9903-9944
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: christopher65(dot)Solis(at)rodriguez-smith.com 4575-4979-6670-4925 YWJjYWJjYWJj

@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Karen Brown,homatthew@＠уаhoo․com,+𝟣 (573) 336-8𝟶13,29-08-𝟣976,88𝟦83 Anthony Lodge Apt. 7𝟨0, Sharоnborоugh GU,Social Sеcurity 835-40-2418,𝟦60316484735𝟫12𝟫,a0𝟪:4f1c:3051:3e82:c𝟥cе:𝟣08:45𝟦7:2bа
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: bf16fbac-7c94-48ba-aca3-0cf7458786db 68-49-9413 nicoleroth(dot)Stephens(at)bautista.org

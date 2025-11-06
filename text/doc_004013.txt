@@ -1,0 +1,11 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 962.882.882.798 4040-1134-2871-6360 ce9c62d7-b650-4688-b0ff-a78e66835f06
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4909 6319 5891 8368 11-26-5496 fb0bd96c-8426-4252-af93-92602a075ef6 ee972549e7229168efc937d146abdaa1343d6be3
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

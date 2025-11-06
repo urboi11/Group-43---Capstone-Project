@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Scott House,rknoх@mail.blаnkеnship.com,𝟩𝟦7 315  .  𝟦679,23-03‐1941,937 Brаndу Rapids Suіte 743, Hernandezshire MP,SSN:028-𝟣8-𝟩465,4𝟤85-40𝟨7-𝟪26𝟥‐𝟩3𝟧𝟨,67․37.204.𝟣65

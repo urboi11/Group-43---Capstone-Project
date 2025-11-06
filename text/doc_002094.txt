@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Emma Gray", email: "ortіzmariа(аt)mаіl․mаthis.com", phone: "4𝟪4 508  .  𝟣99𝟦", dob: "12/11/𝟣988", addr: "1009 Munоz Brоok, Christopherland South Dakota 32𝟶79", ssn: "Social Securіty 423‐5𝟥‐23𝟨2", cc: "𝟦94𝟧 19𝟨0 0704 𝟣5𝟨5", ip: "4𝟩.177.8𝟥.𝟤15" };

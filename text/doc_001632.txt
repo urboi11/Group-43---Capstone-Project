@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jasmine Hickman</td><td>ycоle@@yahоo.com</td><td>5𝟫𝟣–8𝟨3–4009</td><td>Jan 13, 19𝟦𝟦</td><td>4359·5605·𝟨353·𝟶𝟨01</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 1e537afd-65b2-4013-b1cd-47a6cc859d0e lipatricia(dot)Sims(at)huynh.com 4765·8053·9818·5573

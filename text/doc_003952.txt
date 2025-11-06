@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Dalton Sharp", email: "ysimpson@( gmail.com )", phone: "408–57𝟪–1825", dob: "28-𝟶𝟨-200𝟨", addr: "7𝟪4 Reginald Manor, West Kimberly Oregon 6378𝟣", ssn: "SSN 4𝟪𝟣 𝟥2 3318", cc: "406𝟪·531𝟶·6177·𝟧289", ip: "𝟶29.100.056․146" };

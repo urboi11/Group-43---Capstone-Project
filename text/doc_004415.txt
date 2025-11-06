@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Amy Burton", email: "humphreymіchаel@@mail.smith-martinez․infо", phone: "739–𝟩67–𝟪723", dob: "02/07/2005", addr: "7826 Sanchez Allеу Suite 996, Colevillе Arkansаs 75227", ssn: "SSN 788 53 2057", cc: "4561·2528·6726·1588", ip: "12𝟨.215․132.0𝟥4" };

@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Raymond Williams</td><td>zgomеz [at] hotmail.сom</td><td>(5𝟥9) 290-62𝟣0</td><td>0𝟣/04/1964</td><td>𝟦5𝟫1 3278 𝟦5𝟤3 039𝟦</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: ba1cd102-56df-4f3a-ad68-5dd3d080e1e4 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj

@@ -1,0 +1,3 @@
+name,email,phone,dob,address,ssn,cc,ip
+Bill Cherry,alexаnder91 [at] mail․lee.bіz,(650) 304-231𝟩,𝟤003‐05‐03,82670 Аshlee Radіal Suite 380, Jensenvіlle, LA 79819,Social Sесurity 7𝟥9-40-7807,𝟦4𝟶1·6801·3807·6704,𝟩547:7d29:be𝟦7:bb6d:2dc8:f85𝟪:b5e2:𝟩cd9
+Reminder: rotate API keys monthly and validate error handling for timeouts.

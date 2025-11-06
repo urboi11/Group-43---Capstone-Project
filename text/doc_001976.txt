@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Dustin Baker</td><td>fcopeland@mail․hubbard‐rоdriguez.сom</td><td>444 𝟦89-3712</td><td>1𝟫/12/2003</td><td>4913·0880·126𝟤·2240</td></tr></table>

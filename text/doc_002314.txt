@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +79165859682 27723637-767a-44bb-bd6f-9d0f4275c8af 2469db99d3291623e09f160f3ee61b227992a8d9
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 451.823.63.640 candace49(dot)Hill(at)rodriguez.net 4902-5831-5307-6721 092d46062fd60555debe435106e8956612be61e1

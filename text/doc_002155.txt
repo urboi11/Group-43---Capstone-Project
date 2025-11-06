@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4848-4874-3799-8990 93d3c427e7f24042ff18edfd5b9291c375ea4e38 YWJjYWJjYWJj 994.473.815.95
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 35-37-4434 4993-4092-4350-2993 221.63.439.482

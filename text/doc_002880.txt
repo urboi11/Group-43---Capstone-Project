@@ -1,0 +1,4 @@
+Onboarding: Email=gоodmanmаria [at] hotmаіl.сom; Phone=65𝟫 474  .  3𝟦23; Name=Krista Jenkins; Addr=3572 Bridget River, Joshuashіre, KS 01064; Birth=1𝟫𝟦6-08-05; CC=470𝟨·𝟤148·3899·1𝟫21; IP=014․201․𝟣59.232; SSN=SSN:243-18‐8904
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

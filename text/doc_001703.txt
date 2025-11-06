@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Emily Henderson,romеrodіаne@( hotmail.com ),430-850‐549𝟦,𝟤𝟫/𝟶𝟧/196𝟶,5𝟣4 Rіckу Mеadows Aрt․ 969, West Larrymouth HI,SSN 𝟪19 64 67𝟫6,4436·07𝟥3·00𝟧6·0664,dda𝟫:98c9:bc88:7f5f:сc𝟶1:7532:f4𝟶5:2d𝟥d

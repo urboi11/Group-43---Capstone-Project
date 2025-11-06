@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJj chris90(dot)Acosta(at)coleman-thornton.info
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: fe17b042-4e8a-44f3-bded-8da6b920b67f dmendoza(dot)Turner(at)gates.com 0cb575af9a95f57aa9092d47c94722dad1ca657e
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

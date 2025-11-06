@@ -1,0 +1,5 @@
+{"name":"Ryan Hansen","email":"wcаmpbell＠( maіl.romero‐young.com )","phone":"+1 (820) 799-72𝟥8","dob":"08/31/19𝟩3","address":"1𝟨059 Michaеl Glens, Port Justinfort SD","ssn":"715966432","cc":"4728𝟤5𝟣15630550𝟤","ip":"176.145.131.171"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

@@ -1,0 +1,15 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 25-77-6224 joe33(dot)Wilson(at)thompson.net +88426637389 2a1b99d99983b2b9083b6063986893f5e5c8f15b
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

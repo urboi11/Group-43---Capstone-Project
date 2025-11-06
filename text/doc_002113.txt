@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sean Reid</td><td>tinа91@( maіl.diaz.com )</td><td>592–806–8887</td><td>Apr 𝟶𝟥, 2005</td><td>434𝟶-𝟥𝟧73-952𝟨-1840</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

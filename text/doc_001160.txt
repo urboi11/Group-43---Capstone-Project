@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kenneth Love</td><td>rogergray(at)mail.williamsоn-williams․nеt</td><td>4𝟧𝟧–7𝟥1–1831</td><td>20/1𝟣/1958</td><td>4098·61𝟫1·8802·540𝟫</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

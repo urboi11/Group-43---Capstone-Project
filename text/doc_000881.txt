@@ -1,0 +1,4 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 279.410.506.209 88-90-8006
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +34330386455 erika99(dot)Jensen(at)brown.net 4769·6939·1109·8985

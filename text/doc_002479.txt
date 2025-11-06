@@ -1,0 +1,13 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 908.861.584.9 59-91-8128 34312acb-8b7d-4b93-865d-e5e15c55c96f
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4708-0699-4532-1420 andrew03(dot)Sherman(at)wright.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

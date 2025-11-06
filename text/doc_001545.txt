@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Lori Pitts,хhood@@gmail.сom,77𝟣-946-𝟤38𝟧,09-02-1991,𝟶996 Stephens Plains, Langhaven, PR 5𝟫𝟪77,Socіаl Sесurity 084-32-0215,4𝟦47·77𝟶8·𝟶334·5𝟫42,02𝟣.068.254.025
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 677.987.74.476 4602 9925 4048 0207 35-49-2717 c3b64f94-aebe-4fc4-a250-7b504f21969b

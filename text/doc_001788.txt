@@ -1,0 +1,4 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: durhambenjamin(dot)Burns(at)mays.org f204bfdfd6a98d973c498f4d5a2efccea347c544 85-15-1494
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

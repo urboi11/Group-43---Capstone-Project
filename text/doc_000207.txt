@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jose Juarez</td><td>mjohnson at gibson.net</td><td>+3𝟦-509‐405-6313</td><td>07-02‐1955</td><td>4225-6𝟶𝟨2-95𝟥5-06𝟥6</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +56933012135 661.560.508.366 dc15c7c5-53a7-4581-abfc-c52402d3fb7e 4070 2042 6201 9712

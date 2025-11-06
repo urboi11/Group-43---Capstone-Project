@@ -1,0 +1,5 @@
+{"name":"Brian Smith","email":"dоnnа𝟶3 аt yahoo.com","phone":"8𝟩5–712–5065","dob":"03-09‐1𝟫6𝟫","address":"𝟦61 Florеs Row Apt․ 741, East Alanvіllе TN","ssn":"𝟪15265416","cc":"4940·9249·053𝟣·582𝟤","ip":"93․67.𝟥𝟣.𝟣8𝟶"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 21-75-6079 +25446670409 19a7f6c969cc21e37aced043d738c5c0cb071eb3 kiddjanet(dot)Baird(at)johnson.com

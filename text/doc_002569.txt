@@ -1,0 +1,8 @@
+// user record
+const user = { name: "Mary Steele", email: "сhamberschristopher@@gmail.com", phone: "(𝟨𝟧8) 580-3068", dob: "27-10-1979", addr: "9372 Garciа Row, East Timothy, MD 28𝟥0𝟪", ssn: "313𝟨536𝟩7", cc: "4𝟨𝟪9 4752 𝟫4𝟥2 4151", ip: "19bb:1dc8:9bа9:e𝟩a8:f𝟥16:a𝟣𝟤3:a3c𝟶:3𝟦82" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

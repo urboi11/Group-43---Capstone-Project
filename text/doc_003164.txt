@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jessica Boyd,gregory𝟣3 аt lе dot com,+34 947 656 751𝟥,Dec 04, 1949,7𝟩164 Elizabeth Isle, East Mariaberg CО,705‐𝟪0-046𝟨,464𝟤69404236459𝟤,𝟤0𝟨.11𝟦.𝟣8𝟥.8

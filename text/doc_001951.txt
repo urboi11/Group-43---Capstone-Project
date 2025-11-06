@@ -1,0 +1,5 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4432 0416 3225 0927 c3f4c11d-59f0-40c7-88aa-acc2693a8a61 +93841255923
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

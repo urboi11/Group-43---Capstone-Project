@@ -1,0 +1,6 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 993.45.415.559 +62642338065 7c0c4d647349ff8b8bd063dcb5f935d9a94ef3b2 brownjohn(dot)Parker(at)ward.org
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4729·1188·4401·4705 YWJjYWJjYWJjYWJj fbass(dot)Miller(at)vega.net 72a4768e-f62f-4486-bfb6-5261370ca09a

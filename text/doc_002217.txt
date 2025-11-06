@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>John Clark</td><td>tracy63 at hotmаil dot соm</td><td>(542) 832-8151</td><td>𝟣𝟶/1𝟫/19𝟨7</td><td>4𝟣9𝟧 1409 587𝟧 6𝟶00</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 93ed28c841a3ce37174056f4b57103ada1b4b6f9 98319147-5ee3-48bd-b1ff-769d64a26823 +43185605125 908.918.743.808
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

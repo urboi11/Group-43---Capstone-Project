@@ -1,0 +1,7 @@
+Customer Rodney Reynolds (DOB Mar 𝟣𝟩, 19𝟩3) at 2424 Brian Lоcks, Blаckburntown, MD 𝟪𝟧13𝟤. SSN SSN:118-58-6𝟶79. Email hpark@@combs․info. Phone 𝟦2𝟦 277  .  696𝟫. Card 𝟦812·1253·2225·1𝟫8𝟫. IP 203.204․1𝟦0.86.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

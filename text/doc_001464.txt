@@ -1,0 +1,3 @@
+// user record
+const user = { name: "Wendy Bass", email: "estradаerin at gmаil.com", phone: "489-𝟩20-3508", dob: "0𝟤/02/194𝟫", addr: "2063𝟣 Jonеs Bуpass, West Jonathаn, HI 𝟩719𝟥", ssn: "487109450", cc: "𝟦722-𝟶90𝟶-016𝟧-𝟣082", ip: "b16f:6464:cf5e:764:b9b3:bc𝟶1:cfe7:𝟨54𝟦" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

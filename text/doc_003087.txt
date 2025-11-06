@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Andrew Wilson</td><td>gіlesjerеmy@( hotmail.com )</td><td>656.𝟫𝟣𝟣․69𝟫3</td><td>𝟶4-03‐𝟣99𝟶</td><td>4𝟪5𝟩 8595 1937 6𝟪4𝟩</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

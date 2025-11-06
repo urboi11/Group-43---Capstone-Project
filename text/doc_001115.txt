@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: kshaw(dot)Thornton(at)moss.com 18-64-1353 4074-1507-2389-5426 YWJjYWJjYWJjYWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+Changelog: refactor module, update dependencies, and improve logging verbosity.

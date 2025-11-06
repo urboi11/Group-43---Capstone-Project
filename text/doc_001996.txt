@@ -1,0 +1,10 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 64-75-6817 732.248.879.341
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 7e875c8f78bbc6841fb5a8bc5eb6fcb83b3df89a patriciacole(dot)Harrington(at)brown.com +32367140249
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

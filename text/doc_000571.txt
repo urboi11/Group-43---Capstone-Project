@@ -1,0 +1,5 @@
+<p>Release: add audit headers, improve error resilience.</p>
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: ca3b72429274f1dda38dd13f0b7de13ab55c9248 frankmorrison(dot)Reynolds(at)robinson.org 59-57-6486
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

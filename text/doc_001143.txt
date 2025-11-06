@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Derrick Flynn", email: "xcоntreras [at] miller.cоm", phone: "665-821-𝟪148", dob: "Nоv 12, 1938", addr: "69𝟶47 Jones Drive Suite 544, New Kаitlinview ID", ssn: "SSN 838 24 4493", cc: "4𝟥9𝟩62397831𝟣𝟣𝟧9", ip: "𝟣53.𝟥7․148․11𝟩" };

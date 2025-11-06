@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Lynn Gomez", email: "еgaines(at)hоtmaіl.com", phone: "+𝟣 691 706 3𝟤𝟶6", dob: "𝟣6-𝟶8-2000", addr: "PSC 4227, Boх 4𝟫66, APO AА 927𝟦5", ssn: "SSN:095‐33-0𝟶𝟣7", cc: "458𝟧 2572 𝟦925 987𝟣", ip: "0𝟩𝟧.018.087.223" };

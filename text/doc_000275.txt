@@ -1,0 +1,12 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: f19a1a44de73568719b29414b7c9b14573784fbb 7d058c07-01b4-4dfc-b1f4-36eacc8abd69
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 5e9a35cf-0699-476d-9288-b06ad51f03b1 juangould(dot)Simmons(at)meyer-guerra.com 966.292.643.264 34-20-9541

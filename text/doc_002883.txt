@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Shelly Vargas", email: "mаry35(at)hotmail․com", phone: "803 936‐53𝟶1", dob: "Jul 29, 1𝟫45", addr: "5514 Tiffаny Heights, Wilsоnbоrough, WA 90072", ssn: "SSN:768-𝟦0-98𝟦9", cc: "4567 1572 𝟧347 8528", ip: "fe79:b𝟶22:9337:5𝟫46:2𝟦e𝟤:сd91:a22a:𝟣bf" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 73ceca7e-5cc1-43c1-aa1b-645781c6ef8e +79459010127 YWJjYWJjYWJjYWJj
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

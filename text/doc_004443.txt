@@ -1,0 +1,3 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 669.171.374.782 2b56304cb0d74b073b59e2b28857fe8711acbd99 johnnylopez(dot)Kane(at)bailey-jones.com 967028b2-998e-434c-b978-e3c005d4a206
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

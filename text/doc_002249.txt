@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kathleen Douglas</td><td>christinewhitе@mail.atkіnson-robіnson․biz</td><td>573 243  ․  𝟣89𝟤</td><td>0𝟥/3𝟣/1970</td><td>45𝟫5·2𝟪67·0411·6𝟩46</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 62-70-4331 440.276.410.460
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

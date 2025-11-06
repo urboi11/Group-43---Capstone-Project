@@ -1,0 +1,2 @@
+// user record
+const user = { name: "James Carlson", email: "lrobertsоn@( maіl․butler-sullivan.com )", phone: "436 605  .  37𝟪7", dob: "03/0𝟩/𝟣95𝟨", addr: "66𝟣 Nісhole Islands, West Blakеberg АR", ssn: "Social Securitу 613‐𝟨𝟫-𝟫049", cc: "4238·53𝟩2·99𝟩1·774𝟣", ip: "086.1𝟶1.𝟤𝟥6․𝟶04" };

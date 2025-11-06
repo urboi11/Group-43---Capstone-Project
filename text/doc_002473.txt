@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Tonya Stevens</td><td>nicоlemorales аt carter-williams.сom</td><td>(268) 962‐22𝟤𝟫</td><td>06-10-197𝟣</td><td>473425𝟤54029𝟫361</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: petersontyler(dot)Bender(at)juarez.com 4309 0040 2231 0909 YWJjYWJjYWJjYWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

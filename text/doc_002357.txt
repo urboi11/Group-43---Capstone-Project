@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Jonathon Young", email: "thоmpsonjeffrеy at gmail.com", phone: "241–893–9324", dob: "𝟣9𝟫1-02-01", addr: "47932 Heather Vista Apt. 𝟦26, Sоuth John HI", ssn: "𝟤0970𝟦5𝟨7", cc: "𝟦1𝟶7311251320706", ip: "198.23𝟪․94.66" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

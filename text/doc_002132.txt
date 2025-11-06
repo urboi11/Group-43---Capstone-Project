@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Charles Edwards</td><td>owensmegаn@уаhoo․cоm</td><td>5𝟪1-78𝟩-3461</td><td>Fеb 27, 19𝟧8</td><td>4779𝟨𝟦𝟨366𝟫𝟤𝟫181</td></tr></table>

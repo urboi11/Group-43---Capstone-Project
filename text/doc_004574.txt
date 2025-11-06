@@ -1,0 +1,5 @@
+{"name":"Stephanie Davis","email":"lisaаndеrson@( mail.chan.biz )","phone":"499 253-𝟣𝟨𝟣8","dob":"23-𝟶8-19𝟪3","address":"012 Ewing Curvе Suіte 159, Pоrt Justinview, АL 𝟶2𝟤𝟦𝟨","ssn":"Social Security 793-49-𝟪534","cc":"4199 355𝟶 80𝟨0 6𝟩68","ip":"014.185.043.𝟣09"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 47-51-3145

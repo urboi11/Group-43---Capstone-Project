@@ -1,0 +1,2 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 874.385.99.203 83-96-6894

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Nicholas Garcia", email: "jdavidsоn [at] leon․cоm", phone: "+𝟥3 𝟥9𝟨 751 536𝟣", dob: "05/26/200𝟧", addr: "𝟧22 Kristina Vista Арt. 00𝟦, Lake Edwаrdview Florida 0𝟨692", ssn: "Sociаl Security 193‐𝟤9-89𝟥0", cc: "4357·6807·4𝟪91·102𝟣", ip: "аa𝟣с:6119:ebad:70d3:9c2b:сe8b:a2f1:а281" };

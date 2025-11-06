@@ -1,0 +1,12 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4422 9978 5321 0139 6008017fdb90391ada04bef11a14e08c6c236d86 58-27-7693 daniellethomas(dot)Taylor(at)baker.info
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

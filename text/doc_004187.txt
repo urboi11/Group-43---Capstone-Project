@@ -1,0 +1,2 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 62-95-5796 3155ddaa80e0047bcd4fabaa8039b063816b1375 angela09(dot)Ryan(at)weaver.com

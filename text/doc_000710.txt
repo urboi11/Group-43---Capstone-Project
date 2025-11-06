@@ -1,0 +1,9 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: f11bd49964122d1d57ad26c2a3006f84340dc11f kgarcia(dot)Diaz(at)carter.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 69fd9d29aeb0a30a1bc064cc4a3173b70e177058 +86458307937 0aff8196-8b04-4338-83b0-9dadcbe64a16

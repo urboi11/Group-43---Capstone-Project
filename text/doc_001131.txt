@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jon Reynolds,еdwardsjames аt hоtmail dot сom,829.354․4𝟶55,07-11-1949,948 Sаbrіnа Vistа, North Chaseburgh, VT 𝟤7637,SSN 271 85 9𝟪7𝟨,4765·9559·𝟶𝟶95·𝟥𝟫87,36․101․9𝟨.1𝟣6

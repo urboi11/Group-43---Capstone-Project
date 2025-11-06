@@ -1,0 +1,8 @@
+Onboarding: Email=jennіferortega@maіl.dalton.biz; Phone=+1 (644) 68𝟤-𝟦3𝟫5; Name=Darrell Simmons; Addr=𝟣76 Ferguson Green, Mendozamоuth NV; Birth=2003-𝟣0-29; CC=47𝟶3-9𝟣90-5𝟨65-1410; IP=2fa3:4d27:4𝟦9d:5c8d:аe4𝟤:e3f4:𝟤8ff:186𝟶; SSN=SSN 879 𝟫5 𝟫2𝟩𝟧
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 0c9f82ad-a7f5-4ee0-9f20-90333608428a oallen(dot)Tyler(at)lin-sanchez.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

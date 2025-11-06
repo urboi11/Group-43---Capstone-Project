@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Troy Craig</td><td>mіllerbrіttany(at)reyes.com</td><td>(𝟥𝟥6) 251-94𝟨8</td><td>11/26/1934</td><td>4𝟶35 7𝟨𝟧7 020𝟩 8𝟨59</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

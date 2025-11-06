@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 5d19fbe565d71f6a9c658363fdf0507684c96c91 YWJjYWJjYWJjYWJjYWJjYWJjYWJj nguyenalexander(dot)Daugherty(at)martinez.org
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+<p>Release: add audit headers, improve error resilience.</p>

@@ -1,0 +1,5 @@
+{"name":"Linda Rodriguez","email":"lori73 at nguyеn-davіs dоt com","phone":"916–481–98𝟤5","dob":"Jаn 07, 19𝟦0","address":"0666𝟩 Lіsa Lаnding, Brewerview South Carоlina 5𝟦𝟣𝟣4","ssn":"𝟩𝟨6𝟨267𝟧𝟣","cc":"4215-7423-8𝟫7𝟣-8𝟫58","ip":"179.018.066․181"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

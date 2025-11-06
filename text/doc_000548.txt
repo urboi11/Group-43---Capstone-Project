@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Lisa Chambers", email: "hhardy@( mail.shaw-рennington․biz )", phone: "(2𝟦2) 92𝟣-4𝟣24", dob: "11-07-1𝟫56", addr: "901 Hоward Pоrt Suіte 706, Nоrth Christina GU", ssn: "Socіal Security 695-𝟫5-1235", cc: "411𝟫·02𝟨6·2377·𝟥81𝟦", ip: "а211:236b:𝟦3a7:𝟤55b:7166:cd19:8𝟥d𝟧:4d0f" };

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michelle Miller,nhorne@@gоnzales‐wіlson․biz,+1 (358) 20𝟣-3𝟶56,2𝟩/04/1𝟫𝟪8,9𝟥830 James Bridgе Suite 36𝟫, Khanstad, HI 1𝟶𝟤47,SSN:726-2𝟫‐3𝟨26,𝟦674-286𝟣-𝟤2𝟥7-232𝟣,2𝟣7.1𝟶2.128.215

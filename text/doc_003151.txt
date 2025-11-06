@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: briana92(dot)Spears(at)patrick.com 975.619.162.824 4045 1357 1650 5848 a9292b77-23d3-4e66-9048-f88f5e8e0765
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

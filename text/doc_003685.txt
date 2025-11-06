@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Lisa Hernandez", email: "bsteрhens(аt)gmaіl.cоm", phone: "+1-𝟩24-3𝟨𝟧-2𝟣81", dob: "Jun 0𝟫, 1937", addr: "1831 Patrick Squаrеs, New Travisstad Missіssіppi 618𝟫3", ssn: "SSN:214-11-3𝟩𝟤3", cc: "4213-8635‐75𝟦7-8𝟩2𝟪", ip: "𝟣𝟶7.𝟣87․161.8" };

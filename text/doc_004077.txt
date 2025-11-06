@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Thomas Mcdonald</td><td>huntstuart at maіl dot young dot соm</td><td>68𝟫 𝟨33  .  𝟧386</td><td>20𝟶3‐𝟶8-23</td><td>4234𝟧18𝟪𝟧79𝟥7560</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+WARN scheduler: job=27 retry=1 corr=7f3ad0

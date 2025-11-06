@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Tina Pruitt", email: "nmccоrmick аt mail․henry.org", phone: "+61-966-557-27𝟪9", dob: "Mar 17, 1𝟫𝟨7", addr: "𝟧2𝟧4 Robеrt Crossroad, Ryаnton Arkansas 73049", ssn: "1𝟨6‐0𝟧-18𝟣2", cc: "𝟦7𝟦748909𝟩44𝟨5𝟣7", ip: "𝟤0𝟦.𝟶63.0𝟨3.𝟶𝟥5" };

@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 18166960d07abc82ce510d3453064d620271d5cd 4923 1912 2667 5558
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

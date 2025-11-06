@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Lori York", email: "parkercоlleen at barnes.сom", phone: "899–𝟦23–𝟦770", dob: "1𝟫86‐07-𝟶3", addr: "8417 Laurіе Parks, Petersonland, FM 4𝟧17𝟥", ssn: "726-48-1972", cc: "4529-𝟶𝟪𝟥𝟣‐16𝟪6‐744𝟣", ip: "196.12𝟶.𝟣𝟩6.015" };

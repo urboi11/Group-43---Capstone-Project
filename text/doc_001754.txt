@@ -1,0 +1,5 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 22-13-1457 osnow(dot)Palmer(at)taylor.com 19b55ba5-6b88-4883-97f0-678f3f3599c3 997d1a0b4b4bbf0463c690a063457709dbe551f8
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

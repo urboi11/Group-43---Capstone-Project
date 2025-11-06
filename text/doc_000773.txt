@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: cwebb(dot)Martinez(at)gray-combs.info 0b785ac8-4b9c-46f1-af0e-8d04d24f2357 +37931536675
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

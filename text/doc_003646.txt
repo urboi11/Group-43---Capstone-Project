@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Nicole Drake</td><td>lindsay25＠@mail.snуder‐brоwn.сom</td><td>859–68𝟦–4𝟥𝟥0</td><td>Oct 04, 1943</td><td>4356-6255‐505𝟣-𝟨302</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: YWJjYWJjYWJjYWJjYWJj 4633154926105267 420.226.147.713 +86375575176

@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Dr. Allison Patel</td><td>hoffmanbianca(at)hotmаil.com</td><td>563–7𝟦5–983𝟤</td><td>09/06/1987</td><td>4𝟤87·441𝟶·469𝟨·8𝟪8𝟣</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 30803b57-02e3-4a60-8abc-54b379ed1d05 13-39-4235 normanjulie(dot)Schmitt(at)morris-salinas.org +22090040717
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

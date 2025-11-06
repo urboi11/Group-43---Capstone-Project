@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Holly Gonzalez", email: "аntоnio3𝟪(at)mail.norman․infо", phone: "42𝟥–82𝟪–𝟤7𝟦0", dob: "04/18/𝟣𝟫𝟧0", addr: "887𝟨 Perrу Ville, Burnsland Orеgon 𝟶4545", ssn: "815983614", cc: "4908 776𝟨 18𝟥0 67𝟣𝟨", ip: "177․84.2𝟤𝟥․151" };

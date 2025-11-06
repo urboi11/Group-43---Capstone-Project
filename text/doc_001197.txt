@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Adrian Taylor", email: "tcrawford@( hоtmail.com )", phone: "(𝟨6𝟨) 𝟫2𝟤-𝟨𝟩1𝟧", dob: "𝟤1/03/2001", addr: "263 Monicа Valleys, Butlerbury, UT 84563", ssn: "SSN 894 96 1037", cc: "4189 𝟶787 7𝟣98 58𝟪5", ip: "223.47.182.90" };

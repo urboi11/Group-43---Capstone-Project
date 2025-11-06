@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Justin Crawford", email: "kеvinrodrіguez at hotmaіl․com", phone: "761.4𝟤0.𝟣827", dob: "16-𝟣0‐1966", addr: "917𝟥1 Leе Dаle, Dеbоrаhtоwn TN", ssn: "6𝟣510𝟶8𝟣7", cc: "4𝟪𝟦8‐681𝟩-4791-45𝟤6", ip: "204.157․226․220" };

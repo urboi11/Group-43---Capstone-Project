@@ -1,0 +1,8 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 4453875146634991 174014e2-b5d7-411a-a7b2-8bae57b7c263 66-45-3928 748.743.312.785
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +97765261805 b221b2d3-caf6-4e5a-af31-21909c031f32
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

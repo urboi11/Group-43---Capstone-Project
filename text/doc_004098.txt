@@ -1,0 +1,8 @@
+Onboarding: Email=alexiswаrd [at] mail.chambers.net; Phone=83𝟧 32𝟣-3310; Name=Michael Caldwell; Addr=596𝟫2 Delgado Plains, Wattschester Minnesоtа 93𝟩𝟣9; Birth=29-𝟶6-1𝟫39; CC=4217-4933-2𝟪20-8𝟦08; IP=005.205.019.𝟣82; SSN=667-𝟩𝟣-4738
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: ythompson(dot)Hill(at)mckay.com +58302264382
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,3 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: jordan52(dot)Davis(at)luna.net 942.681.881.667 4979702050849458 aaced865-5cb3-4e4d-bb3e-483aeb0c9734
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

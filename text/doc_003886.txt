@@ -1,0 +1,4 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 0b98854f63960cd239ff5d2beee2879eeb0ea2e2 95996236-8b2c-4ac5-b5ea-7d80d7fe0de9 950.363.732.459 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj
+WARN scheduler: job=27 retry=1 corr=7f3ad0

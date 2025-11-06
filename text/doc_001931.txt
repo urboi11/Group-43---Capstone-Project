@@ -1,0 +1,4 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 65-49-4973 241.889.346.782 86f28413-d802-4c31-a5eb-ef9a78401be8
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 677ec05b95c8f617e7b09077a68447c33a2c9c34 stephenharper(dot)Garcia(at)williams-lowery.com +66935309294 73-64-4332

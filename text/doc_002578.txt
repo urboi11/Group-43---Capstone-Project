@@ -1,0 +1,12 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: longconnor(dot)Chapman(at)wilkinson.biz 326.454.760.142 4620d2c2-f23a-491c-8ec6-bb4e5c523139 4573·4018·3609·2739
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

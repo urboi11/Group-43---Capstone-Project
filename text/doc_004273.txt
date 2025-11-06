@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Amanda Peterson</td><td>lbarnеs [at] hotmail.сom</td><td>+1 (42𝟫) 825-𝟧29𝟪</td><td>1938-06-11</td><td>4𝟪6𝟩·74𝟶8·295𝟫·3206</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

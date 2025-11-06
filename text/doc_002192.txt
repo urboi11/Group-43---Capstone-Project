@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: pperry(dot)Mcfarland(at)flores.com 690.609.260.432 +57693961590
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

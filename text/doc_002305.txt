@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4689-8580-3625-8806 06c125ba-95c1-484e-b445-6923ea9672c7 34c3bfe6f53afac1ef609d3de534949bd1805813 998.810.109.981
+Reminder: rotate API keys monthly and validate error handling for timeouts.

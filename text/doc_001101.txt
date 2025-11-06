@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Amy Lyons</td><td>hаrtmansаrah＠mail.stevenson․biz</td><td>(6𝟫7) 𝟧62-8𝟣70</td><td>1𝟫𝟧9-12-27</td><td>4𝟥85-5328-𝟤286-4418</td></tr></table>

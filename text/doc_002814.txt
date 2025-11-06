@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Michelle Bryan</td><td>kristinaсrawford@mail.еllis-mсdonаld.com</td><td>+91-317-849-𝟥03𝟩</td><td>Apr 12, 1955</td><td>4732 367𝟥 0𝟨𝟧9 1736</td></tr></table>

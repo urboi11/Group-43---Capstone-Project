@@ -1,0 +1,5 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: YWJjYWJjYWJj allisongonzalez(dot)Dunn(at)parsons.net
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

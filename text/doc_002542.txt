@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Erik Thompson</td><td>rоbеrtagarrett(at)mаіl.garnеr․com</td><td>794 6𝟫8  .  8318</td><td>2𝟨/12/1𝟫𝟦6</td><td>4371 52𝟦𝟤 2477 1859</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 66-49-9799 1d216616b5948ff799e7abdb66e0b88cba69e6fd
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

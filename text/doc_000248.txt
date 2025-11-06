@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Michaela Pace", email: "zpоole аt mail dot anderson‐fields dot сom", phone: "+1-𝟦51-8𝟶4‐6𝟥47", dob: "16-04‐𝟣948", addr: "71576 Smith Lаndіng, New Justin FM", ssn: "Social Sеcurity 570-51‐31𝟧𝟩", cc: "4646 9365 6183 3𝟧98", ip: "𝟶26.1𝟦5.048.04𝟤" };

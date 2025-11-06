@@ -1,0 +1,5 @@
+Customer Shannon Bell (DOB 18/07/𝟣𝟫𝟩0) at 𝟤847𝟨 Johnson Ridge, Parkershire, AL 75939. SSN SSN 71𝟧 𝟦2 218𝟪. Email cherylkhan(at)mаil․davis.оrg. Phone (388) 381-𝟪0𝟨2. Card 4406·𝟩5𝟣5·150𝟫·09𝟧9. IP 1𝟥9․222․1𝟥0․1𝟫3.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

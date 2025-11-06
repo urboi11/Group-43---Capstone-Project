@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4006229594889444 21617f0c64fd2b0f65cb817ae6af442ca0d63710 73-62-4953
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

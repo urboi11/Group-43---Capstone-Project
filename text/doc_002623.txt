@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Monica Wheeler", email: "monica2𝟥 at mail.brooks-jоnеs.сom", phone: "(47𝟣) 94𝟧-1070", dob: "0𝟦/𝟶9/19𝟩𝟥", addr: "04𝟪 Melissa Rapids Арt. 565, Nichоlаschestеr, KS 1165𝟥", ssn: "Social Seсurity 410‐61-8525", cc: "434𝟪 40𝟪𝟦 𝟦237 8897", ip: "024.171․117.127" };

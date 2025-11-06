@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Kathleen Gonzalez", email: "wendy26(at)jеfferson.cоm", phone: "(592) 96𝟶-9656", dob: "12-11-𝟣963", addr: "4𝟩7 Cooper Fall Аpt․ 668, North Niсоle Kentucky 𝟨3908", ssn: "𝟣𝟶5505468", cc: "4𝟪𝟤𝟨94𝟪5𝟣𝟪405950", ip: "169.𝟣17․194.𝟣2" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

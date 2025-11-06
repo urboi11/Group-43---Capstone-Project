@@ -1,0 +1,5 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +77938689640 201646ab5001c53311a207ab6b730d77e7506064 graysonia(dot)Gonzalez(at)russell.com
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 59-88-3219 vcurtis(dot)Ochoa(at)horn.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

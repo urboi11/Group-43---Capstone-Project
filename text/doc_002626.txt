@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Randy Brown,valerie69 [at] gray․org,665-804-𝟨355,May 04, 1940,56𝟣1 Zacharу Squares, Lake Kristenport WA,SSN 80𝟤 44 980𝟫,4241 329𝟦 𝟫889 𝟩75𝟦,b3b4:c6𝟩a:𝟣474:b9𝟥9:𝟩bf0:a𝟥97:4955:cdcс

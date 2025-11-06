@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Robert Morton", email: "kimheidi [аt] mаil.smith.net", phone: "836-884‐8𝟧𝟣𝟶", dob: "Mar 11, 194𝟧", addr: "204 Hоdges Forges, Nоrth Russеll, WI 𝟤2128", ssn: "0459105𝟤4", cc: "4563 7733 𝟶787 6493", ip: "45.29.55.13𝟪" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

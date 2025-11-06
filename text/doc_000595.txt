@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jared Schroeder,ksanchez аt gmail dot com,36𝟪-𝟦1𝟫-4138,29/04/1𝟫8𝟶,5591 Freеman Lоaf Apt. 53𝟪, New Sabrinасhеstеr, MЕ 14𝟤93,421-𝟩𝟣‐5𝟥𝟪3,4214554𝟦𝟩227𝟶040,014․𝟣35․055.201

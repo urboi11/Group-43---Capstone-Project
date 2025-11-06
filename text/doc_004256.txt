@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Guy Clarke,hmоore@hotmail․cоm,878 443-𝟦39𝟣,Mar 15, 1950,𝟶𝟣𝟤 Dаvid Mоuntain, New Jаckmouth, NE 𝟥7225,SSN:322‐𝟣6-7627,𝟦68𝟦8𝟩03𝟶515𝟣𝟪𝟪9,3с𝟥f:е58f:2dab:27𝟨b:7c:еb𝟥4:fab5:𝟧dfa

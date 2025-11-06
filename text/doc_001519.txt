@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jennifer Thompson", email: "edwinhenry@( choi-paul․com )", phone: "698 40𝟩‐78𝟦3", dob: "05-06-1𝟫72", addr: "7𝟫9𝟪 Nolаn Spurs Apt. 851, Huntburgh NJ", ssn: "SSN:021-3𝟨-𝟩303", cc: "453𝟨·9220·0𝟤𝟧𝟪·2𝟤1𝟣", ip: "𝟣1𝟩.1𝟤8.1𝟫2.88" };

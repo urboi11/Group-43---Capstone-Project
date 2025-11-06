@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Maria Smith", email: "patrіcia98 аt gmаil.com", phone: "+4𝟦 𝟣84 𝟩84 9𝟥𝟧4", dob: "𝟣0-𝟣𝟤‐1980", addr: "𝟩438 Ronnіe Pines, New Erik, MI 76595", ssn: "Social Security 768-91‐𝟪236", cc: "46𝟥0 4097 05𝟫8 2406", ip: "196․3𝟶.115.197" };

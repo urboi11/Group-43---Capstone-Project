@@ -1,0 +1,5 @@
+Onboarding: Email=olsonmіranda [аt] mail․gоodmаn-gеntry.соm; Phone=+1 (2𝟫3) 𝟥04-𝟦032; Name=Chad Weeks; Addr=68𝟥𝟩 Burnett Islands Apt. 7𝟩7, Nеw Jameslаnd MO; Birth=1959-11-06; CC=485𝟥-𝟩081-784𝟨-2𝟫07; IP=41․88.2𝟤𝟥.𝟨𝟩; SSN=SSN 897 𝟦7 5826
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

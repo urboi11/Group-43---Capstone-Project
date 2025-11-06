@@ -1,0 +1,4 @@
+name,email,phone,dob,address,ssn,cc,ip
+Lori Gibson,lisaallen аt tаte-miller dot cоm,+61 𝟨𝟤6 9𝟫2 8855,1945‐12-1𝟧,𝟤3662 Tоm Centers Suite 069, Mariomouth SC,SSN 2𝟧2 0𝟫 8335,𝟦745-𝟣949-596𝟥-5429,1𝟩7․178.00𝟩.𝟣89
+<p>Release: add audit headers, improve error resilience.</p>
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

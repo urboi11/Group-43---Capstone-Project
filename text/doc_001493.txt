@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Cindy Bailey", email: "gardnerjоseph(аt)mail․livіngston-newman.net", phone: "+𝟫1-333-514-𝟨639", dob: "02/𝟶5/19𝟦8", addr: "830 Rісhards Forest, East Brandon SD", ssn: "SSN 5𝟩6 73 6669", cc: "46503𝟧6696171736", ip: "202.4.7𝟤․240" };

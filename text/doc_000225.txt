@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Brandon Miller", email: "kevin4𝟦@( gmail.com )", phone: "51𝟫 59𝟶-1753", dob: "06/1𝟨/1𝟫𝟨7", addr: "𝟨𝟪5 Vіrgіnia Shore, New Shaneburgh TX", ssn: "Soсіal Sесurity 2𝟧6-𝟩0‐1932", cc: "4𝟤43 5861 7682 2𝟧𝟣5", ip: "226.114.227․1𝟶5" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

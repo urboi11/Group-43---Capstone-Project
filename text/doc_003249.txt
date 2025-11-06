@@ -1,0 +1,12 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 76-22-7710 aced557e265d1be5ffd1cf5e680776cbf8473f98 4977-6880-4642-1984 721.923.269.2
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

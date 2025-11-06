@@ -1,0 +1,9 @@
+name,email,phone,dob,address,ssn,cc,ip
+James Ray,oallеn@＠hotmail.com,+𝟣 2𝟨8 37𝟤 809𝟩,10/03/19𝟪2,18287 Jose Knolls, Codyland, SD 19517,Social Security 395‐32-7𝟩67,4𝟣23-0908-6𝟣2𝟶-8853,df:𝟦1e3:d546:е69a:4b0c:acfc:𝟨e7d:30eb
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: b186840ebefcc27070d03acef628448f61c40ab9 +52320443919
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

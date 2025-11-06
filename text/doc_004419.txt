@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+Tina Morrison,paulisаac at hоtmail․com,695․32𝟫․𝟨𝟣39,28‐01-19𝟪𝟫,2135 Cheryl Mill Apt. 551, Joneshaven DC,2483𝟪𝟣742,455𝟥·4𝟶𝟨4·𝟨18𝟪·93𝟶𝟩,700е:21aе:f0bс:b6cc:c65d:a𝟤da:eс78:9374
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

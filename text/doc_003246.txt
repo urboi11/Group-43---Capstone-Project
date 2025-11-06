@@ -1,0 +1,9 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +91622717428 1babe0d9-6ef0-4149-9557-c694334025a4
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Reminder: rotate API keys monthly and validate error handling for timeouts.

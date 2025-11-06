@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Gabriel Thomas", email: "bmаy@( hоgаn․сom )", phone: "(603) 𝟤2𝟦-7𝟫1𝟣", dob: "𝟣5/𝟶2/𝟣941", addr: "39359 Timothy Cape, New Scott Maine 𝟣𝟧𝟶9𝟶", ssn: "596635𝟧39", cc: "4176-350𝟪‐388𝟧-𝟧8𝟥0", ip: "202.136.4․51" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 9ca0bb87-1fb4-4f74-9b16-a709b01d2ece YWJjYWJjYWJjYWJjYWJj
+WARN scheduler: job=27 retry=1 corr=7f3ad0

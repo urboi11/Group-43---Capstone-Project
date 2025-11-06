@@ -1,0 +1,10 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 46ec1089e807e231f942d911c6c46a788d8e1537 YWJjYWJjYWJjYWJjYWJjYWJjYWJj 740.420.326.280 4220·2123·7205·5039
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 3002383c002c474f6ee1c0a92df8c7110877d337 4118·1519·8545·8295 +44278051451
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>William Castro</td><td>megan29(at)mail.cochran.com</td><td>+𝟣 (271) 843-48𝟤8</td><td>2𝟫-08-1993</td><td>𝟦0𝟤9608𝟶6𝟧𝟣99761</td></tr></table>

@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Hunter Patterson", email: "joshuаriсe@( silva․сom )", phone: "+33 616 743 9865", dob: "29‐𝟶5-1956", addr: "5𝟤𝟧7 Burton Plains, Nоrth Timothybеrg TX", ssn: "SSN:788-9𝟣-𝟧810", cc: "4496·7724·𝟤36𝟨·0882", ip: "209․127.66.220" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

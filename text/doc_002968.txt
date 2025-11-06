@@ -1,0 +1,5 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 80-62-5708 7479ed12-4017-4595-bdee-49a4eb9ad23c +66244114565
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,7 @@
+// user record
+const user = { name: "Jennifer Reid", email: "amandarobinson(at)mail․peters-lоpez.org", phone: "(5𝟤0) 𝟤𝟨1‐7698", dob: "1𝟫45‐04-𝟤4", addr: "𝟪𝟥8 Donald Ridge, Lewischester PW", ssn: "SSN 𝟨2𝟶 21 04𝟣𝟫", cc: "4986 𝟣314 47𝟤3 600𝟦", ip: "6979:663𝟶:6272:daa8:6𝟨8a:𝟩090:76сf:3𝟫ee" };
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 50-42-9268 4840·4444·1441·0899
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

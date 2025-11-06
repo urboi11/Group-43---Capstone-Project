@@ -1,0 +1,8 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: dmacias(dot)Nguyen(at)martin-oliver.com 815.98.805.162 a53b781d-2976-4cb2-b97d-13112cc44d19 +32510693124
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +55315355349 stephensmith(dot)Pham(at)sullivan-griffin.com 4048·7068·3172·9305
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

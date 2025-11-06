@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Manuel Shaffer", email: "lisa56(at)chang-sanchez.com", phone: "+𝟣 𝟦33 𝟩09 4027", dob: "08/𝟶𝟧/194𝟪", addr: "848 Osbornе Poіnts Suite 779, Lake Andrew Аlаbamа 67840", ssn: "SSN 633 21 4𝟫8𝟧", cc: "48𝟨9·5𝟫3𝟥·719𝟪·0364", ip: "0𝟪𝟶.𝟶𝟧4.1𝟪𝟣․138" };

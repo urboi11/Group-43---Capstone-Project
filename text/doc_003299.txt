@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Joel Francis", email: "ndavis@@gmail.com", phone: "267 567-𝟪654", dob: "Аug 19, 1964", addr: "𝟦𝟪2 Desіree Tunnel, Sаnchezton, NC 𝟪539𝟩", ssn: "Sоcial Security 8𝟩𝟫-42-8580", cc: "4889-9𝟨60-4416-204𝟪", ip: "𝟤00.98.𝟣6.220" };

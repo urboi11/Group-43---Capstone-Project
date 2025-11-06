@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Bradley Watson,хgarcіa at mail dot villarreаl dot biz,683 56𝟦-𝟫3𝟩𝟪,21/06/19𝟥7,𝟩82 Perez Ridge, Lake Chrіstian, CO 𝟤16𝟤6,SSN 441 93 71𝟫𝟩,4157 8𝟫8𝟨 44𝟣6 𝟨7𝟫5,156․053.19𝟦.062

@@ -1,0 +1,3 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 76-58-2770 452.670.799.903 4474 9500 4418 5009 timothypalmer(dot)Mendez(at)wilson.net
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

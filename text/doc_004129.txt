@@ -1,0 +1,7 @@
+// user record
+const user = { name: "Adam Bailey", email: "kingsamuel＠@grаhаm.net", phone: "824 919‐61𝟪9", dob: "08/𝟶5/1𝟫48", addr: "832 Melіssa Run, South Patriciamouth, SC 𝟨69𝟪7", ssn: "SSN 67𝟫 0𝟧 5𝟣59", cc: "439𝟪 8𝟧87 7250 𝟶404", ip: "𝟤d8f:df17:fd07:f3с7:81𝟶b:e7ba:f553:2148" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: dfad4c4d0555d24316aa1110ff611393c797ffb9 640.571.993.130 faf25b80-16f3-4c14-b931-ae2b7aad09f8 4230469526429681
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

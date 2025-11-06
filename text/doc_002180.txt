@@ -1,0 +1,2 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: +42454638229 gbraun(dot)Ray(at)williams.org

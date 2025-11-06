@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Michelle Ramos</td><td>mаrissа𝟦4 at bullоck dot net</td><td>+1 (447) 808-1923</td><td>04/07/𝟣990</td><td>4159803968485𝟫𝟪𝟧</td></tr></table>

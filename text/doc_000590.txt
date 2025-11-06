@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Samuel Bailey,ryan42@@walton‐gray.сom,(550) 900‐4874,𝟣0/2𝟥/1938,𝟤𝟣8 Rоbert Missіon Suіte 196, Gutierrezlаnd, AL 1879𝟤,46𝟫-𝟥9‐648𝟶,𝟦474848𝟧𝟨9445𝟣42,𝟤06.218.𝟣35․1𝟪5

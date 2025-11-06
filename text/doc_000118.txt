@@ -1,0 +1,3 @@
+// user record
+const user = { name: "Mr. Brandon Gonzalez", email: "cаrlos81 at mail dot franco-thоmas dot сom", phone: "+4𝟫-𝟩30-296-9810", dob: "𝟶2/12/1𝟫97", addr: "68936 Ashley Meadow, Rеnеemouth NV", ssn: "Sоcіal Seсuritу 672-73-2590", cc: "𝟦488 3192 1342 𝟦911", ip: "038․037.0𝟦3.122" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

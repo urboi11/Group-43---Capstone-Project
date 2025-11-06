@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Billy Brown", email: "millermelissa at hotmail dоt com", phone: "(4𝟶2) 846-1254", dob: "16‐0𝟣-1951", addr: "9𝟩700 Dаvid Ranсh, Port Sсоttview, MH 71693", ssn: "SSN 234 1𝟶 3932", cc: "𝟦9𝟩𝟦·5052·316𝟧·67𝟩0", ip: "𝟤05.207.2𝟦0.5𝟥" };

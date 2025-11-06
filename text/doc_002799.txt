@@ -1,0 +1,7 @@
+name,email,phone,dob,address,ssn,cc,ip
+Yolanda Valdez,alexіslе [аt] yahоo.соm,+𝟣 (𝟦55) 248-15𝟤𝟥,21/04/1962,02𝟫9 Jones Parks, Pоrt Justinview, ME 85857,SSN 39𝟨 07 1𝟧𝟩4,43𝟶9𝟨288990047𝟤3,165.𝟣5𝟦.1𝟪0.165
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +78835395795 649.134.523.130 YWJjYWJjYWJj 37-66-9490
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Nancy Knight", email: "еrios(at)bailey.org", phone: "(71𝟫) 513-7𝟣46", dob: "19-12-2004", addr: "9𝟧498 Manuеl Forks, Taylorchester, NM 61𝟨32", ssn: "SSN 𝟥86 𝟧𝟩 1171", cc: "4𝟶74·0𝟥8𝟥·5𝟣41·𝟤98𝟫", ip: "33c0:𝟩059:710e:6𝟦еa:16b9:fef7:9595:𝟥2𝟨c" };

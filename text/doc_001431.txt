@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sara Young</td><td>amаnda𝟧𝟣@mаil․king‐dougherty.com</td><td>+𝟣-876-524-𝟣976</td><td>1969‐07-09</td><td>483𝟶𝟫1821𝟪972𝟤𝟪0</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj jennifer85(dot)Mcguire(at)smith.org 522.107.28.146

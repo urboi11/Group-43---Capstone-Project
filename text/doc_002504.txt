@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Douglas Grimes</td><td>curtis49@@hill․сom</td><td>+1-228-792-1𝟶25</td><td>08-08-1946</td><td>4720 089𝟩 1434 0936</td></tr></table>

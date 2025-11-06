@@ -1,0 +1,6 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 676.654.542.885 jamessims(dot)Barnes(at)powers.com fd5ccaab593ae204b02184f588cb65d7143ba48f
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

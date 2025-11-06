@@ -1,0 +1,4 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 20-62-8482 erica06(dot)Thompson(at)romero.com 569.387.908.584 4385-3180-4250-8247
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +77139040193 19-54-1859

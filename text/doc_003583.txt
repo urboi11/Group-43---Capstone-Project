@@ -1,0 +1,6 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 98-15-1741 rwilliams(dot)Diaz(at)medina.com faa8f4b6-87b2-4ee4-8780-792cac881080 YWJjYWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+WARN scheduler: job=27 retry=1 corr=7f3ad0

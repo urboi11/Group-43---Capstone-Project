@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Rachel Allen</td><td>avilajohn at mаіl․williams-nash.cоm</td><td>509.𝟦09.74𝟪𝟨</td><td>Oct 10, 2𝟶01</td><td>4472 𝟶207 95𝟧𝟫 1493</td></tr></table>

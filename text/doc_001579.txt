@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: toni11(dot)Aguirre(at)kelly.com 403ead9fc94aa1f2ca130bcf1b083ad2f12ccb0c 70-91-4385 YWJjYWJjYWJjYWJjYWJjYWJj
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4432·1198·6308·5628 dgomez(dot)Reynolds(at)lewis-perez.com 507.170.250.434 81-78-3365

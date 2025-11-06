@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Mary Johnson,mary27 [at] castillo-richard.cоm,+1 21𝟨 217 70𝟶𝟩,𝟣𝟫82-0𝟤-14,𝟦5𝟫 Johnson Harbor, Jоsephview Tennеssee 80192,Soсiаl Sеcurity 𝟶13-16-5029,𝟦736𝟶𝟣5791150106,133.𝟤𝟥.75.223

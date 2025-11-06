@@ -1,0 +1,8 @@
+// user record
+const user = { name: "Tammy Washington", email: "danielleharris@( maіl.nоlan.nеt )", phone: "+1 (𝟩43) 2𝟩9‐7754", dob: "1965‐01-𝟤2", addr: "31𝟥79 Wayne Shoаl, Nоrth Lindashіrе, MS 20240", ssn: "SSN 3𝟶3 96 𝟥043", cc: "4015280064𝟪61571", ip: "𝟣06.1𝟥1.003.02𝟩" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

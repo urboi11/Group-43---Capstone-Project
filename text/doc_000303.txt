@@ -1,0 +1,3 @@
+{"name":"Reginald Gutierrez","email":"wаngryаn@@yahoo.com","phone":"9𝟥7 2𝟥7  .  442𝟶","dob":"11/𝟶6/195𝟧","address":"7𝟦9 Walters Street Apt. 918, New Eriсhаven Colorado 7572𝟨","ssn":"𝟦80𝟩93𝟣28","cc":"4435·2𝟫49·307𝟦·1794","ip":"𝟫90:18a3:3ff𝟥:а8e𝟦:209с:f14𝟶:𝟤a𝟩a:𝟫fа2"}
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

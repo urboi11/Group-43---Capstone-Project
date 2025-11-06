@@ -1,0 +1,7 @@
+name,email,phone,dob,address,ssn,cc,ip
+Alexander Thomas,osbornetimоthy＠dunn-kennedy․com,3𝟪5–423–6183,Oct 0𝟤, 1991,3𝟪6 Lisa Shoals Aрt. 862, Nоrth Mariashire, MA 73738,2𝟦306𝟥4𝟪7,4𝟩01·5389·1𝟥𝟩4·6023,1𝟫5.6𝟩.150.𝟣56
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJjYWJjYWJj 241a0931-6fdb-4dab-b808-58508f6fcd04 759.456.834.413 adamschristine(dot)Vaughn(at)hill-marshall.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Anthony Vasquez</td><td>georgеgillespie(at)hоtmail.соm</td><td>+33 9𝟨9 540 5544</td><td>16/02/1976</td><td>48𝟫7·31𝟣5·2188·2𝟥𝟥1</td></tr></table>

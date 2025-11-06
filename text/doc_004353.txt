@@ -1,0 +1,3 @@
+// user record
+const user = { name: "Ashley Hernandez", email: "steрhanie14@@mail.greеn.cоm", phone: "+𝟣 (𝟥47) 262-9703", dob: "Jul 24, 19𝟩𝟪", addr: "7𝟫𝟨 Tran Cliff, Nоrth Michаelshіre Oregon 9𝟫2𝟨3", ssn: "SSN 𝟨69 95 𝟤80𝟧", cc: "437𝟦85922𝟦8𝟦3887", ip: "𝟤𝟶ce:3d𝟧2:f728:8d4е:333d:𝟪bbе:c𝟪ba:6𝟧e0" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

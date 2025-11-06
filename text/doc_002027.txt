@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>David Cooper</td><td>ztorres@( gmаil.com )</td><td>+1 𝟨0𝟦 𝟧09 𝟦082</td><td>199𝟨-𝟣𝟤‐26</td><td>4266‐9460-8960-638𝟥</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 41-77-8465 carol93(dot)Jones(at)watson.org

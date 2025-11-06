@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 21ef42cc-1b89-46aa-a1bd-240181ec72e8 +63682942909 YWJjYWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+<p>Release: add audit headers, improve error resilience.</p>
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

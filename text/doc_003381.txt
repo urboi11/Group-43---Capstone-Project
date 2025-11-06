@@ -1,0 +1,2 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

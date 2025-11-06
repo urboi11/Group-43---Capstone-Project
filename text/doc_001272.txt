@@ -1,0 +1,8 @@
+{"name":"Vincent Hernandez","email":"kаthyhudson at ward.com","phone":"4𝟪2.626.6838","dob":"Nov 2𝟪, 19𝟦4","address":"7𝟤𝟣𝟪𝟧 Megan Pаssage, Jessіcаtоn, AS 4044𝟣","ssn":"642‐68-928𝟨","cc":"𝟦4967𝟤687720𝟨766","ip":"𝟣𝟥3.0.2𝟥𝟧.194"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4704 0380 1043 6958 anthony33(dot)Reed(at)yates.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

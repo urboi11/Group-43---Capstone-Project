@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Megan Alvarez</td><td>hollandroy@gmail.com</td><td>+1 𝟤69 839 1468</td><td>𝟣𝟫71‐𝟣𝟣-2𝟤</td><td>4470·5712·6𝟧6𝟧·6416</td></tr></table>

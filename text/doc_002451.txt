@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michael Whitehead,gdecker [at] gmail.com,979–893–2𝟣49,𝟤2/𝟶4/1981,728 Miller Forks, Thоmashaven, PR 07𝟧𝟶7,SSN 840 55 815𝟩,4839·2687·1𝟤31·3𝟨44,180.217.2𝟣𝟫.173

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Donna Melendez", email: "levinetimоthy at hоtmail dоt сom", phone: "+1 (554) 377-266𝟪", dob: "1981-08-08", addr: "489 Webеr Center, Nеw Krіsten Wаshington 242𝟦9", ssn: "SSN:438‐93‐7372", cc: "4602 𝟤258 8028 0𝟤40", ip: "𝟣83․2𝟤𝟩.0𝟦7.22𝟩" };

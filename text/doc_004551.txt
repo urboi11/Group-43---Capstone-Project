@@ -1,0 +1,4 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 2818c076-d8b1-4078-ab44-4b969dfe8077 4974·9379·4127·6891
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

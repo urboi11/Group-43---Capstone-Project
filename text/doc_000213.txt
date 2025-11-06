@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jeremy Smith", email: "smithvincent(at)brоoks.оrg", phone: "6𝟶8–𝟧57–98𝟫2", dob: "12/0𝟫/𝟤001", addr: "627𝟩 Wagner Street Suite 𝟤𝟩0, Simmonsland WV", ssn: "SSN:𝟤01-20-𝟥10𝟩", cc: "496363𝟩2𝟨29𝟦2069", ip: "𝟣𝟧6d:е𝟤88:a𝟦7𝟤:1ca1:d1а4:e006:1071:𝟪7d9" };

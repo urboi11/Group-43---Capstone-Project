@@ -1,0 +1,6 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 20-29-3681 66fc5ee1-1edb-424e-ba0e-432493c872a5 3c2272767ea635cc065c225a42b448189a29b7af
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj dthompson(dot)Mendoza(at)smith-evans.com

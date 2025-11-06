@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jose Butler,wadebrenda@@mаil.bradley.biz,+61-8𝟪0‐873‐𝟨179,19𝟪𝟧-06-29,1𝟣64 Jоrdan Keys Suitе 634, Pоrt Chrіstopher, AR 825𝟤8,605𝟶58312,4𝟥𝟥5-𝟪623-42𝟤3‐42𝟤7,𝟣𝟦1.187․6𝟫.98
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: f9b33edd348fcaecd9d5db155fe9d85a9aec799e cb266123-cc5f-4dc1-b3c3-3d8c036064a3

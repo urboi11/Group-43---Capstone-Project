@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sarah Collier</td><td>allensara at gmail dot com</td><td>+1-𝟦61-𝟪05‐36𝟫8</td><td>29-02-1964</td><td>𝟦95𝟪 2𝟨16 9134 3810</td></tr></table>

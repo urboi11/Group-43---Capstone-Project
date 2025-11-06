@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Mark Chen MD", email: "brandylarsen at hotmail.com", phone: "957 99𝟨  ․  1𝟧88", dob: "𝟣2-09‐1954", addr: "463𝟶 Howell Skyway, Lakе Mіchаelfort Delaware 09𝟥𝟩2", ssn: "470‐5𝟩-5235", cc: "4916·28𝟪𝟦·4835·75𝟥9", ip: "7214:ea3а:ae𝟪:a721:21bf:𝟤d3𝟶:24b:351c" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4417 6503 6029 1936 glambert(dot)Lambert(at)smith-murphy.com 556.690.123.158 e22188da494db4686191c74b4bc206b593b99ea2

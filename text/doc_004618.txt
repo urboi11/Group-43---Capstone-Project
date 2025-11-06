@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Michael Kennedy", email: "wolfsаrаh@@gmaіl.com", phone: "3𝟩7 201‐7693", dob: "𝟣0/𝟤5/1991", addr: "46116 Lee Knoll, Robertsonville, NM 48150", ssn: "SSN:74𝟧-91‐964𝟣", cc: "412𝟦·6007·0831·𝟣𝟦93", ip: "75.𝟣𝟦0.23.130" };

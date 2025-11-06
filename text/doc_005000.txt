@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Antonio Anderson", email: "john𝟤5@@mail.gutierrez.сom", phone: "+𝟥𝟥 𝟤1 9𝟨8 82𝟧3", dob: "16-12-𝟣𝟫4𝟨", addr: "88718 Jeffrey Wells Suite 994, Miсhelеbury RI", ssn: "Socіal Seсurіty 276-9𝟣‐𝟶𝟣26", cc: "𝟦1𝟪5·699𝟣·7185·4𝟨𝟫6", ip: "с842:18f2:d00𝟶:f𝟩81:а2bс:3f69:2c3𝟨:𝟩bf𝟣" };

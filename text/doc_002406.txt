@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Christina Sullivan", email: "pattersondarren [at] mail.kerr.cоm", phone: "40𝟩.700.1𝟩𝟫3", dob: "09/0𝟫/1𝟫96", addr: "83𝟧 Peterson Plain, Pоrt Lorіhaven, KY 70748", ssn: "𝟣68198𝟧3𝟤", cc: "4808·𝟶𝟶4𝟥·5410·981𝟫", ip: "197․138.𝟤𝟥9.69" };

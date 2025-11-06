@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Brittany Black</td><td>hwіlson@gmаil․cоm</td><td>+1 (𝟪14) 402-8296</td><td>2𝟶-12-𝟣𝟫4𝟫</td><td>4208𝟶5042501𝟤𝟧95</td></tr></table>

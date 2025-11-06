@@ -1,0 +1,10 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 483.917.76.175 brownchristian(dot)Johnson(at)smith.net 77-28-3561 4861-3928-0007-7476
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJj 501.323.695.632 813ad311f160c125640f771b9b8b1d6251a35544 4972 1498 7576 0725
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

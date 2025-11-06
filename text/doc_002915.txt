@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Ricky Cruz</td><td>dianaaguilar at gmаil.соm</td><td>2𝟨2.901.165𝟥</td><td>Feb 09, 1978</td><td>4983 6𝟪8𝟫 14𝟪1 3519</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: yateskayla(dot)Ware(at)garcia.com 5b5e8422-9bcc-4cb7-a057-7c3987608e1e

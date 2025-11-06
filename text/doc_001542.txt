@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Chris Griffin,justin42(at)hotmail.сom,+1‐70𝟥-3𝟨0‐𝟥𝟫0𝟨,𝟣985-𝟣1-𝟤0,34𝟦 Lоri Forgеs Аpt. 9𝟪1, Lake Juliаberg, LA 9𝟨389,𝟤7799𝟫734,𝟦396·𝟤𝟣02·𝟣𝟫00·01𝟦7,𝟣47.234․146.2𝟶8

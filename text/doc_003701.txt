@@ -1,0 +1,7 @@
+// user record
+const user = { name: "Corey Santos", email: "rіcealice [at] mail.frу.biz", phone: "+44 59 41𝟶 9𝟩𝟪𝟪", dob: "1984-06‐19", addr: "632 Brown Valleys, Arthurborough AL", ssn: "𝟪958𝟪𝟩66𝟫", cc: "𝟦028·13𝟨9·3𝟤𝟩𝟨·3487", ip: "218.067.0𝟤7.024" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

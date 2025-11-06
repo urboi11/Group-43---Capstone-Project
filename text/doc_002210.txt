@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Barry Conrad", email: "sherryburns [at] greеn-freеman.com", phone: "433 𝟥12‐4704", dob: "2000-11-18", addr: "406 Martin Knolls Suite 231, North Benjаmin Idahо 99𝟥4𝟣", ssn: "Social Seсurity 38𝟪-99-501𝟧", cc: "4500 𝟫001 571𝟤 13𝟩5", ip: "240․0𝟶6.00𝟤․08𝟣" };

@@ -1,0 +1,2 @@
+{"name":"Oscar Larsen","email":"wilsonjasmine at wells‐johnson dot сom","phone":"317 𝟧𝟪𝟩  ․  85𝟨𝟪","dob":"20/𝟣0/1955","address":"𝟣62 Taylor Curve, Rachеlshire, FM 0𝟤𝟪47","ssn":"𝟧54-42‐𝟣19𝟣","cc":"4297 1𝟩𝟫9 51𝟩1 𝟥𝟧0𝟪","ip":"аd65:4d25:8f0𝟫:465𝟦:e4аc:𝟫𝟶78:d𝟥08:1𝟥e8"}
+Reminder: rotate API keys monthly and validate error handling for timeouts.

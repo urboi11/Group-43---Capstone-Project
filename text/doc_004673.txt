@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +47696230305 ibarramichael(dot)Thomas(at)warren-horton.info 471.836.553.218 0f7abf6d-e944-45c3-b3e9-8965d26563f4
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: +99196349517 YWJjYWJjYWJjYWJj 4558-4160-2691-2250 d41a594cc433c11e34c85ea8e2b12736e4611538
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

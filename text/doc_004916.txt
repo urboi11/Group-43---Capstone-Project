@@ -1,0 +1,9 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +99650348503 273.342.804.182 52cebd590915063c14d39116133bb052275fda73
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

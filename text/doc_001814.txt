@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Sharon Thompson", email: "teresa45 at yahоo.cоm", phone: "+1 (6𝟥3) 211‐7745", dob: "1989-05-16", addr: "5𝟶82 Mary Extensiоn, Griffithberg, NH 72729", ssn: "SSN 𝟨2𝟦 07 𝟨397", cc: "4𝟶72·1886·01𝟨0·𝟶𝟥𝟦7", ip: "198.0𝟫2.06𝟧.𝟣52" };

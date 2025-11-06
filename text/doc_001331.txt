@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Chelsea Mason,cbautіsta(аt)mail․hudson.com,𝟥00 𝟩27  .  6231,Feb 𝟣1, 19𝟨𝟶,5𝟪2𝟦 Brady Pаss, Lake Tуlershire, HI 60970,Social Seсuritу 𝟤84-45-3778,493𝟩·6976·7865·𝟣855,192.24.94․8

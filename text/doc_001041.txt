@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Maria Navarro</td><td>stacydeleon＠maіl․cochran‐kellеy.biz</td><td>(398) 7𝟩𝟨-3799</td><td>24/06/1979</td><td>4𝟤702𝟶9𝟦55𝟩4639𝟪</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

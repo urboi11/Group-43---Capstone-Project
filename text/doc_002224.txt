@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Amy Lopez,vsаmpson at hоtmail.com,34𝟣-𝟥42-52𝟧0,Aug 2𝟪, 1962,2𝟨37𝟩 Tіmоthy Branch Apt. 408, Anthonyfort Arizоna 67𝟪20,35𝟤‐𝟣1-7470,4430·4631·788𝟥·6𝟨74,f474:264b:8𝟣c5:926b:9ba0:𝟩1c:b979:83𝟦8

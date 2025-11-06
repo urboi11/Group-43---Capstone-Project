@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: allenwinters(dot)Trevino(at)burns-allen.info +68404171972 YWJjYWJjYWJjYWJjYWJj
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: amanda12(dot)Velazquez(at)hernandez.com 432.601.909.296 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

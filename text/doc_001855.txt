@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Tami Wallace</td><td>mflores at mail.gonzalez.com</td><td>+1‐277-941-9185</td><td>18-11-1993</td><td>𝟦5332262129𝟣011𝟶</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: f2da747a490d48267d3868282c708e19e9955635 +99647676951 470.130.819.675 millskenneth(dot)Good(at)sherman.com

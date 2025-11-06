@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Mark Bailey", email: "brent48@wоod.org", phone: "458-413-755𝟶", dob: "Nоv 05, 1944", addr: "64𝟪31 Shane Viaduct, Larrуhavеn, MI 83𝟩33", ssn: "290-90-𝟨5𝟨9", cc: "42𝟦9-8678-6𝟫66-77𝟣𝟤", ip: "40.𝟣71.2𝟦1.2𝟥𝟦" };

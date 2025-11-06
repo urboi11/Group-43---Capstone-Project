@@ -1,0 +1,9 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Candice Butler</td><td>hendеrsonсrystаl@( mail.jackson․net )</td><td>𝟧84 413‐5024</td><td>𝟶1/18/1958</td><td>4517-23𝟨𝟪‐5044-8521</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +63892283931 827.577.796.449 YWJjYWJjYWJjYWJjYWJj c11bbf660e4cc09098eb03ea0adcba1cacf45659
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

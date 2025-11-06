@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Eddie Fuller,shannon3𝟫@hunt.com,+1-6𝟪𝟶-625-𝟤922,0𝟥/18/𝟣𝟫𝟫3,𝟧𝟶2𝟧 Anna Forges Аpt. 295, Jerrybury Washington 05485,SSN 2𝟦6 48 293𝟥,454596480𝟨439809,6101:𝟥207:47bf:𝟣d𝟩a:bb02:3c62:18a1:𝟥320

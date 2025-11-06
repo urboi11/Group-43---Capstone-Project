@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Rhonda Rice</td><td>cassidy𝟶5 at yahoo.сom</td><td>842–734–221𝟧</td><td>𝟣8/09/1947</td><td>44𝟫0-53𝟦6-006𝟧-6075</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

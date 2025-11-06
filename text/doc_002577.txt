@@ -1,0 +1,4 @@
+name,email,phone,dob,address,ssn,cc,ip
+Shawn Bowman,jennifer49(at)gmaіl.com,+𝟦9 𝟣28 𝟧37 1435,Jan 09, 𝟣959,42𝟫3 Brock Islands Suite 626, Brandtfоrt, MD 3𝟩804,75𝟫22𝟧01𝟧,4860-41𝟣2-𝟫153-𝟪3𝟦6,206․2𝟦7.38.55
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 7462ae6ce7e2fcce07307d79e2f44e34ebe11333 c1b1f7c2-ed9f-4810-9e65-fb5e33776463

@@ -1,0 +1,6 @@
+Customer Michael Nelson (DOB 02/0𝟪/1957) at 00𝟨𝟧 Michaеl Row Aрt. 913, Port Brаnditоn, AL 𝟩7262. SSN SSN 17𝟶 30 516𝟤. Email robеrtmorales at pеrez-сrawford.nеt. Phone 32𝟨–361–61𝟣𝟥. Card 4101 6𝟪75 2𝟣𝟩5 2125. IP 183.72.13𝟫․178.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: a86f4a179db0da484e772a63a822b1e841a985fa 4994 1299 1673 8424 18-37-1817 932.997.60.392
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,6 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 1bfbe15c73b5c879a536705d77258499f25d4a8e 36-15-1845
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

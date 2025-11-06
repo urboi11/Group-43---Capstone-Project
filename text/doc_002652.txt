@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4885·2167·1498·7418 f2128e40-7655-4c72-acd6-3eea434735d5 raynathan(dot)Ingram(at)hall-fisher.com
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+<p>Release: add audit headers, improve error resilience.</p>

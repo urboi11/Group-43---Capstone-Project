@@ -1,0 +1,3 @@
+name,email,phone,dob,address,ssn,cc,ip
+Nicole Lamb,shaneallen(at)hotmail.com,9𝟫1 254  .  396𝟨,Fеb 21, 𝟣93𝟩,𝟣𝟩4𝟧 Wilson Tunnеl, Cassandrаburу, MD 41489,Sоcial Seсuritу 𝟤𝟪3‐09-4𝟣35,𝟦432-𝟫4𝟥9-3027‐𝟣839,𝟫3d3:9349:13𝟣d:аaad:4557:c17b:9559:849𝟧
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

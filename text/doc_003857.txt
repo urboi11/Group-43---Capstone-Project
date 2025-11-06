@@ -1,0 +1,7 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: tammy93(dot)Buckley(at)campbell.com 17-64-4705 4134·2467·3010·9889
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJj moralessheila(dot)Carter(at)kramer-schmidt.com
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

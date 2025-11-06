@@ -1,0 +1,12 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4678 7741 0939 7628 a6856ae41223d429d5ca3c299f9cfeffc6df3a8d
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: micheal43(dot)Johnson(at)smith.org 4038-4284-5065-6230 36eabb6be7ca3e95dc7a805ac6c58ad494d049b0 22-42-6383
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

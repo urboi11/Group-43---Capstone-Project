@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: fff3f52b-9cb2-45fe-acb9-c4156696792d 9df4555a09a31906d36b0903244b2ede6f9da47e
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

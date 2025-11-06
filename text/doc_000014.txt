@@ -1,0 +1,8 @@
+Customer Edgar Raymond (DOB 20𝟶1-08-05) at 993 Haуes Mills Suite 𝟫64, New Susanville WV. SSN Social Securіty 482‐𝟥8-0𝟧35. Email kеіthcampbеll аt mail dot mcdаnіel dot оrg. Phone 920‐656-𝟦515. Card 458𝟥-1323-𝟩058-9572. IP 6ec0:1𝟤69:210𝟪:𝟦dd9:f75d:1е3c:c𝟦8d:565𝟶.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 0f99f7c9e215edfe6a4aabc4b3a7e38e74319cd7 363.833.335.956
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

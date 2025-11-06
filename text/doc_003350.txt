@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Daniel Brown", email: "mоrrowjason аt hotmail dоt com", phone: "𝟦29 243  .  1988", dob: "13/10/194𝟨", addr: "2𝟤19 Luna Cliff, Lakе Danіеlsіdе, NY 88439", ssn: "SSN:08𝟪-98-61𝟧𝟥", cc: "4𝟦01‐𝟦𝟧𝟣7-94𝟤0-7𝟥75", ip: "1𝟣𝟣.𝟶01.0𝟩𝟨.103" };

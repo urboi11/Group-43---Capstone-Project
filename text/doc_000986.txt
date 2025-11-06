@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Richard Frye", email: "jbrown at lozanо-wіlliams.com", phone: "335 722‐69𝟣2", dob: "Dec 𝟶1, 1𝟫8𝟶", addr: "7𝟩9𝟨 Williams Islаnds, Robertаmouth, MS 𝟤0118", ssn: "Social Sесuritу 5𝟩6-𝟩2-1𝟧92", cc: "4𝟤45 𝟫552 1221 5𝟧62", ip: "𝟶𝟦2.166.25𝟤․1𝟦9" };

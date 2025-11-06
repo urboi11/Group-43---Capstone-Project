@@ -1,0 +1,5 @@
+{"name":"Gilbert Cohen","email":"рetersonjoshua аt yahoo dot cоm","phone":"72𝟧–522–𝟫𝟦𝟧𝟥","dob":"09/01/1993","address":"7316 Frank Run, Julianborough Washington 25869","ssn":"Sоcial Sеcurity 369‐3𝟧‐7𝟨𝟤𝟶","cc":"𝟦965𝟦32𝟪776𝟦0𝟦9𝟶","ip":"244․23𝟧.174.080"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jeanette Morales,vgаrcia at hotmaіl dоt com,+34-2𝟨6-909-1278,0𝟦/28/𝟣983,42𝟶 Dalе Trafficway Suite 799, Smithstad, WY 73𝟧6𝟤,069272084,4861·1516·452𝟶·𝟪3𝟧7,eb21:87𝟧:21fa:168:2264:24e3:9c𝟫2:8890

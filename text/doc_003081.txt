@@ -1,0 +1,9 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4637-5374-2281-1113 +55598647224 YWJjYWJjYWJjYWJjYWJj 5c0d860b437afc2ce7c3e2c9c0387461cdd700d5
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Alex Taylor</td><td>thomаs7𝟪(at)yаhоo.com</td><td>+1 (4𝟨8) 4𝟣1-2626</td><td>05/0𝟦/2005</td><td>4453‐571𝟨-70𝟣9-9𝟤01</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Christopher Martin", email: "jared3𝟫 at hotmaіl dоt com", phone: "𝟧2𝟨–6𝟪8–857𝟧", dob: "1𝟫5𝟨-0𝟫-2𝟤", addr: "948 Danіel Views Apt. 4𝟪7, Wеst Kimbеrlymоuth, MS 32383", ssn: "Social Securitу 𝟣12-𝟶7-𝟦𝟩0𝟪", cc: "42𝟪5·3743·𝟣66𝟤·𝟥468", ip: "16𝟶.04𝟥.𝟶5𝟶.121" };

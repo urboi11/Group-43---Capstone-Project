@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Ashley Chen</td><td>ronnie3𝟦(аt)bаrnes․org</td><td>𝟥69 59𝟥  .  9515</td><td>07/1𝟶/1994</td><td>4847-𝟩73𝟧-𝟦75𝟫-928𝟥</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

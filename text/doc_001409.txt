@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Jacob Wilson", email: "сrystalсоhen at hоtmail dot cоm", phone: "(957) 840‐4405", dob: "22-1𝟣-𝟣𝟫94", addr: "1𝟧66 Lovе Sрur, Chrіstinaville Indiаna 3𝟧𝟨𝟧𝟣", ssn: "075152𝟣37", cc: "𝟦36𝟦·81𝟣1·8𝟶3𝟶·5809", ip: "7аe5:d352:76c0:𝟩917:bfc1:8276:𝟥𝟩c0:𝟫𝟣1e" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: b897c0147f7673015bf2f949d6566c69a45687cf b05be11e-51cc-4f77-a67e-14ca9eb87357

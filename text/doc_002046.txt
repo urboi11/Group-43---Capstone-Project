@@ -1,0 +1,5 @@
+{"name":"John Weaver MD","email":"cаssandraclark(at)hotmaіl․com","phone":"+1 (𝟦0𝟧) 477-2480","dob":"𝟤6-0𝟫-1942","address":"715 Neal Plain Аpt. 703, Taylorfurt Florida 𝟫8045","ssn":"Soсіal Security 𝟣2𝟩‐𝟨0-8262","cc":"𝟦146-𝟣3𝟪8-66𝟤𝟣-45𝟥4","ip":"𝟣𝟫b0:4bа𝟧:91c6:a𝟧a𝟣:5e66:b43𝟨:87f7:8502"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

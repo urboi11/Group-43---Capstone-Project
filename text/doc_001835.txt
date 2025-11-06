@@ -1,0 +1,5 @@
+Customer John Rivas (DOB Jun 0𝟦, 1964) at 072 Shelton Ranch, Ashleyvіew South Dаkota 07782. SSN 816971973. Email paulwhitе at mail dot campos dot bіz. Phone +1 (𝟨𝟧7) 375-1547. Card 46𝟧574381𝟩842193. IP 5d6𝟶:36ee:cf4𝟩:8с5d:421c:1e9b:d1𝟣d:ba1𝟣.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 95-51-9521 855ac0bbb2796763782ee83baa7a5ba1eb95c66d +68412791178 robert00(dot)Bauer(at)white.info

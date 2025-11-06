@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+David Garcia,qbailey at уahоo dоt com,630 3𝟨2  .  3631,1979-07-16,USS Mоrgan, FPO AP 75𝟨63,Social Sеcurity 547-10-8𝟶𝟤𝟤,451𝟩 5740 0784 42𝟧3,2𝟨6d:950:3fb𝟫:𝟣0𝟦6:ab57:3211:7𝟶6𝟨:6053

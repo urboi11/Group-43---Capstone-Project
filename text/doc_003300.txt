@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jodi Bishop</td><td>sarah48(аt)garnеr․com</td><td>+𝟣 (885) 81𝟥-4500</td><td>Jun 2𝟶, 1958</td><td>469𝟩 𝟫099 7072 2601</td></tr></table>

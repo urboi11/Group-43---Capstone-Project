@@ -1,0 +1,7 @@
+name,email,phone,dob,address,ssn,cc,ip
+Matthew Kelly,yoderalеjandrо@mercаdo.net,+𝟣‐4𝟨6-43𝟪-94𝟧0,07-08-2𝟶00,8𝟩2 Bаrbara Valleys Suіte 309, South Markchester ND,898-11-7944,4𝟣55 𝟨492 𝟫38𝟶 53𝟦6,𝟤09.21𝟶․167.𝟣96
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 2fef1183-ee2f-4e50-9328-74e5a707d0f0 YWJjYWJjYWJjYWJjYWJjYWJjYWJj 47-85-4406
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

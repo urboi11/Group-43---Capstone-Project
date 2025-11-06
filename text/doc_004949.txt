@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Michael Soto</td><td>garciаrobіn at smith dоt com</td><td>+34 99 𝟤08 998𝟨</td><td>17‐𝟶𝟧-𝟣999</td><td>4𝟨𝟣3·7𝟦97·3𝟣05·6274</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

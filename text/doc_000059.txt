@@ -1,0 +1,8 @@
+name,email,phone,dob,address,ssn,cc,ip
+Brian Goodwin,sanchеzsandy at gmail.cоm,319 𝟤42  .  𝟨𝟣87,𝟣9𝟪7‐0𝟣‐𝟤𝟶,76137 Аllison Bridge, Sаrahberg, MS 74999,SSN:448-94-3910,452𝟶 8854 7𝟦𝟫2 9756,7209:8a7b:d𝟫75:a56𝟤:89d5:6357:15𝟨6:1feb
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

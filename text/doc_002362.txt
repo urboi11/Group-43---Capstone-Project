@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jessica Shaw</td><td>michael62@@gmаіl.com</td><td>(𝟪77) 874-𝟩303</td><td>2𝟩/06/1938</td><td>4𝟦98 𝟥𝟩5𝟨 3365 18𝟥𝟪</td></tr></table>

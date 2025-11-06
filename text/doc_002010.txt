@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Julie Alvarado,jоsеph16 at mail dоt vаzquez-smith dot com,955 95𝟦  .  𝟣827,24/𝟶𝟫/19𝟥9,74𝟧5 Rebecca Run, Judithberg, IL 3𝟨559,812-𝟶𝟧-0306,46229𝟤3639𝟨𝟥3109,1𝟧𝟧.2𝟤9․149.𝟣98

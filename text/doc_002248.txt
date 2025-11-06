@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Ian Graham,wіlsonstеphen@@gmail.com,+44 𝟦09 41𝟨 44𝟦6,0𝟫/01/𝟣𝟫73,𝟤481 Brian Points, Josephland, IN 492𝟨7,Social Security 60𝟤‐64-1357,4445·1018·2𝟣67·114𝟩,1ca9:a7d4:729a:777а:bсd9:9b7𝟤:c6a𝟥:ed3f

@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4719-0936-6176-5884 77-75-4931 +97977196580
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 72c8b629-45dc-4a48-bca9-864afc2c64e0 YWJjYWJjYWJjYWJjYWJjYWJj 54-79-5351
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

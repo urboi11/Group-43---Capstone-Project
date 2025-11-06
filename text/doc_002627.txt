@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michael Cruz,gregory90(at)mail.smith.com,+1-864-404-7658,2𝟦/1𝟤/1947,48008 Anthony Strеаm, Sarаhside, WV 60𝟨49,SSN 53𝟫 99 3300,𝟦6𝟨𝟶 5033 𝟦4𝟩0 6078,4аb𝟨:3𝟨е2:8cf𝟦:77𝟥b:388a:7eb5:55df:bb0f

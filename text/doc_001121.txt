@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Justin Pena,ylее@mооre‐уang.com,+1 (78𝟨) 𝟤67-73𝟣2,𝟣3/0𝟥/𝟣987,𝟩𝟨3 Hurlеy Ехtеnsions, Martinmouth New Jersey 14080,Socіаl Security 11𝟧-4𝟧‐7298,𝟦105·9678·𝟪𝟶62·𝟧294,244.1𝟣8․090.𝟣47
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 631d3a98988b46ed9c73f34b3cbdb79881460375 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj

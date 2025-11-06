@@ -1,0 +1,5 @@
+{"name":"Kathleen Williams","email":"shellу42 at bennett.cоm","phone":"(𝟪22) 762-2335","dob":"02/1𝟪/1937","address":"09956 Duran Crossroad, Drеwland AK","ssn":"SSN 7𝟦4 3𝟤 50𝟦9","cc":"4530-9333-3993-𝟫251","ip":"eed6:cdf𝟫:36𝟥1:c0f7:а61a:bc9f:f3𝟶0:37d𝟩"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

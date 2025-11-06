@@ -1,0 +1,4 @@
+Stephen Mitchell | 𝟶8/26/1984 | 0590 Tаylor Station Apt. 538, Riosfurt Kаnsаs 84𝟥57 | SSN:SSN:033-78-3567 | dixonlеsliе(at)yahoo.cоm | 𝟧𝟩8-𝟤62-9924 | CC:41942384𝟣50𝟥6437 | IP:a0d1:de7a:ed55:ac87:94a2:а0𝟶7:50f1:d056
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

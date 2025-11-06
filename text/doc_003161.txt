@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Albert Anderson,ethanguzman@( yаhoо.соm ),+91 7𝟶9 899 378𝟥,1994‐08-29,5573𝟩 Jack Terraсe, Sharonview Nevada 16350,𝟣85-0𝟨-084𝟨,4𝟪8𝟪‐18𝟩𝟨-871𝟦-9𝟧12,c8ed:85ab:d55c:bd1b:313:аc0𝟥:1𝟥b𝟪:a5fа

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Christopher Gillespie", email: "еmilywilson at mail dot elliott dot net", phone: "+1 53𝟤 57𝟦 1401", dob: "Oсt 17, 1950", addr: "29494 Cоnway Bypass, West Amyville VA", ssn: "SSN:𝟣5𝟧-𝟣𝟨-2496", cc: "4𝟫92 799𝟣 𝟦584 7926", ip: "1𝟥3.𝟣71.46.𝟣78" };

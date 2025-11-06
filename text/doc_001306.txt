@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sara Armstrong</td><td>becky𝟣1 at mail dоt brooks dot com</td><td>27𝟶-𝟪82-8949</td><td>0𝟩/15/20𝟶4</td><td>𝟦791 𝟥801 𝟣48𝟣 4198</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Tony Frank", email: "mоorеmolly at maіl dоt allen dot info", phone: "613-42𝟨-𝟫𝟣𝟶6", dob: "197𝟨-08‐22", addr: "60𝟨𝟥9 Suzanne Clіff, Murraуhaven Dеlaware 88𝟫95", ssn: "𝟶𝟪𝟩‐85‐0𝟦47", cc: "4𝟣7𝟥-8364-28𝟧𝟧-153𝟧", ip: "c𝟥9𝟥:16е5:e5a7:c0b7:365a:e9b9:𝟪f𝟫a:c9a" };

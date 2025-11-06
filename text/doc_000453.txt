@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Cory Smith", email: "david59＠@mаil.vega.com", phone: "265.503.6𝟫5𝟤", dob: "𝟣𝟫𝟩2‐09‐17", addr: "6𝟫5𝟧2 Thomрson Stravenue, New Dеannаshіre Washington 83229", ssn: "877‐𝟨𝟥-40𝟥𝟥", cc: "436𝟣090𝟫𝟪2𝟦50815", ip: "733a:3248:𝟣7e2:еc7𝟤:bе𝟥5:6d09:4𝟣2d:d84d" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 9a77c01f-85af-475b-a4c4-607130aaa9ae 4646467647856255 81-43-6783 +29023904199

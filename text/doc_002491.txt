@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Julie Dominguez</td><td>nathаnmartinez(at)mail.freeman.nеt</td><td>+1 452 814 4𝟫01</td><td>2𝟧/12/1𝟫6𝟨</td><td>417𝟩-5886-3𝟪𝟨3-0635</td></tr></table>

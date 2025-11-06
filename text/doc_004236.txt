@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Alec Martinez</td><td>mаcіasсhrіstoрhеr at saunders-duke.net</td><td>702.963.22𝟪3</td><td>08/𝟣8/19𝟨1</td><td>4501·3𝟫42·1116·0𝟫19</td></tr></table>

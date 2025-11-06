@@ -1,0 +1,5 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 624.303.265.711 eac5c45ea0704c6f983ea85ab5a3c34b38f16fc6 YWJjYWJjYWJjYWJj
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 283.332.436.137 +93578564593 4837-3284-8964-0667

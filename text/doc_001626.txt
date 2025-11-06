@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Molly West</td><td>donnasanchez@yahоo.com</td><td>+𝟣 476 9𝟫2 75𝟣2</td><td>25/0𝟦/1959</td><td>𝟦023·504𝟥·4321·6558</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +48152464206 224.487.812.445 4723-2102-5290-7064

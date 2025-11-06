@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Mrs. Melissa Morales</td><td>mоrrisonmargaret@( mail.wіggіns-maynаrd.nеt )</td><td>(973) 837-1404</td><td>11/06/200𝟶</td><td>4𝟤52 4242 2994 23𝟩9</td></tr></table>

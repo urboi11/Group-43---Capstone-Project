@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Dana Carter,gabriel44@@mail.wаlkеr-jackson.com,𝟨74–369–1134,08/16/1980,09957 Flores Fall, Shirleyville IN,SSN:32𝟤-13-569𝟣,4380·𝟣62𝟧·8515·0204,𝟩4.𝟤𝟶6.122․101

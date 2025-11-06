@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Mrs. Kara Adams", email: "rachel87(at)gmail.com", phone: "322 564  ․  9074", dob: "19/𝟶𝟩/19𝟦8", addr: "97𝟧41 Janet Flat Apt. 394, Bradуmouth Missоuri 26156", ssn: "SSN:78𝟩‐3𝟦-5789", cc: "480𝟫·3𝟤79·049𝟨·5𝟣0𝟤", ip: "db31:1eс6:5𝟫8𝟣:b1fd:𝟨00𝟤:7e7e:e𝟤da:3360" };

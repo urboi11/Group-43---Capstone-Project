@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>James Cowan</td><td>rаguіrre [at] silva.info</td><td>+1 278 539 𝟫4𝟨4</td><td>𝟤3-0𝟧‐1953</td><td>43952492149𝟧𝟣48𝟥</td></tr></table>

@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Elizabeth Weber</td><td>codyanderson@( gmail.com )</td><td>275‐𝟪26-𝟩247</td><td>03/30/1𝟫𝟦4</td><td>4𝟥𝟨𝟧·3402·𝟩𝟦21·7𝟫50</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: a327eced-f779-4f42-80f4-ad63d6f6df78 18-14-9650 3c52f27744e877660e00a518fee53d7204bf6c97 shaungarcia(dot)Rodriguez(at)hoffman-doyle.biz
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

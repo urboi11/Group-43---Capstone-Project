@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: buchananamanda(dot)Garcia(at)holmes.com 4718433855373467
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJjYWJj jpatterson(dot)Sanchez(at)hinton-adams.com 315.714.330.863 47aaaa3e8656e3cf945cb98de2988d88768f5a9f

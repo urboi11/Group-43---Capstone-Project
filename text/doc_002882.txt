@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kimberly Morris</td><td>jоhnshaffer [at] yahoo.com</td><td>𝟧𝟣1-54𝟨-𝟩1𝟫1</td><td>May 𝟶7, 1995</td><td>𝟦𝟩1𝟤-4338-1794-31𝟨𝟦</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 826.149.98.502 f0d68461c713c59209fe9fac744e67a6e80976e5 chadcarroll(dot)Zimmerman(at)stevens-king.com b1c2bbd1-c791-4b75-803c-ab086d7c9899
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

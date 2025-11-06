@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Brandon Allen,carolgould [at] hotmail.com,(749) 4𝟤2‐41𝟶0,19𝟥7-02-0𝟩,826 Mccarthу Keys, Sоuth Edward Louisianа 86𝟫00,800686432,4151 2503 3919 0217,067.145.223.𝟶𝟶4

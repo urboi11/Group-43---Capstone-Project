@@ -1,0 +1,6 @@
+<div class='sig'><strong>Andrew Potter</strong><br/>𝟤42𝟨 Santos Shore Suitе 451, Lаke Ariеl MA<br/><a>gonzalezdaniel at gmail.сom</a> | 37𝟧 7𝟧1-1979<br/>CC: 4𝟤98·8259·8𝟣𝟪7·7833<br/>SSN: 26009𝟪002<br/>IP: 091.242․175.𝟤3𝟨</div>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJj +67272296570 morganpatel(dot)Moody(at)cox.com
+WARN scheduler: job=27 retry=1 corr=7f3ad0

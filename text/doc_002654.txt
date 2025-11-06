@@ -1,0 +1,2 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: martinchristina(dot)Osborne(at)king.info YWJjYWJjYWJjYWJjYWJj

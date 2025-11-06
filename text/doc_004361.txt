@@ -1,0 +1,6 @@
+{"name":"Bradley Horn","email":"benjamіn70 [аt] holt-turner.net","phone":"+1 (35𝟤) 246-4738","dob":"1974‐𝟶9-16","address":"52731 Jennifer Parkwаys Suіte 695, North Robertchester KY","ssn":"SSN 824 1𝟦 439𝟥","cc":"𝟦𝟤𝟧5 𝟪𝟫15 0𝟣21 2878","ip":"178.2𝟥1.8𝟣.235"}
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: +27481852179 0941803e3a0a80f7637523724ea07bbbe348a760 652.827.762.66 4652027803533528
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

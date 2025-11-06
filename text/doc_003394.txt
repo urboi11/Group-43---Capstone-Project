@@ -1,0 +1,4 @@
+name,email,phone,dob,address,ssn,cc,ip
+Sean Bates,qscott [at] уahoo.cоm,(𝟧𝟦𝟥) 525‐8034,1963-07-13,7𝟩255 Wilson Lock, South Mісhelе Nevada 46840,SSN:572-93-3024,4𝟦𝟩1·0002·𝟣438·6𝟶98,125.𝟣𝟦7.091.22𝟨
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4293 5846 9032 4975 c6e7825f060964db59de1587458968b6b5ffd5fb

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Andrew Ellison,orichard＠( brown-robles.com ),455 671‐8935,Feb 2𝟨, 1987,123𝟥 Dіaz Club, Leonport, WA 81𝟩26,SSN 𝟶𝟤1 51 7130,4𝟤779𝟧6354𝟨𝟨40𝟦8,136.026.𝟶𝟫4.𝟶19

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Tanner Pugh,alowery [аt] mаil․hernаndez.info,+44 𝟨2𝟦 202 5𝟪14,04/16/1𝟫68,81074 Knox Knoll, Dаniellesіde, MO 15932,203‐5𝟦-𝟨𝟥15,4593-5448-2314-𝟩47𝟩,22𝟧.153.119.003

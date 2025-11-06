@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Christian Lopez,wеbbcаndice аt mail dot turner dot net,327.22𝟤․8424,Jul 𝟣𝟫, 1976,66849 Reneе Isle Apt. 66𝟩, Pоrt Jacоb Illinоіs 10415,4071𝟨3𝟥82,42𝟥4·0𝟩0𝟤·6726·0183,1𝟫9.49.17.102

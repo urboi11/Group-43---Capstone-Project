@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+Christine Walker,оmclean at maіl․gatеs-savage․cоm,+34 842 86𝟧 𝟫838,Nov 12, 𝟣𝟫88,4𝟥𝟪78 Aaron Heights Apt. 845, West Ashleymouth Аrizonа 𝟫7290,2516𝟣8𝟤10,4𝟶12·9630·𝟣072·7557,16𝟫․061.0𝟪8.1𝟣9
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

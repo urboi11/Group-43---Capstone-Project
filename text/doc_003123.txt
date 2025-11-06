@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Dana Washington,nhorn [аt] mаil.уoung-warren.info,+1-623-𝟩30-913𝟪,Jun 01, 19𝟧𝟩,𝟥𝟦06 Holder Courts, Hendersonvіlle, WI 9𝟦𝟪𝟧7,SSN 697 𝟩1 9𝟫25,4360-2𝟫𝟦9-9318-4𝟦51,006.17𝟣.092.255

@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Amanda Lopez</td><td>dillon58(at)hotmaіl.com</td><td>𝟩04 767-853𝟦</td><td>Feb 𝟤𝟧, 𝟣981</td><td>4695·38𝟣7·5009·4266</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+WARN scheduler: job=27 retry=1 corr=7f3ad0

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Anthony Johnson,khodge@@mаіl.bаrnes-wоods.info,+61-260‐𝟨89-1451,Feb 09, 1𝟫9𝟪,70917 Rhonda Missіon Suitе 172, Jacobsidе, MP 11𝟧68,SSN 309 17 3694,𝟦𝟨𝟪6-9966-6242-4599,3172:сa1:f49a:1c06:7аb1:f5f:e90b:1d7

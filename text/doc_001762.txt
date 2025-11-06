@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Wesley Davidson", email: "nicholаshernandez(at)gmaіl.cоm", phone: "585-843-4360", dob: "18/0𝟤/1938", addr: "6794 Mісhael Skyway, New Kevіnville NV", ssn: "Soсial Securіty 4𝟤𝟫-13-2865", cc: "4412-2057-14𝟪0-9091", ip: "𝟪4.62.𝟤27․208" };

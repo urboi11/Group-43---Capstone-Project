@@ -1,0 +1,7 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: f525bf2bef73fa7c7ec17c387d5566d2ae3f6016 a94a2ef6-1f2a-49b9-a5ba-54e7f56fc67d
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 94ea6637042af7406d3c54f9f72204193d3267d5 770.562.702.834 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 4701-5896-7196-5267

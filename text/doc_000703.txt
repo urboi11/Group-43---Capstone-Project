@@ -1,0 +1,3 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 79-38-4509 1c9648c1-b7b6-4caf-a2cb-71fcb826ba1b 4826·1446·4557·5318 14dde95fae2825bb43cb6f88e802add95e5b8a56

@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Richard Brewer", email: "vsmith(at)gmаil.com", phone: "388 𝟫03-1967", dob: "1𝟤/25/𝟣973", addr: "𝟨95 Adkіns Center, New Laurеnhаven, IN 𝟶229𝟧", ssn: "SSN 005 7𝟥 3511", cc: "𝟦765𝟣39601313219", ip: "068.𝟶22.𝟣44.076" };
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 5feb220e586a3df0307feadbda8cf6a553edc8b1 69-21-2006 4457·0024·6295·6688 YWJjYWJjYWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

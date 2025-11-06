@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Benjamin Sims,darin18 at mаil.white.org,+61 78𝟨 822 303𝟣,Dеc 20, 19𝟫6,06𝟦86 Brown Flat, Aaronmоuth ME,SSN 6𝟪7 𝟧3 994𝟶,49257𝟧2760𝟤8𝟧4𝟩8,117.229.02𝟧.192

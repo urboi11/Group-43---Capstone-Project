@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Kelly Lara", email: "рatrісiaodom [at] ward-ellison.com", phone: "𝟤𝟫6 719-1𝟫0𝟥", dob: "24-𝟶𝟪-194𝟫", addr: "7965 Robert Pаrk, Lindseyburgh, MA 17𝟫15", ssn: "442717𝟪93", cc: "𝟦03𝟨·𝟩0𝟦1·3𝟤14·𝟶1𝟫2", ip: "𝟣𝟫0.𝟨5.7.𝟥𝟦" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 761.405.79.921 dmiller(dot)Campbell(at)cabrera.com

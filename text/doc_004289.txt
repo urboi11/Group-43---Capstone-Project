@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 289ccf20-f203-4e97-bb19-2673b6d42f8d YWJjYWJjYWJjYWJj +25676933837 771.543.536.725
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

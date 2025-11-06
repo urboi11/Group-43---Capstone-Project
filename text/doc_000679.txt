@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jesse Brown</td><td>francіs0𝟩＠@gutierrez-wіlsоn.com</td><td>+1 (𝟧40) 877‐𝟫883</td><td>Feb 02, 1𝟫76</td><td>𝟦876-𝟩5𝟨7-5386-6888</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 969.167.577.967 731758c7-e190-4c43-8e82-263e64678700 YWJjYWJjYWJjYWJjYWJjYWJj
+WARN scheduler: job=27 retry=1 corr=7f3ad0

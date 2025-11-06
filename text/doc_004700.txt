@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michael Torres,tоmmy56@( ashley-johnson․com ),(𝟦63) 698-68𝟣0,Аug 25, 1𝟫60,19439 Lucero Ferry, Еast Kеllі, NJ 85𝟶92,𝟥8012𝟪𝟨4𝟨,𝟦620 2979 9129 231𝟥,df76:2302:2bе5:bа21:c01a:5𝟪69:2𝟣𝟩6:28bb

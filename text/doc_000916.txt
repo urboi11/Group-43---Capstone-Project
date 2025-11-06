@@ -1,0 +1,7 @@
+name,email,phone,dob,address,ssn,cc,ip
+Rebecca Byrd,drеeves＠( mail.lewis‐nolan.сom ),987‐434-83𝟤3,𝟶7/16/1992,12𝟨5 Bensоn Plаza Apt. 8𝟤9, East Melissaside RI,Social Security 897-48-𝟥168,4021‐544𝟤-3𝟪9𝟫-3475,𝟣7𝟥.11.𝟦1.4𝟨
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 6f69bcd4-1f8d-4c0a-9253-18977e3883ee 4911129197426942 272.792.90.462 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 465.474.944.370 renee70(dot)Castillo(at)greene.org a77635ea422c7d3041f389c3f11f313e9463666d 474f59f6-6a18-4d27-b378-b44dd50aa776
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

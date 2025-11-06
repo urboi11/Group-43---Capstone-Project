@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Dean Sparks", email: "stevenbrown@( mail.cox.info )", phone: "+1 912 202 240𝟩", dob: "15/𝟶5/1984", addr: "21𝟫1 Gallаgher River, Kingborough, IN 462𝟦𝟶", ssn: "𝟥654260𝟣4", cc: "4592008543𝟫𝟦6320", ip: "23․39.243․151" };

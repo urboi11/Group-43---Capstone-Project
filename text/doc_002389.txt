@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jonathan Holmes</td><td>kathleen46(at)gmаil.com</td><td>517.477.371𝟩</td><td>𝟣93𝟦‐1𝟣-23</td><td>𝟦3311424316𝟩5844</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +53462269976 14f8008d-8fff-4509-acf0-bf17f54832d0

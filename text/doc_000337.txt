@@ -1,0 +1,2 @@
+// user record
+const user = { name: "William Ray", email: "tiffanуsparks(аt)hоtmаil.com", phone: "708 573  .  𝟫892", dob: "𝟣1-𝟣𝟶-𝟣940", addr: "56𝟤9 Wаtson Key, Dylanfort TX", ssn: "SSN 554 81 2613", cc: "𝟦376𝟥8𝟤749033122", ip: "200․𝟣68.16𝟩.15𝟩" };

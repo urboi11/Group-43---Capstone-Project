@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Laura Maldonado,fclark@( bartlеtt.com ),+1-6𝟥5-3𝟩4‐612𝟶,Feb 08, 19𝟪7,𝟦96𝟨 Emily Camр, Lake Austinstad IL,757-57-0835,4615965439𝟣05100,18𝟥․19𝟨.156․𝟤32

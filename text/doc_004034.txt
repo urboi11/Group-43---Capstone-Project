@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Brian Rojas", email: "robеrtfіelds@( green․cоm )", phone: "𝟧29-481-14𝟧4", dob: "0𝟫/𝟤3/1996", addr: "𝟤1𝟩𝟥6 Chrіstina Walk, South Jеssicа GU", ssn: "4𝟤6910021", cc: "4268·5012·7463·8119", ip: "215.184.030.1𝟪3" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 842.529.324.811 +67770270479 jasmine60(dot)Walton(at)taylor.org

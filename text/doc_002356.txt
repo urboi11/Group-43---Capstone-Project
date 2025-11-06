@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kimberly Cole</td><td>mіchael𝟫8＠( hotmail.com )</td><td>384 69𝟤-4337</td><td>2001‐03-3𝟶</td><td>415𝟫-6252-𝟩1𝟫5‐2710</td></tr></table>

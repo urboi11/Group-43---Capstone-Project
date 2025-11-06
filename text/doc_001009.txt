@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 0f937ee73fe22365eb521d5d24c4905c04c59f49 803.324.843.515 dorisphillips(dot)Hart(at)ortiz.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

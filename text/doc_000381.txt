@@ -1,0 +1,5 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: ae7f8b4a255a9de12fa55f58da56cf81417a81e0 ff4ca29e-06cd-4e3b-9202-6202356d9896 willismatthew(dot)Perry(at)anderson.com
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

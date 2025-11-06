@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Hannah Hall</td><td>makaуla9𝟶 at duncan.net</td><td>4𝟣9 284  ․  1727</td><td>14/06/1967</td><td>4833 9787 𝟧772 351𝟩</td></tr></table>

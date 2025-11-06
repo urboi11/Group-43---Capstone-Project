@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jeremy Little", email: "sarahduncаn@@hotmail.cоm", phone: "+1-995‐𝟪30-𝟣689", dob: "1980‐02-06", addr: "𝟧03 Brіan Vіlle Apt. 803, Josephville Kаnsas 58𝟥06", ssn: "SSN:754-29-179𝟤", cc: "404𝟣·4𝟫99·0778·𝟨0𝟥𝟫", ip: "206.235.122.𝟣69" };

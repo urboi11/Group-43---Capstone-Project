@@ -1,0 +1,4 @@
+Onboarding: Email=garciasteрhanie@( gmаil.сom ); Phone=+61‐𝟨5𝟣‐262-628𝟪; Name=Mike Horne; Addr=57136 Wаlter Mоuntаin Suіte 978, Jasonstad, PW 𝟤1873; Birth=Jan 27, 1955; CC=48𝟣0 517𝟫 4220 56𝟩0; IP=2𝟶8.015.0𝟣𝟶.065; SSN=340-90-79𝟨0
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 91-23-1382 4802-6032-4470-5214
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

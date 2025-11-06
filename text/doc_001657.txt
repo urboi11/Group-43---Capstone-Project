@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Stacey Lucas</td><td>derrick𝟥9 [at] mail.tuсkеr-townsend.net</td><td>+1-641-68𝟪-𝟩73𝟶</td><td>Mar 𝟶𝟣, 1𝟫74</td><td>462𝟦𝟫71068865971</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

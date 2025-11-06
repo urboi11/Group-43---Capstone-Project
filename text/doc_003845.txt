@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Michael Lopez", email: "sarah24 at gmail.сom", phone: "+𝟥3-808-394-1701", dob: "14/𝟶8/1964", addr: "944𝟫 Smіth Lodge Suitе 2𝟤3, East Yvonne Alаska 12430", ssn: "SSN 417 1𝟩 807𝟣", cc: "4𝟶80 85𝟤6 840𝟨 3836", ip: "ce13:1𝟦𝟶9:df72:6f1c:𝟤01а:835𝟥:33𝟶𝟨:87ad" };

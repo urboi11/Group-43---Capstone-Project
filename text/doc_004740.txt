@@ -1,0 +1,9 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4625 7118 2275 5416 +81440736872 316.759.287.555
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +93412528626 kylescott(dot)Beck(at)williams.org YWJjYWJjYWJjYWJjYWJj f1641b0f430a2a385bfa1949a0efbc70af8a248d
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

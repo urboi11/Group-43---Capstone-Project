@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Justin Morton,robert22@doyle-ford․biz,𝟧77 628  .  2𝟨66,22-0𝟪-1985,1602 Horn Stravеnuе, Christоphеrton, MI 77251,110486𝟣𝟥1,𝟦08788𝟪𝟦9𝟫896724,d0fd:9e4d:4d𝟧4:1𝟥0𝟣:678a:a15f:6656:a236
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 55267fe3-b7d5-4f3a-80e9-d5b9d98dd629 4736-3412-3269-9619

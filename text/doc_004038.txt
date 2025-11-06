@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Michael Robinson</td><td>pcasey@( mаil.garrison․com )</td><td>+𝟦4 316 896 1869</td><td>1𝟫42-06-10</td><td>4121·6589·𝟫3𝟥𝟣·16𝟣3</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>

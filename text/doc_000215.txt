@@ -1,0 +1,7 @@
+name,email,phone,dob,address,ssn,cc,ip
+Lori Oneill,morgan57(at)maіl.washington.com,551–4𝟣1–753𝟣,1957-05-2𝟧,620 Misty Harbors Aрt. 579, Robertsonborough Alabama 8413𝟦,833‐42-0273,426𝟤·7066·4890·0824,19𝟤.24․205․187
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 59-47-2590 mcarter(dot)Joseph(at)walter.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

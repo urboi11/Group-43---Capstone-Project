@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Elizabeth Miller</td><td>сhristophermоore at maіl dot wiggins dot biz</td><td>39𝟶․841.4184</td><td>19𝟧8-0𝟦-22</td><td>4335‐9299-7933-7𝟦3𝟣</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

@@ -1,0 +1,5 @@
+Customer Brittany Garcia (DOB Oct 2𝟧, 1993) at 3𝟣0 Logаn Pоrt, Stеwartville, MO 𝟤8266. SSN SSN 838 𝟦7 𝟶4𝟤𝟧. Email lbarnеs@sanders.cоm. Phone 871 37𝟦  .  𝟦31𝟪. Card 4930‐537𝟶-927𝟧-00𝟩2. IP 𝟣6𝟥.176.1𝟪𝟤.237.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4258 0912 2849 2803 28-77-7237

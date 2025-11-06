@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: ab9fd463-1cb1-4535-8d56-e1f8c1ef05d1 terrymargaret(dot)Phillips(at)walker-lopez.com
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: d75248a0-a7b4-40aa-bfa7-4b0988a881d5 +29579328804 4636·6322·6402·7853
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

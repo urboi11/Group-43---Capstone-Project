@@ -1,0 +1,7 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4749 6713 3245 3598 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 90aaa57884e264596b475bbe8ba2f7ec26198d3c lstone(dot)Clarke(at)ayala.net
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+<p>Release: add audit headers, improve error resilience.</p>

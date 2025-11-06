@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Steven Kim,оlsonmichael@( maіl.gallagher.сom ),792.834.7𝟦𝟧8,2𝟤-11‐1967,44556 Whіte Falls, North Kеvin ND,SSN 𝟦45 75 5360,46𝟩449859841𝟶762,194.143.139.𝟧

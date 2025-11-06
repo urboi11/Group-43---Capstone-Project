@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Christopher Curry</td><td>dаwnbeck@@maіl.ramsey.com</td><td>(8𝟩𝟤) 83𝟧-8𝟥𝟩𝟫</td><td>05/𝟣5/1992</td><td>4𝟪55·17𝟤𝟫·4889·8338</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

@@ -1,0 +1,6 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJj daa21a23-d83e-4eb2-ac31-0f5ecbbcac2d
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: de2bb4cd-b060-480d-b63e-887a17c72d2a bradleymoran(dot)Thomas(at)rosales.com +44836836558 61-92-9324

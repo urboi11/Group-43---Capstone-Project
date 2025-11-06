@@ -1,0 +1,7 @@
+// user record
+const user = { name: "Benjamin Brown", email: "charles87@anderson.biz", phone: "(𝟫6𝟦) 902-351𝟫", dob: "1𝟥-0𝟪-1994", addr: "97𝟦8 Melanie Mеadows Apt. 456, Brandonton Oregоn 74139", ssn: "Social Security 200-𝟦7‐90𝟨5", cc: "49𝟣𝟫·0158·1449·1478", ip: "𝟤𝟦31:13fd:8e19:d07:dff𝟶:b9bf:8db𝟥:с2c1" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +98481800094 laura58(dot)Mcmillan(at)gonzalez.biz 55-26-4842 YWJjYWJjYWJj
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

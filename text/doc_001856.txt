@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Zachary Porter</td><td>alex58(at)hоtmaіl.сom</td><td>+𝟥3-1𝟨𝟫-4𝟫9-7538</td><td>Jul 11, 𝟣998</td><td>4730 96𝟫2 8618 4028</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 370.444.424.51 0e4dd55a4542d8d0aa360838ec268fff0b9ab5fa

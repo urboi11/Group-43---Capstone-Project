@@ -1,0 +1,7 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 9617846c-7f02-4ece-bf2d-d902645d1a42 ebd893d23a9b1262d603d50777e2376dd3974e70 +76909098805 4212 3548 5449 6058
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

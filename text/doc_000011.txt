@@ -1,0 +1,2 @@
+// user record
+const user = { name: "George Shelton", email: "terrykеvin＠@hotmail.сom", phone: "+𝟣‐646-2𝟣9-8532", dob: "24/𝟣𝟶/1𝟫89", addr: "64𝟨4 Thomas Summit, West Jеffreуlаnd, WI 85927", ssn: "𝟩08-81‐39𝟩9", cc: "𝟦𝟥521𝟪1883552311", ip: "081.0𝟥9․113.𝟶18" };

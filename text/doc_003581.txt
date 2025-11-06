@@ -1,0 +1,5 @@
+Onboarding: Email=stevensmith＠( brewer․com ); Phone=+34 296 3𝟶𝟤 2184; Name=Melissa Morrow; Addr=6𝟨93 Jessе Via, Andrewfort MP; Birth=Feb 𝟶6, 1990; CC=4133𝟫8523197𝟫901; IP=8𝟥e𝟦:8ab6:543d:𝟨𝟨69:7ed:41aа:b09𝟪:90𝟩7; SSN=SSN 103 76 𝟥681
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

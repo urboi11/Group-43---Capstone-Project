@@ -1,0 +1,6 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 978.607.786.731 11-61-2243 f4567c13-5b17-4df6-a590-1a74145f0fd7 +77191112597
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Taylor Hunt</td><td>coxdouglas at mail.mоrgan․com</td><td>+1 (574) 914-92𝟫7</td><td>𝟣9𝟦7-03-11</td><td>4809 49𝟶7 0𝟪04 574𝟥</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

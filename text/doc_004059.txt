@@ -1,0 +1,11 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: d8e289e29a8f75362ef825deceb128754a7e187d 466.553.857.666 angelacantrell(dot)Jensen(at)brown-haynes.com
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

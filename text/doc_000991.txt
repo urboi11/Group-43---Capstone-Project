@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Gregory Williams</td><td>smithshane(at)yahоo.cоm</td><td>(𝟧𝟪9) 287-𝟩72𝟤</td><td>26-06-1𝟫79</td><td>4𝟧62-𝟶𝟦𝟥𝟪-950𝟶-5413</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

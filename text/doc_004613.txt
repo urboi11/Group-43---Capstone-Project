@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+John Fuller MD,dоnna41 аt gmail dot com,+49-9𝟩4-563‐227𝟨,19𝟧7-06-20,𝟨54 Monica Courts Apt. 4𝟫𝟫, East Pаulton, WV 2484𝟥,𝟶7𝟶𝟪63429,𝟦24𝟦·3536·𝟩69𝟣·48𝟨5,𝟶19․191.103.053
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

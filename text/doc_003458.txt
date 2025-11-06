@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: e635dbe9ce5ad2fa08f4b2619a89a4f1f847b220 23758092-08a5-4982-b146-2f08c0449ed3 +84133106004 218.303.656.248
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: smithshannon(dot)Waters(at)pena-schwartz.com ceec821e-881b-4590-b1c6-4c39a0d5f5a8 YWJjYWJjYWJjYWJjYWJj 479.289.970.792

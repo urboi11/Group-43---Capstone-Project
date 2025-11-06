@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 956bf6f6-af3d-43f9-99d7-159be8f5246e patrick56(dot)Perez(at)reese.com YWJjYWJjYWJjYWJjYWJj +51252368783
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+<p>Release: add audit headers, improve error resilience.</p>

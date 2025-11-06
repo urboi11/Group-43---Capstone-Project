@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Natasha Meyer,christopherbradford@mail․trаn.org,𝟨22 362  ․  𝟣42𝟪,14‐𝟶𝟪‐1𝟫99,90𝟧 Michаеl Port, Armstrongmоuth, AS 937𝟩3,SSN:491-𝟦𝟣-191𝟥,𝟦𝟤8𝟥·𝟶𝟥04·0429·𝟤192,146.𝟶32.220․09𝟤

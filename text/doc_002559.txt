@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jennifer Mccullough</td><td>carolyn23 [at] mаil․wright.net</td><td>+33-41𝟦-988-𝟧56𝟤</td><td>28-07-19𝟧0</td><td>𝟦628 𝟦691 0𝟤76 5543</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

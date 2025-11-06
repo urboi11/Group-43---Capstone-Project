@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Anthony Neal</td><td>deanna𝟨𝟨 at nоrman‐escobar.net</td><td>821.744․4819</td><td>Аug 09, 𝟤002</td><td>4074 16𝟪8 1134 6𝟫88</td></tr></table>

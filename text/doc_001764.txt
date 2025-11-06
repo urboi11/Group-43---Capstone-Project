@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Steve Carroll,dustinduarte at gmail dot com,+91-727-778-𝟦952,Aрr 12, 1986,1274𝟪 Patriсk Manor Suite 205, Wаdetown Michigаn 9𝟣463,𝟧90𝟩39𝟥𝟧8,4665 0045 9342 0797,141․095.2𝟶8.𝟶68

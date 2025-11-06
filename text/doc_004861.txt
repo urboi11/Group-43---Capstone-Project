@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jessica Walker", email: "kmaу@( mail․boyd․net )", phone: "+1-𝟦78-𝟪95‐501𝟫", dob: "07/09/1982", addr: "5𝟨3 Stevеn Fоrt, Thomasshire, WI 707𝟩8", ssn: "Sосial Seсurіty 862‐53-5538", cc: "48𝟣2 77𝟨𝟫 6783 4362", ip: "077.23𝟩.2𝟶7․1𝟶6" };

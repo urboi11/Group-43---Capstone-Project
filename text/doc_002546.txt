@@ -1,0 +1,4 @@
+name,email,phone,dob,address,ssn,cc,ip
+Shawn Moore,ashlеyhudsоn@hоtmail․com,28𝟫 92𝟦-23𝟦8,𝟶𝟩/13/19𝟨3,990 Rоbеrt Route Suite 036, South Ericbury Michigan 76096,252566438,4120‐𝟩0𝟶𝟩-883𝟥-9952,𝟶16․236.𝟣7𝟶.𝟣84
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: teresa25(dot)Phillips(at)monroe-carter.org 19-27-2655 669.45.43.379 4139-6727-3880-3947

@@ -1,0 +1,5 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: lewissharon(dot)Olson(at)walker.net YWJjYWJjYWJj +66341804143
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: ee96714e7c47de1387c847938ca020d00a53b066 688407aa-cdd3-4170-9943-de0339472397 996.73.834.37 4494-5644-0093-5632
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

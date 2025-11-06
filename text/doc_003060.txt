@@ -1,0 +1,7 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +45668548705 4666777755955210 7820cfe73afffc9efdb4002dc9cb020d07637781 30-84-5368
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Reminder: rotate API keys monthly and validate error handling for timeouts.

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jorge Summers", email: "harringtonjоnathan(at)maіl.gutiеrrez.net", phone: "779‐538‐996𝟧", dob: "1𝟫93‐1𝟣-𝟣𝟩", addr: "146 Poole Cliffs, North Robertmouth, OH 226𝟧9", ssn: "SSN 246 93 9680", cc: "4904-6600-7311-583𝟦", ip: "168.172.18𝟧.249" };

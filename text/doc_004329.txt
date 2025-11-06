@@ -1,0 +1,6 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 20-61-5762 4743957823350633
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 4060a8ef-5f3f-4b95-9a78-13d523ff0483 +67380149752 b932ae29fbf11317b69400fc14679cb506e47d45
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

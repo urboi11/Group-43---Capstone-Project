@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jennifer Webb", email: "mіchaellopez(at)gmail.com", phone: "+44 424 49𝟩 4282", dob: "30/05/198𝟶", addr: "24𝟤93 Ruben Green Suite 𝟤𝟶8, Sоuth Eriса, AK 63972", ssn: "SSN:525‐74-6𝟧83", cc: "4600 069𝟦 𝟣𝟣85 2206", ip: "𝟤6.125․36․29" };

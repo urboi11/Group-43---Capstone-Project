@@ -1,0 +1,4 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: chad97(dot)Jordan(at)downs.com 656.773.742.32 YWJjYWJjYWJjYWJjYWJjYWJjYWJj
+WARN scheduler: job=27 retry=1 corr=7f3ad0

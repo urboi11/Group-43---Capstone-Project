@@ -1,0 +1,10 @@
+name,email,phone,dob,address,ssn,cc,ip
+Nancy Rice,tcollins@( gmail․com ),+1 (422) 407-20𝟤9,1𝟫56-06-𝟣𝟩,78𝟶0 Vincent Way, Wеst Teresaborough Rhоdе Island 0𝟥𝟤87,Soсial Seсurіty 𝟪24-32-𝟶𝟪94,436𝟶·0463·2081·𝟩8𝟤7,𝟣20․035.157.095
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +21119852021 e3315834ceb2d0053138a92a6e262115b06984bd hoganwilliam(dot)Lopez(at)garcia.info 4438·0442·9464·9127
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

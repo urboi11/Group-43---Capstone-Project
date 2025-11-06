@@ -1,0 +1,3 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: dnielsen(dot)Mcdonald(at)james-castro.com YWJjYWJjYWJjYWJjYWJjYWJjYWJj
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

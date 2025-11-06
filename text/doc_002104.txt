@@ -1,0 +1,7 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: +68278064815 262.511.582.100 darrell62(dot)Wilson(at)dixon.com 4535·1608·9310·4262
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

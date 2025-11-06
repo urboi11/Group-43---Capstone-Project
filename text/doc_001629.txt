@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: wilsonyvonne(dot)Jones(at)pearson-ferguson.com YWJjYWJjYWJjYWJjYWJj
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 890.570.863.306 94c919f24ec5a5e222cb29580f309325079145b5 mevans(dot)Melton(at)wright.com

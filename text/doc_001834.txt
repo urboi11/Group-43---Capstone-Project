@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Miguel Miller</td><td>danny99@( mail․johnson-sanders.com )</td><td>+1 (502) 974-1658</td><td>2𝟧-𝟶8-𝟣960</td><td>𝟦7𝟦6-4755-5𝟥00-8256</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>

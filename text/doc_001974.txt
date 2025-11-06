@@ -1,0 +1,9 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 346.131.111.695 811aa11c-fd34-4cfe-b617-630ad27a2127 14-16-7699 YWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

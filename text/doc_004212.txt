@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Tara Ross</td><td>kelly𝟪5 аt gmail.com</td><td>(793) 890-29𝟩5</td><td>Oct 19, 1971</td><td>494𝟨·1005·4151·𝟶9𝟣0</td></tr></table>
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: +84061546077 4176·0090·7099·6574
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

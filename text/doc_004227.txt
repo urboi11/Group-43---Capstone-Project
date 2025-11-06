@@ -1,0 +1,7 @@
+name,email,phone,dob,address,ssn,cc,ip
+Juan Gilbert,gfields at hоtmail.cоm,754-59𝟥-865𝟥,2𝟨-0𝟪-19𝟦0,55𝟦𝟫7 Jamie Mountains, Port Josephborough NE,𝟥23-59-23𝟣1,4104·19𝟨8·84𝟣𝟨·7977,e0bf:d3𝟤b:f0еf:2c7a:e601:266e:e966:9𝟦f5
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: irwinangela(dot)Espinoza(at)schroeder.org cbdf067a111bb7ef3043749615da0b3c4e9e2689 664.858.718.533
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

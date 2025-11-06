@@ -1,0 +1,5 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 78-60-7135 790.531.360.970 92f65695a36d3eaada2e685c41d3978b50b8e0a9
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: YWJjYWJjYWJjYWJjYWJj 416.55.18.703 a0e6a6a658984afec34c0168455bc48cffa2ccd7
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

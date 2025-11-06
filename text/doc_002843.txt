@@ -1,0 +1,3 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJj 4854 8783 1364 8903 8a5106c5-7851-40bd-a427-487cbd69e62a 931.503.182.518
+<p>Release: add audit headers, improve error resilience.</p>

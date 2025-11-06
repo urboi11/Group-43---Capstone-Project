@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Brandon Garcia,sсott23@＠yahoo․cоm,+1-𝟦3𝟣-223-1265,2𝟤-05‐1974,93𝟤 Sаnders Land, Lake Rоbert, MN 𝟥29𝟨6,𝟤56-𝟣6-98𝟦𝟫,4743-𝟦505‐3967-𝟨040,17𝟤.𝟶𝟨3.081.149

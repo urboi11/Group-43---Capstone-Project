@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Thomas Gutierrez</td><td>whicks@( gmail.cоm )</td><td>+𝟦9 4𝟪𝟧 404 2𝟩99</td><td>𝟣98𝟤-𝟶𝟩‐29</td><td>4488 691𝟩 16𝟦𝟣 9𝟣21</td></tr></table>

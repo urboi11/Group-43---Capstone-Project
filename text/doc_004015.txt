@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Shane Allen</td><td>miguel71 [at] lara.com</td><td>+1 (414) 3𝟥5-9821</td><td>1963-0𝟣-04</td><td>4695 𝟶𝟨26 𝟨81𝟫 12𝟣8</td></tr></table>

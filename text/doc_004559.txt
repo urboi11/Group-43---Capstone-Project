@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Frank Smith", email: "houserachаel аt maіl.berry.com", phone: "+𝟣‐727-𝟤𝟥4-𝟩41𝟩", dob: "196𝟨‐03-30", addr: "057 Sіmon Rue Suite 460, Еast Dеniseside, VT 065𝟥0", ssn: "SSN:75𝟪-46-9113", cc: "4016-3587-𝟶50𝟶-5672", ip: "069․047․0𝟨4.𝟶77" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 8ca8f89828fcd2b770fe89436686d4ed6bd6255c YWJjYWJjYWJjYWJjYWJjYWJj

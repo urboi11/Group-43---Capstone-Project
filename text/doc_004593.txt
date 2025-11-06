@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: f02aec8a88e43bb945e3227734d27642df717fa1 iavery(dot)Myers(at)brewer.com
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 539093e6-3b21-421d-ad9f-73faa78f65fc 139c616d2a8c6d0b17251119a87ea087579d0b30 395.819.861.50 christopherwilliams(dot)Rodriguez(at)long-haynes.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

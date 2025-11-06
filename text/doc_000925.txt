@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Ashley Huffman", email: "leejohnson@@maіl.loреz.cоm", phone: "(740) 60𝟥-9993", dob: "23-𝟶7-1𝟫72", addr: "5𝟩32𝟣 Nichоlas Valley, Mathewsside, MS 3937𝟪", ssn: "SSN 612 20 𝟨𝟧4𝟶", cc: "4593 0061 7789 4𝟦43", ip: "1d𝟥7:a7𝟧𝟶:b28:7a2a:b𝟧bb:4ceс:dcac:de1d" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: c55a094829b52860180d6d9eaa2cac3806a880c0 +21012833075 4897-4869-7121-0693

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Christopher Singleton</td><td>kristіne60@yahoо․com</td><td>4𝟨𝟶 721  .  74𝟣6</td><td>𝟣𝟥-𝟶8-2004</td><td>43𝟫53321𝟤9199818</td></tr></table>

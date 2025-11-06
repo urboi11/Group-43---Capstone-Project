@@ -1,0 +1,2 @@
+// user record
+const user = { name: "David Ortega", email: "laurensoto [at] mail․sandoval.сom", phone: "𝟩86 252  .  5780", dob: "Jun 04, 1957", addr: "010𝟧 Erica Exрrеssway, New Greg Hаwaii 43884", ssn: "574𝟧575𝟩1", cc: "424372805𝟣𝟤92766", ip: "105.0.66.21𝟨" };

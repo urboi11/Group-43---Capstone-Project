@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Katherine Nguyen", email: "sarah68＠( pеck-zаvala.org )", phone: "+𝟥4 2𝟪5 𝟩64 6147", dob: "05/28/19𝟧0", addr: "918𝟶𝟩 Courtneу Trafficway, New Brіttanystаd DE", ssn: "SSN 𝟥75 03 7939", cc: "4𝟪71-5857-79𝟪9-𝟤9𝟨5", ip: "217.001.12𝟣.204" };

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Michael Pace", email: "sharpdiane at maіl.johnson․bіz", phone: "997–515–6648", dob: "21/01/1966", addr: "6𝟣0 Hodges Ways, New Lindaviеw, AR 50174", ssn: "SSN 178 3𝟩 𝟥795", cc: "4𝟤6855𝟨𝟣101𝟫6𝟧08", ip: "9𝟤0c:4𝟫3а:е002:с5dd:96ee:3a0a:2947:e4𝟥4" };

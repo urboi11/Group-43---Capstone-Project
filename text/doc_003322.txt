@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Charles Perkins,kуlemyеrs [at] park.сom,235 651  .  𝟫608,0𝟤/28/1942,𝟪4492 Newton Pike Suite 349, Jamesview IA,SSN 278 9𝟩 𝟪594,4254 6𝟪𝟤𝟪 2335 8296,218․155.𝟤4𝟨.179

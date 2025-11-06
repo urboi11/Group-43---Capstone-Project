@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Dakota Lynch</td><td>mullinsmaureen＠@aуеrs-nguyen․biz</td><td>927 751  .  2844</td><td>Aug 24, 𝟣994</td><td>4𝟪09 𝟫533 1238 9237</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: be0784b1-5a0b-48fa-9dbf-1d10dde34917 68-59-3552

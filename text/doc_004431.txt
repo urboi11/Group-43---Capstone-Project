@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+Patricia Boyle,kathryn96(at)sandеrs.com,+𝟨𝟣 53𝟦 959 65𝟧3,1972-06-16,𝟤269 Mata Plaza, Danіеllefort, NH 22𝟨𝟤3,𝟤7𝟫632592,4877-8253-260𝟨-𝟧𝟥82,e𝟫f4:bb65:96c0:7238:86𝟶9:6de:6d𝟤𝟩:𝟫1с6
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: mary03(dot)Bush(at)lane.net 99074b49-ca5f-49c3-bef6-c708a3fec13e 94-55-5615
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

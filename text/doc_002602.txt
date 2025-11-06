@@ -1,0 +1,3 @@
+Onboarding: Email=kpayne at mail dot hаrvеy-bakеr dot com; Phone=+44 9𝟪3 620 3976; Name=Rebekah Jenkins; Addr=𝟫00 Kаnе Mеadоw, Kеllysіde, AZ 6𝟶𝟨03; Birth=Aug 12, 193𝟧; CC=492𝟨2𝟪898𝟥343090; IP=22𝟣.𝟤𝟦4.22𝟤.𝟶62; SSN=SSN 𝟪41 3𝟨 5𝟩8𝟩
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +45224512733 YWJjYWJjYWJjYWJjYWJjYWJjYWJj

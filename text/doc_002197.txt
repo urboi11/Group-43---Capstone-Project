@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Justin Gonzalez</td><td>uсarlson at mail.romero.com</td><td>4𝟤𝟨.948.9989</td><td>1𝟦‐𝟶𝟣-1963</td><td>4180 61𝟤𝟪 2277 6916</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: christinaarnold(dot)Abbott(at)wilson.com YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 56-72-4225 +37459684849
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

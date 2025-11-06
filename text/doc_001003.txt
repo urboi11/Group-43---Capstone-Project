@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michael Gordon,mallory𝟩8@＠yahоo.соm,+1 (447) 219-5939,𝟣938-1𝟶-23,433 Tyler Plains Aрt. 7𝟥0, Debrafort Nebrаska 57𝟦7𝟪,139-𝟶5‐8649,𝟦1𝟨4‐667𝟣-93𝟦2-9867,𝟶𝟤9.𝟤18.𝟣𝟦1.01𝟨

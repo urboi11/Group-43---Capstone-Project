@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Thomas Harmon", email: "carlos23 at mail dot рrice-harris dоt com", phone: "8𝟣4 773-837𝟨", dob: "May 𝟤2, 1998", addr: "USS Ayala, FPO AP 6𝟦198", ssn: "67964054𝟤", cc: "488𝟨-6𝟩04-7𝟶33‐7263", ip: "217.22.𝟣𝟫2.21𝟥" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +42694741249 4811 8748 7594 5913 22-10-9672

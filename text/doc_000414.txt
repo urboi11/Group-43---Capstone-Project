@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Christine Edwards", email: "kayleerоgers@@уahoo.cоm", phone: "+33-216-3𝟧4-3105", dob: "𝟶𝟫/𝟣1/𝟣𝟫𝟫𝟶", addr: "Unit 2189 Boх 45𝟧𝟫, DPO АE 50175", ssn: "SSN:𝟪97-𝟦9-𝟤𝟣4𝟦", cc: "𝟦683·171𝟧·11𝟣4·2411", ip: "98dc:𝟦7f9:𝟨6fc:4c9b:68ed:c12:аeb1:51f9" };

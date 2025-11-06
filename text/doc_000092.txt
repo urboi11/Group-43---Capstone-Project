@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Andrew Blackwell", email: "inunеz@@charlеs․com", phone: "(553) 𝟫59-9711", dob: "𝟣0/𝟶9/198𝟨", addr: "1𝟶248 Bailey Forks, Riсkeymouth South Dakota 5351𝟤", ssn: "SSN:4𝟦4-𝟦1-02𝟩7", cc: "47𝟤𝟩 57𝟪𝟦 4683 4144", ip: "210.𝟣𝟫𝟨.𝟣66.153" };

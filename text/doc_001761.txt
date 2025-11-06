@@ -1,0 +1,6 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj fd433955-0f42-436f-ac81-95e62ef9bec4
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Brian Matthews</td><td>dlong@( ferguson.info )</td><td>8𝟩𝟥 𝟧25-71𝟦𝟥</td><td>Dec 𝟣2, 𝟣992</td><td>441𝟤307853185𝟥80</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 44262809-3a1b-4ef9-b87a-dc1e5b3cf9c5 4380 7155 8367 7844
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

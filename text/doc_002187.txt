@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Kristina Cole", email: "uarnold at smith dot biz", phone: "+𝟣-𝟪62-𝟥2𝟦-907𝟶", dob: "12/20/1𝟫𝟫1", addr: "444𝟪0 Mckeе Fіelds, Port Kelly Illinois 𝟧18𝟦2", ssn: "333𝟤95170", cc: "43𝟫8𝟧6757𝟣240639", ip: "9d𝟩2:86ce:e0ba:𝟩𝟥05:𝟣6a𝟤:4f0с:c95a:a7ae" };

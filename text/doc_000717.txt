@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 482.124.513.549 tammy97(dot)Buck(at)yates.com YWJjYWJjYWJjYWJj 2afaa00e-f6d9-48d4-ada9-6d69a8c7b965
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

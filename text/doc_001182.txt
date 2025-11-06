@@ -1,0 +1,3 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: acb6bf3f-85be-46f9-b067-8a09f6a262c2 371.365.235.290 +45258782964 YWJjYWJjYWJjYWJjYWJj

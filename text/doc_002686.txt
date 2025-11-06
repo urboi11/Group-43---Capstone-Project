@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>David Graves</td><td>rferguson at gmaіl.cоm</td><td>815 396  .  81𝟶2</td><td>03/0𝟤/𝟣𝟫64</td><td>4𝟤𝟨𝟪-𝟫𝟫𝟤2‐2665-458𝟩</td></tr></table>

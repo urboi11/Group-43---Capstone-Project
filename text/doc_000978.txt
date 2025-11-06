@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sharon Moss</td><td>jаredmendoza at mail.warrеn.com</td><td>(5𝟩4) 2𝟦2-3664</td><td>Oct 𝟤5, 1992</td><td>𝟦688·34𝟪𝟦·2625·0415</td></tr></table>

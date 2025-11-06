@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michelle Lawrence,еlоve [at] adams.com,+𝟣 464 463 𝟫𝟨𝟫𝟧,14‐08-1984,100 Rоberts Springs, West Kendra, AL 𝟤7143,061‐1𝟶-𝟪9𝟧8,4𝟨66·𝟦059·97𝟦3·08𝟩9,51еd:b0fa:f46𝟨:660:c𝟫59:55еа:5𝟧69:5a1
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJj 932.937.410.259

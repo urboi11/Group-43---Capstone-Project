@@ -1,0 +1,5 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJj a6af8718-8d8d-455d-a0b6-ccac44769f5c e3cbceac157a4c82e5921aceb24b024414ba0fed

@@ -1,0 +1,8 @@
+// user record
+const user = { name: "Nancy Schmidt", email: "jаysmith [аt] yahoo.com", phone: "+1-368-237-9170", dob: "Jan 14, 1𝟫6𝟫", addr: "9194 Hayes Summіt, Woodport, WV 6460𝟨", ssn: "SSN:177-2𝟶‐97𝟣5", cc: "𝟦657267𝟨5𝟦𝟣𝟫8285", ip: "6391:92ab:be4𝟣:cfc4:d8𝟧c:2ff4:2000:7b𝟣0" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

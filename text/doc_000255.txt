@@ -1,0 +1,6 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4746·2159·5841·7492 allenmurray(dot)Adams(at)stanley-chavez.com d2e0a05523c293798fc186fe9044c97604db0c53
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 204ac785144478126ed7dfb03fe2a498c3890567 4174-6564-2601-8635 YWJjYWJjYWJjYWJj 1585665d-8ce0-4d8f-ad4b-229f1e4aa016
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

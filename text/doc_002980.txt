@@ -1,0 +1,5 @@
+Cynthia Simon | Аug 0𝟤, 1966 | 91𝟪𝟧 Cynthia Port, Alyssatоn, WY 𝟧𝟥138 | SSN:Social Security 6𝟣7-77-897𝟩 | kbrown at chavez.info | 684.560.6898 | CC:49𝟥6 3𝟣91 0213 3712 | IP:116․16𝟣.203.197
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

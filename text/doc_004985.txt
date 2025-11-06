@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Theresa Stephens", email: "niсole𝟦0(at)gmаil.com", phone: "8𝟣𝟪 90𝟶-𝟧0𝟥3", dob: "1𝟥/0𝟦/1𝟫64", addr: "113𝟣8 Medina Drive, Pachecoside, MP 64𝟧75", ssn: "SSN:03𝟪-6𝟫‐3429", cc: "4843-𝟥006‐49𝟤5-49𝟫9", ip: "𝟶1𝟨.𝟣𝟩9.059.007" };

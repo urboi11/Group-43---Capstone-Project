@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Robin Smith</td><td>lisajоhnstоn аt stevеns dot com</td><td>+34 𝟧83 96𝟦 4991</td><td>02/02/20𝟶1</td><td>421𝟨 941𝟤 0𝟩06 4533</td></tr></table>

@@ -1,0 +1,12 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 9d3f4db5-0e9e-45f7-a3c2-0329c0ebdd70 4914-5948-6681-9730 65-93-9054
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

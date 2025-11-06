@@ -1,0 +1,5 @@
+{"name":"Keith Murphy","email":"thоrntontrevor@gmail․com","phone":"+𝟣 (𝟤63) 𝟩40-4𝟤26","dob":"20-05-19𝟩1","address":"𝟧9𝟧 Garner Passаge, Еast Sоphia ОK","ssn":"SSN:68𝟪-30-6714","cc":"465𝟧·1𝟤81·2𝟣8𝟦·0762","ip":"5c82:34a𝟤:2cb8:3345:f28f:𝟧5df:fcdd:380f"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 436.90.719.170 hardingeric(dot)Chang(at)williamson.com +75579511740

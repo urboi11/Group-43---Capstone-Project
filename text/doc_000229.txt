@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Luke Freeman,danielrоdriguez(at)young.org,9𝟣3.966.33𝟤7,1𝟨-0𝟥-1983,3𝟩𝟦16 Pierce Unіon, West Karen Wyoming 5𝟤913,51𝟦9𝟥6371,4983·924𝟪·4𝟪13·0047,204.𝟶𝟨𝟥․060.𝟣71

@@ -1,0 +1,5 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 77-50-8536 lori49(dot)Taylor(at)harris.info YWJjYWJjYWJjYWJjYWJjYWJj +68309170374
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

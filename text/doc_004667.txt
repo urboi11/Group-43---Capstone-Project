@@ -1,0 +1,5 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: asmith(dot)Williams(at)rangel-moore.net YWJjYWJjYWJj 1c417ab4-df61-4b9a-8515-20e257c0bbf0
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

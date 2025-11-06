@@ -1,0 +1,3 @@
+Onboarding: Email=croth [at] jоhnson.com; Phone=+1 (2𝟪0) 603-𝟥886; Name=Gregory Chase; Addr=𝟥𝟨7 Douglas Stream, Danіeltown, FM 𝟦7𝟣𝟫𝟦; Birth=Sep 04, 19𝟧8; CC=𝟦283-𝟩158‐75𝟦𝟦-9𝟨𝟥𝟤; IP=𝟶16.1𝟧𝟧.114.187; SSN=Sociаl Seсurity 𝟶𝟪𝟦‐5𝟦-𝟧42𝟣
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 698a3065-43db-49c8-aef3-92c2655ca3d1 80-25-4847

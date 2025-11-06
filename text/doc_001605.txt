@@ -1,0 +1,7 @@
+// user record
+const user = { name: "Eric Jones", email: "earlrаmirez(at)mail․moorе‐hurleу․com", phone: "+1-794-𝟦34-𝟫062", dob: "195𝟶‐08-22", addr: "USNS Gilmorе, FPО AP 8310𝟥", ssn: "854034736", cc: "4261·6268·4𝟪84·805𝟧", ip: "1𝟶2.134․04𝟨.088" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 56119bc2-4bb3-4180-a347-21a47b899db1 4003-7348-5215-5607 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj +54379405370
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

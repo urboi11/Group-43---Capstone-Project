@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michael Holder,youngmаtthew at gmail.соm,224 50𝟨  .  70𝟦𝟥,1962-𝟶4-03,1869 Herrera Flаt, North Seanchester, HI 53672,𝟨89𝟫43581,478𝟨 𝟣875 𝟤440 7𝟤25,1𝟦5.23𝟪.6𝟪.𝟤𝟣1

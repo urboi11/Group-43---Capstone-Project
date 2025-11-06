@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>David Olson</td><td>annewеst＠hotmаil․com</td><td>+𝟣 258 𝟧47 26𝟥2</td><td>Feb 19, 1982</td><td>4𝟫92‐5335-00𝟶𝟨-4𝟦2𝟧</td></tr></table>

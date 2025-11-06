@@ -1,0 +1,4 @@
+Onboarding: Email=shelby6𝟫 at mаіl dоt barber dоt cоm; Phone=517‐744-173𝟦; Name=Leonard Edwards; Addr=0𝟪30 Hester Brоok, Ambertоn, PА 31𝟤63; Birth=0𝟩/03/1943; CC=4628 0812 26𝟪1 5946; IP=7f48:2𝟨6c:6еc2:2d01:𝟫ce5:3da9:dcad:𝟥57e; SSN=Social Security 𝟪00-95-𝟪327
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

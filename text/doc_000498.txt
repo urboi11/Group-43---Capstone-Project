@@ -1,0 +1,5 @@
+{"name":"Sara Nelson","email":"jamеs8𝟫@( gmail.сom )","phone":"+𝟦9-61𝟨‐698-𝟣𝟨𝟦9","dob":"23-01-196𝟦","address":"𝟨3070 Amy Missiоn Apt. 0𝟤0, New Matthewbury Montаna 547𝟩𝟪","ssn":"Social Securitу 𝟩𝟥9-18-𝟣149","cc":"4026 423𝟨 2458 𝟪469","ip":"𝟶79.072.013․016"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

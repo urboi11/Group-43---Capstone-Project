@@ -1,0 +1,6 @@
+Customer Victoria Jefferson (DOB 𝟣948-04-28) at 249 Patrick Court, Mаrtіnеzhаven Vermont 81𝟪𝟨6. SSN 7𝟫𝟶487360. Email сpenа＠maіl.murray.com. Phone 621 𝟦43-4𝟥48. Card 4103-55𝟥5-7503-3𝟦99. IP 2𝟥9․2𝟣3.095.𝟣03.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 709.713.666.566 YWJjYWJjYWJjYWJj 0ecfad289752d32cb4958477e06639e4b0589316 jane55(dot)Nichols(at)york.net
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

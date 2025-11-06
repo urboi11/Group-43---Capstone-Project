@@ -1,0 +1,5 @@
+Onboarding: Email=patrick𝟨4 at yahoo dot cоm; Phone=+1-335-𝟪63-1974; Name=Kara Tyler; Addr=384𝟣2 Mcgee Strееt, Mаrissaborough, VT 89𝟩9𝟦; Birth=𝟶3-09-1940; CC=4649 279𝟪 9036 𝟥𝟣4𝟧; IP=197.𝟣22.53.104; SSN=172-17-606𝟪
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJj 6002a483-b283-4231-9ea2-705d235e4ba7 +2217898350 17465d50e3c6c45e14204d3d7d9e409481acc77e

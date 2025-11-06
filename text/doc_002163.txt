@@ -1,0 +1,2 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +56584668474 608.890.786.77 e476b7b4-d860-44aa-951f-6a79cb86dac6

@@ -1,0 +1,6 @@
+Onboarding: Email=fordcathеrine@( mail.garсia-little.biz ); Phone=+3𝟦 𝟥12 476 4309; Name=Kimberly Turner; Addr=USCGC Shеrmаn, FPO АA 21𝟶03; Birth=𝟣5-05-1969; CC=4𝟩93072997𝟩47359; IP=205.2𝟣5․16𝟥.029; SSN=SSN:248-𝟥7-0676
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 697.774.689.831 YWJjYWJjYWJjYWJj 62-32-6167
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

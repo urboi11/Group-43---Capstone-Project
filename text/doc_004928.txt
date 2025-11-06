@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Anna Brown</td><td>byrddebra [at] mail․ross.biz</td><td>+33‐989-514-80𝟨𝟪</td><td>16‐08-1947</td><td>4808·1426·506𝟣·68𝟦6</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

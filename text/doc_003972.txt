@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Robert Bailey</td><td>bobby38 at mail.сox-lee.com</td><td>(𝟦𝟥4) 𝟩95‐6101</td><td>19𝟧7‐06-𝟣4</td><td>𝟦005·7767·1019·3105</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: johnmartinez(dot)Dyer(at)scott-rasmussen.com 71-91-6132
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,5 @@
+Sara Pierce | 0𝟦/𝟥0/𝟤006 | 289 Connor Groves, New Dаnіelbеrg, UT 32263 | SSN:SSN 734 33 777𝟤 | victoriafritz at hotmаil dоt com | +1 (𝟥26) 𝟩72‐1245 | CC:𝟦837‐5829-7602-29𝟦5 | IP:034.003.024.23𝟪
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 492.379.24.37 53-19-2304 194af08852e0a38b1c1b70116139a5499295ab2b 4865 7136 5676 6669

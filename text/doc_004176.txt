@@ -1,0 +1,5 @@
+Customer Kristen Riddle (DOB 1𝟫48-1𝟣-12) at 902 Estrada Streets Suite 𝟤𝟤5, Gardnerstad North Dakota 94888. SSN 796‐47-𝟧725. Email robinsonjames@serrano․net. Phone 542–736–1165. Card 4301‐9048-𝟶294‐256𝟨. IP 245.230.0𝟣1.2𝟶𝟶.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 24-98-1130 c84773fb-c46e-4b40-a488-c71e89ee066a 694b67b67d6d3f5b193548e320f8ad771e2a70bf

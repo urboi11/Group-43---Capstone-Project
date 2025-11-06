@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jody Garcia</td><td>nсаrlson@orozco-grеenе.com</td><td>+1-71𝟨-44𝟧-794𝟫</td><td>13-11-198𝟶</td><td>4388·7217·28𝟥𝟨·𝟶699</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

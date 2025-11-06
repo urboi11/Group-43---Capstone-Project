@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4495c699-fc98-43db-8ae3-e30b08899870 nathansmall(dot)Rodriguez(at)freeman.org YWJjYWJjYWJjYWJjYWJj 4813-1103-1732-8747
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: vedwards(dot)Sanchez(at)bradley-rivera.com 55117222cc209e0e85d92acb9a5f700debc7dcbc
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

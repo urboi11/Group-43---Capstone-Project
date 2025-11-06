@@ -1,0 +1,4 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: YWJjYWJjYWJj 7cfa5aa332a94f9c609d4e5fa16ee2514572ca31 6e9cd53b-7aa4-405c-97ac-3b3722847787 37-37-2117

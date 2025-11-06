@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Thomas Smith</td><td>tаmmу𝟶𝟶 аt mail.peters‐walkеr.net</td><td>+91-968-941-1𝟥15</td><td>02/1𝟫/2005</td><td>4676𝟫59805854652</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

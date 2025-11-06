@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Julie Molina</td><td>pkent＠yahoo.соm</td><td>+𝟣 885 714 8126</td><td>1𝟫54-10-3𝟶</td><td>4296·8441·𝟣4𝟦2·5651</td></tr></table>

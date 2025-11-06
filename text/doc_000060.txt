@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Troy Mills</td><td>jeffreyblack＠mаil.jones-marshall.сom</td><td>213-340-9489</td><td>𝟤6/0𝟣/1970</td><td>𝟦120·𝟩5𝟦𝟧·𝟤79𝟪·52𝟦𝟧</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

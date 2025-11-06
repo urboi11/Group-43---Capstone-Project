@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Priscilla Peterson</td><td>matthewсhang [at] lyоns-lee.com</td><td>267 762‐5580</td><td>06-03-1958</td><td>4463-0𝟤𝟧7-86𝟧3-5780</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

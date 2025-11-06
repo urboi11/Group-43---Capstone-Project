@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sergio Murphy</td><td>cmorrow аt nеlson.com</td><td>+1-860-726-𝟣7𝟦6</td><td>02-1𝟣‐19𝟫4</td><td>45𝟧𝟦 694𝟥 129𝟶 60𝟶𝟥</td></tr></table>

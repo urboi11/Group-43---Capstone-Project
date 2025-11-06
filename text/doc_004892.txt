@@ -1,0 +1,11 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: ryan96(dot)Ruiz(at)barron-smith.com ac04f6701874b9805c97b2e5cbe8bdb8c6c6ed0a 346.924.131.974 YWJjYWJjYWJjYWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4558 3121 8909 4396 YWJjYWJjYWJjYWJjYWJj 14-28-4991 +3862479947
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

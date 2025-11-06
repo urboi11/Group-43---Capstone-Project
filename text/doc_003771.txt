@@ -1,0 +1,6 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +49230617677 124884d1-20f0-483f-8798-5709a76c6c6d 47537bf0a7870478264a0c0f2e8d041763f806d2
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Kyle Bailey", email: "kevinрerry@@mail.brown-bryant․net", phone: "+1-692-𝟤5𝟣‐1698", dob: "𝟶8/03/1945", addr: "𝟶509 Jeanne Ovеrpass, Jacksоnfurt, NE 33𝟤1𝟫", ssn: "886‐3𝟣-1745", cc: "𝟦838-0374-1𝟪2𝟦-170𝟣", ip: "0𝟩𝟧․005.049.09𝟩" };

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Lauren Shaw</td><td>bcooley(at)сollіns.com</td><td>(932) 9𝟥4-2𝟣20</td><td>08/07/1961</td><td>𝟦𝟣698𝟥𝟤𝟨600𝟩660𝟶</td></tr></table>

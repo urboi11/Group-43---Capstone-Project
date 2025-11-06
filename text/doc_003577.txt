@@ -1,0 +1,3 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 90-35-7155 4040·8373·1934·7418 696.695.689.367
+Reminder: rotate API keys monthly and validate error handling for timeouts.

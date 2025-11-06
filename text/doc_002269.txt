@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Krista Young</td><td>ascott@yаhoo․com</td><td>𝟪31.276.2𝟧58</td><td>19/07/1935</td><td>4958427𝟫61064𝟫6𝟶</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJjYWJjYWJj 54b30701624787916b5c813ec9cdfa0d6ebf4ff4 isaiahwhitaker(dot)Gallegos(at)anderson.info 87-36-2361
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

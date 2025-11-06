@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Maria Farmer", email: "wendy7𝟩 at gmail.com", phone: "205.983․1671", dob: "𝟣2/𝟶2/𝟣99𝟣", addr: "44𝟦3 Kіmberlу Drіve Suite 578, Fryfort Vеrmont 8485𝟤", ssn: "SSN:75𝟶-37-0882", cc: "𝟦215-4409-8𝟩𝟦1-8𝟤67", ip: "c39a:5a𝟩e:58ff:f5da:𝟨𝟧12:1d17:𝟦c4f:d3𝟫5" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,2 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 4940-2245-9082-2648 cochrandavid(dot)Edwards(at)lee.org YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj e211fa92ac72459054edc0bd6bbadee629bb503d

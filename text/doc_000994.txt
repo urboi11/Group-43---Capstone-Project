@@ -1,0 +1,7 @@
+<p>Release: add audit headers, improve error resilience.</p>
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4048 7287 4394 3580 27-25-4909 cbfb3a8f-9fb2-4682-9f7a-80e678664690 +37143825035
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

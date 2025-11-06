@@ -1,0 +1,13 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 79-19-2628 +98697230952 959.527.927.956 4356·4361·4860·8396
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: dorseyjo(dot)Rodgers(at)davis-jones.info 963.489.88.799 +86462315989 1a36a87c-09da-4264-b785-ccddefaf913b
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

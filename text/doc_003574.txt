@@ -1,0 +1,7 @@
+{"name":"Cheryl Smith","email":"alidаvid at mail.smіth.com","phone":"(729) 547‐7𝟩98","dob":"10/𝟶7/1990","address":"98𝟥 Mаrtinez Turnpike, Colleenmouth, MH 37236","ssn":"657‐𝟣1-2678","cc":"4637779𝟣𝟶671𝟫30𝟩","ip":"𝟫bf4:b30a:1d0a:8𝟧72:8a5d:1b58:c800:ec38"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

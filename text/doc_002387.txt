@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Bobby York</td><td>johnmoreno@smith‐robinsоn.com</td><td>606 7𝟧6  .  𝟩2𝟫2</td><td>17-𝟣0-1944</td><td>4562·2𝟥73·1796·𝟶342</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +48808564412 joanne20(dot)Carter(at)powell-larson.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

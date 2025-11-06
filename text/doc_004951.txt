@@ -1,0 +1,5 @@
+Onboarding: Email=kathlеen𝟶5@( hotmail.com ); Phone=+34-𝟪55-𝟨𝟪7-580𝟥; Name=Gary Smith; Addr=3𝟤𝟩 Holden Shores, Anthonybury Iowa 0682𝟥; Birth=29-03‐1965; CC=4266-5𝟶81-846𝟧‐4526; IP=211․097.240.08𝟶; SSN=SSN 𝟪40 37 84𝟩6
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

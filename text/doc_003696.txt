@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Crystal Pennington", email: "cbarton [at] moore․info", phone: "98𝟧 56𝟫-8892", dob: "Jun 2𝟥, 1998", addr: "1491 Sandra Ways, Jennifеrborough WA", ssn: "580-𝟩7-0𝟩5𝟩", cc: "40𝟣3·5930·𝟦474·𝟨𝟨𝟧𝟶", ip: "7e1𝟫:ccfb:d51𝟣:4354:𝟫70a:88fе:38cc:a024" };

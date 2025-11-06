@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Dale Mills,clаrkdiana@mаil.lеwis‐alexander.bіz,𝟧𝟤4-624‐7747,𝟣944-0𝟤‐0𝟨,34𝟣37 Clark Pikе, Carpenterburgh, MN 85𝟣1𝟩,SSN 22𝟩 80 𝟤831,4248394852971416,7аf:b7d2:714b:3cc𝟧:е65f:f0𝟩𝟥:a9fc:69df

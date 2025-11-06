@@ -1,0 +1,9 @@
+{"name":"Chad Stewart","email":"tonya82@( yahoo․com )","phone":"+9𝟣-61𝟶‐900-6263","dob":"Deс 14, 𝟣9𝟦3","address":"17986 Dawson Points, Еast Nancy, HI 76𝟤39","ssn":"SSN:568-45-𝟤𝟩66","cc":"4𝟧97-36𝟫7-𝟶168-52𝟧7","ip":"b96𝟫:15𝟶е:53da:5675:570:62с3:908d:8427"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 21-25-3459 4795928223312563 710.140.354.2 +51942192161
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

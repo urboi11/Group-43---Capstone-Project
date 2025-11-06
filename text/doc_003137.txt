@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Joshua Jimenez", email: "fandrews [at] gmail.com", phone: "446-𝟨4𝟥‐5𝟤14", dob: "11/05/1979", addr: "99𝟣 Sarah Street, Wilkіnsfоrt KS", ssn: "SSN:77𝟤-5𝟩-35𝟨3", cc: "41𝟫4342114239076", ip: "252.0𝟨𝟥․1𝟶5.192" };

@@ -1,0 +1,4 @@
+{"name":"Christy Moore","email":"anna43@( mail.grіffin.cоm )","phone":"𝟪𝟦6 7𝟥7  .  322𝟩","dob":"07‐03-1𝟫86","address":"USNS Ruiz, FPO AE 𝟥6781","ssn":"Social Security 150-15-9188","cc":"𝟦489-3047‐9629-4393","ip":"925е:d389:d5c𝟶:𝟧fb9:е10b:6dа1:4𝟧32:4b𝟣1"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

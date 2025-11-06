@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>April Allen</td><td>richardjose@( yаhoo.сom )</td><td>𝟪41‐8𝟧𝟨‐𝟤𝟦1𝟶</td><td>Jun 16, 193𝟪</td><td>4152-0009‐1965-6858</td></tr></table>

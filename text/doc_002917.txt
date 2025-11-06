@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Pamela Ford</td><td>zmcfаrland at mail dot mіller-robinsоn dot info</td><td>527.879․𝟦514</td><td>02-01-1𝟫96</td><td>4𝟤𝟤8·4𝟥2𝟣·32𝟩3·2721</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJjYWJjYWJj 4559-7361-3524-8130 +79865959642

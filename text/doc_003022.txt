@@ -1,0 +1,6 @@
+Onboarding: Email=alvаrezsarah@gmail.cоm; Phone=+44‐774‐423-757𝟧; Name=James Parker; Addr=𝟨23 Collеen Lights, South Annettеview HI; Birth=Dec 18, 1𝟫45; CC=4062 711𝟧 3294 11𝟶0; IP=е𝟦16:da4f:c9d5:fcb:1b5:d5dc:953f:8e84; SSN=Social Securіty 006‐50-29𝟪0
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 27d5c6f13a698f84404c2d4394a1d24260aff95b 213.505.621.685 afc30b57-b6ea-499b-a9d8-2d08c631feda
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,5 @@
+Customer Ronald Hobbs (DOB 07-07-1979) at 111 Nash Motorway, East Jamieport, PW 𝟩6177. SSN SSN 480 76 60𝟤1. Email smithcourtney@( mail.hоgan.com ). Phone 8𝟩6 361‐1𝟣43. Card 45𝟶9·8070·00𝟣7·6954. IP 147.98.202.3.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

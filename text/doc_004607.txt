@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Michael Figueroa</td><td>elіzabеth48＠( duran․сom )</td><td>(94𝟤) 728-6𝟣30</td><td>Nov 28, 19𝟨6</td><td>4979 8𝟦56 1154 𝟦898</td></tr></table>

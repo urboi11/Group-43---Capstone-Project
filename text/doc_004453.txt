@@ -1,0 +1,13 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4031·7634·9211·4204 hudsonnicole(dot)Sawyer(at)jones.com
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

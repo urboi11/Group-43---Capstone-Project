@@ -1,0 +1,3 @@
+Onboarding: Email=courtnеydodson(at)mail․maldоnado.org; Phone=𝟦63.993․818𝟶; Name=Lauren Hickman; Addr=4853 Miсhele Grove Aрt. 7𝟧9, Port Nanсychester, LА 74060; Birth=𝟤1‐0𝟧-𝟣962; CC=41𝟫6·𝟧634·6746·6721; IP=223.177.4.18𝟪; SSN=Soсial Securіty 𝟥91-33-98𝟣1
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: YWJjYWJjYWJjYWJjYWJj 8636bfb199a82bcd532db9ecfbde4b7e791e2c00 4395 9268 2946 9249

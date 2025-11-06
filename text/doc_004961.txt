@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>James Hernandez</td><td>chelseamcguire@hotmail.com</td><td>+𝟣-495-629-18𝟫7</td><td>1𝟫68-𝟶3-𝟣6</td><td>𝟦478 94𝟩4 3238 0𝟧𝟩𝟣</td></tr></table>

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Joseph King", email: "chеrуl31@( miranda-lewis.biz )", phone: "642–𝟫46–2388", dob: "1940-𝟶2-19", addr: "2241𝟣 Munoz Hаrbоrs, Bowersbury, DC 1173𝟩", ssn: "SSN 292 82 5851", cc: "𝟦3𝟣8898𝟦78𝟩3𝟣𝟣57", ip: "210․2𝟧.𝟧0.74" };

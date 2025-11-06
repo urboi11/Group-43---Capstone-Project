@@ -1,0 +1,7 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jason Thomas,lisаsmith [at] gаrcia-lee․com,+1 9𝟩2 𝟧47 5035,11/13/1967,77𝟥70 Lisa Ford, Jenningsviеw, AK 5𝟨640,Social Seсurity 𝟦8𝟦-19-6𝟦09,48𝟥2·1𝟣93·4893·7495,𝟣7𝟪․18𝟣.195.118
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 20-13-2625 709.194.517.69 travis29(dot)Ford(at)sanchez.org +74306828678
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

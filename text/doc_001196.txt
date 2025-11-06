@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +33750698423 591.846.616.146
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

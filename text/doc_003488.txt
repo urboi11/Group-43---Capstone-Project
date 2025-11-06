@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Matthew Mccarty,dale𝟣3@mail․sawyer-martinez.cоm,+1 𝟪𝟪9 565 2300,2006‐0𝟦‐05,3𝟧939 Abigaіl Knoll Apt. 571, Andrewshire Missouri 3𝟪910,SSN:487-38-3786,4𝟶4293𝟪654𝟶𝟦7656,189.𝟤𝟣𝟣.12𝟫․𝟣𝟧0

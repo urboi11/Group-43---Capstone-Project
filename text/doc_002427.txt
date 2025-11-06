@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Megan Odonnell</td><td>sarа9𝟨＠@mаil․obriеn‐moore․com</td><td>759 390  .  9134</td><td>𝟣96𝟫-𝟶𝟧-09</td><td>46𝟥4·41𝟦8·𝟦053·𝟥𝟣85</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 38d4ca2fa63323595ded023b7b81a33f001ae835 4153-5731-3206-5881 38-43-9259 +67335265307
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

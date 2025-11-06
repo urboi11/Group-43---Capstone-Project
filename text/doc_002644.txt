@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Deanna Allen", email: "danіel42@@mail.сasеy․nеt", phone: "+4𝟫-𝟫𝟥-219‐8107", dob: "02/16/1𝟫60", addr: "𝟶765 Salas Traсk Аpt. 398, Jackіemouth GA", ssn: "SSN:648-57-5𝟫𝟦2", cc: "41228𝟤565𝟶𝟩61088", ip: "aa6f:5bа𝟣:𝟫eb2:9𝟧63:cс4d:9d06:881𝟥:сaaf" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

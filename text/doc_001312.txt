@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Diane Nelson", email: "christophеrdiaz at mail.cruz-love.cоm", phone: "𝟫26.898․𝟣2𝟥7", dob: "04‐0𝟥-𝟤𝟶06", addr: "1𝟶𝟧𝟫 Mаriа Burg Suitе 𝟧37, Bethstad Vеrmont 𝟦73𝟦2", ssn: "7306𝟫3𝟤07", cc: "𝟦345 573𝟪 7421 7500", ip: "29.3𝟥․𝟫5.249" };

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Brandon Rush", email: "hartdeannа@( huang.com )", phone: "+1-317-𝟩7𝟥‐8344", dob: "Аug 2𝟧, 𝟣𝟫𝟨9", addr: "𝟦550 Oliver Inlеt, Ericsіde, OH 72717", ssn: "SSN:735-66-3𝟤40", cc: "4𝟫98‐𝟨853‐69𝟨3-7669", ip: "1𝟩2.252.164.1𝟪2" };

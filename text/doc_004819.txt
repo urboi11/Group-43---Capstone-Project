@@ -1,0 +1,6 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 448bcd4d75b70d08e12dde628cedd18775bb91e5 325de5f9-cda2-45d0-ac24-2d221e0e0b86 reyesmichael(dot)Johnson(at)mills-diaz.com

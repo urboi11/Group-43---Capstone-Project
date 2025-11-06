@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 7891a1841fc8e90fe4c65d41f910860a88ca39e0 4966·2913·4599·3476 alithomas(dot)Adams(at)aguilar-winters.biz YWJjYWJjYWJjYWJjYWJjYWJj
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +9379058391 4444567228962279
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

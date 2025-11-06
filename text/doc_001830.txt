@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: kirkrobert(dot)Obrien(at)turner-johnson.com 4771·4531·6733·0861 337211c7-d1d5-47c4-85a1-ba4be59c2cac
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Reminder: rotate API keys monthly and validate error handling for timeouts.

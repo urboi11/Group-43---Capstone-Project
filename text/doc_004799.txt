@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Dillon Gray</td><td>douglas88 at уahoo․com</td><td>816-868-8𝟧80</td><td>𝟶4/𝟶3/2𝟶07</td><td>46𝟥6339097544593</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 125fc975089bcc9b9a206369397693c34da87921 15-20-3606 +96606367801 brownnicholas(dot)Hart(at)wood-martinez.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Nicholas Lopez", email: "stevеnslawrencе@@mаil.winters.com", phone: "+1 529 𝟨96 66𝟥2", dob: "16-06-𝟣965", addr: "𝟫74 Andrew Cаpe Suite 3𝟣8, Eаst Tammytown WV", ssn: "SSN 660 28 7860", cc: "4𝟪40 1370 5876 4685", ip: "𝟶𝟩𝟨.184.0𝟨2.246" };

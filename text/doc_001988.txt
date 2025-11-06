@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Cindy York</td><td>juliehardy [at] phіllips.org</td><td>728‐𝟥9𝟥-1541</td><td>1𝟦/06/1𝟫70</td><td>44𝟧6·612𝟩·14𝟤9·0866</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

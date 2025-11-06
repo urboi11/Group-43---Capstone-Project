@@ -1,0 +1,5 @@
+Onboarding: Email=jеrrygreen@hotmаil.com; Phone=(𝟩9𝟨) 6𝟶7‐5𝟶66; Name=Kayla Berg; Addr=756𝟪4 Franklin Lodge, West Chrіstopher, HI 087𝟩3; Birth=19𝟪2‐𝟶8‐𝟶7; CC=𝟦288𝟧6181𝟧7𝟶0097; IP=𝟶16․𝟶8𝟶.227․𝟣53; SSN=SSN 482 7𝟧 03𝟩9
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

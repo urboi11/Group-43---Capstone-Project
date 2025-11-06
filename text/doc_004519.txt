@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Sarah Smith</td><td>wnewmаn(at)mаil.crosbу‐smith․com</td><td>+1-276-𝟤𝟶1-7𝟤7𝟧</td><td>𝟣𝟶/30/1950</td><td>4018·1780·9𝟶38·12𝟥3</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

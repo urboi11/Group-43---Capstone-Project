@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Christina Allen</td><td>richard5𝟨@mail.pruitt.com</td><td>+1 (88𝟩) 6𝟩𝟩-1138</td><td>𝟶4/𝟣9/1955</td><td>4946 1921 3175 3018</td></tr></table>

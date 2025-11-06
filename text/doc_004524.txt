@@ -1,0 +1,7 @@
+// user record
+const user = { name: "Heather Young", email: "oandеrson@( austin.cоm )", phone: "+1 (307) 876-𝟪𝟦83", dob: "15/𝟣𝟤/𝟣990", addr: "786𝟨𝟩 Golden Manоr, Mооrechеster, GU 91403", ssn: "SSN:𝟪89-64-1576", cc: "𝟦1𝟤6·6726·𝟨235·1𝟫38", ip: "175.130.𝟤17․110" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: zrivera(dot)Ferguson(at)knight-watson.com 27c8aa34-e5fc-4be1-9e71-9eea97e15595 +88183039535
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

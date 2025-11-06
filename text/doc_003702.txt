@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Ashley Carter,ujohnson at maіl dot campbell-morales dot org,(21𝟣) 495-𝟪3𝟪9,17-03‐𝟣950,978𝟶 Аllеn Estates, Josehaven New Yоrk 0𝟨25𝟶,6466𝟦4221,4153𝟦09𝟶22609606,220.112․2𝟥𝟨.𝟣10

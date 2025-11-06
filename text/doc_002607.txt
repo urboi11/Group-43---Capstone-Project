@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: ilarson(dot)Miller(at)james.com 851.449.409.975
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 245.55.290.469 bowerskristi(dot)Schmitt(at)henderson.info YWJjYWJjYWJjYWJjYWJj 4799351259009859

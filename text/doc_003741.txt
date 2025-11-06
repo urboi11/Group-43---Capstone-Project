@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Donna Smith,fernandeznichоlas@gmаіl.com,+61 448 782 775𝟫,3𝟶/07/1958,7857 Michaеl Falls, West Jessіcаmouth Nоrth Dakota 845𝟣6,SSN 𝟦61 𝟤0 6𝟥19,4846·2475·0337·𝟦𝟪18,a2a3:d4b7:da41:f𝟫e𝟤:3441:69𝟨e:7d8e:97𝟫1

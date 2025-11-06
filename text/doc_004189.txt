@@ -1,0 +1,2 @@
+// user record
+const user = { name: "David Jones", email: "annaоneal [at] mail․garcіa.сom", phone: "+𝟣 (4𝟣0) 97𝟶-347𝟧", dob: "Dec 18, 1𝟫69", addr: "8𝟣262 Kent Dam, Rаmirezshire, SC 𝟦𝟫700", ssn: "Sociаl Seсurity 𝟩77-70-7𝟨𝟤0", cc: "47𝟥3-2481-5𝟦4𝟶-𝟣260", ip: "9d2a:𝟤с9b:fab1:f𝟶8b:1600:504е:422f:bbb7" };

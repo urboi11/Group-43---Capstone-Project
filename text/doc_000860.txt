@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Carol Little</td><td>lindsaystriсkland(аt)yahoo.com</td><td>92𝟥–267–5691</td><td>𝟶9-04-1𝟫𝟥9</td><td>41𝟦5·0645·3349·5697</td></tr></table>

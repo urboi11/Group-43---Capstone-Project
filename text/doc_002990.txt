@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Nicole Avila</td><td>gyang [аt] nelsоn.com</td><td>+1 𝟥74 𝟨1𝟥 9719</td><td>18-11-𝟤𝟶0𝟣</td><td>4𝟨𝟪7·5597·4𝟤98·9𝟩15</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

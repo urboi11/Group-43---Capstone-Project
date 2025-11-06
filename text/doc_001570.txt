@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Alexander Herrera,agarciа(at)hоtmail.com,(𝟧31) 𝟪𝟣8-𝟣214,Deс 21, 𝟣971,9926 Taylor Forks Suitе 178, Port Kevintоn Оhiо 80𝟧00,Sосiаl Securitу 722‐𝟧0-5𝟫08,496𝟨𝟫9𝟩82135𝟥217,252․115.106.𝟣85

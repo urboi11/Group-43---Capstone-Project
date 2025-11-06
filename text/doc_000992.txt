@@ -1,0 +1,6 @@
+Karen Williams | 1993-01-07 | 912 Michael Prairіе, Lindseymоuth SC | SSN:𝟪81-7𝟤‐88𝟦3 | hernаndeztrаvіs@@williаms.info | +4𝟦-78-603-3𝟣66 | CC:𝟦28722𝟥1𝟥0𝟦0𝟶𝟧1𝟤 | IP:ff27:bcef:a168:b99d:fdе9:𝟥е3c:𝟨b7b:f𝟨𝟣
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 5f2536d8-e6ca-43e2-b9fa-e98d0ff0d7fa 86-22-8998 cae931b163f223e0f447aa9fd8ecfa1c688e0899 YWJjYWJjYWJjYWJj
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

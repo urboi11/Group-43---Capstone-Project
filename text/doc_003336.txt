@@ -1,0 +1,8 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 337.417.908.584 4824·6631·2720·3599 bad3fb6fa982689a5ae86d9456bbc90180efeb16 nlee(dot)Ward(at)santiago.com
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+Christina Hall,ydаughеrtу [at] gmаil․com,58𝟪–7𝟥8–7𝟧59,08-𝟶3‐19𝟧2,142 Daу Drive Suite 41𝟪, Paigefurt, VA 0444𝟤,Social Security 098-1𝟦-33𝟧𝟥,4066-73𝟦6-4706-0349,180.161.072.212
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: aa3eea45d354c4f7a9ce9026b5b6043ece2a2ac6 42-88-4072
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,3 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: bakerbrent(dot)Jackson(at)ferguson.org 885.780.508.459 4624·8554·7335·0525 99805c2f-2c78-4cbb-939c-edfeea88d03f
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

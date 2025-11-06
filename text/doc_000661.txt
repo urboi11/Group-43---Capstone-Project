@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Richard Boone</td><td>jessica82＠( stеvеns-ellіott.com )</td><td>2𝟩𝟨–3𝟪𝟣–6560</td><td>21/𝟶9/𝟣999</td><td>4873-0060‐328𝟫‐795𝟦</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

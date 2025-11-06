@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jimmy Becker</td><td>joshua07 [at] mаil․whiteheаd.bіz</td><td>6𝟤𝟨-𝟥30-𝟦89𝟤</td><td>1𝟤-05-1944</td><td>4130745𝟧29𝟶03597</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

@@ -1,0 +1,11 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 786.794.318.189
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4455·3631·8242·5801 YWJjYWJjYWJjYWJjYWJj +4418096112 867f5ab51c0cf4a4e7801bb2b136340260a8ca84
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

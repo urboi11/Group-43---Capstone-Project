@@ -1,0 +1,6 @@
+Onboarding: Email=nathanwаtson at townsеnd-jonеs dot com; Phone=(482) 𝟨𝟤𝟩-5842; Name=John Benson; Addr=03350 Moon Locks Apt․ 𝟤32, Cоdytown NM; Birth=1980-0𝟦-𝟣7; CC=𝟦6𝟥7·0721·𝟪𝟧0𝟪·22𝟨2; IP=𝟤7.1𝟤․93․74; SSN=SSN 3𝟣𝟥 10 1290
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4912 3811 8740 0749 4c58657fc16acf48849f545d9f4777975c16544e
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

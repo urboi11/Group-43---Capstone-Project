@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: mariohenderson(dot)Wilson(at)lane.com 4976·3761·3276·2339
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +28743772752 YWJjYWJjYWJjYWJjYWJjYWJjYWJj jennifercalhoun(dot)Stephens(at)garcia.com 4350·7494·3629·6581
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

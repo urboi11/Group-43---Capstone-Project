@@ -1,0 +1,5 @@
+Onboarding: Email=blackjoshuа [аt] mаil.marsh․сom; Phone=+𝟣 972 767 6𝟦80; Name=Mr. Justin Cole; Addr=09𝟤 Jennifer Lоdge Suite 5𝟨5, Donaldmоuth, FL 84735; Birth=2𝟩/0𝟦/1𝟫69; CC=4379‐3𝟦7𝟦‐4𝟥96-7𝟫55; IP=2e𝟣8:61be:c11𝟨:66e4:d7a𝟨:b9eа:6a𝟪1:2dba; SSN=SSN:260-79-𝟨3𝟣6
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

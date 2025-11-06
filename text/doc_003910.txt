@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4792·3720·7643·6852 7b16863b-cc60-4ad5-852f-6c96f00c449a 56-38-5192
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJj christyriley(dot)Richards(at)garrison.com

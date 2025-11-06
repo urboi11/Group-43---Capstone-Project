@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Matthew Anderson,wilsоnsarah@( gmail․com ),+1 (39𝟥) 659-𝟧258,18-07-𝟣949,0𝟪661 Melissa Court, New Michaelstad, MT 55973,SSN:4𝟩𝟩-61-2486,438𝟣 𝟶𝟣8𝟩 3204 7777,199.𝟶𝟶𝟤․22𝟪.142
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4497·1765·3162·1709 9de3db0c9f4c2ddb97e9bb7276c47783fc77c58f 61-85-3161 matthewpatterson(dot)Taylor(at)fuentes.com

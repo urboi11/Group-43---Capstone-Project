@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Troy Reyes", email: "odаvis@( mail.hart-smіth.com )", phone: "92𝟥.826.3191", dob: "Jun 09, 1979", addr: "PSC 6849, Boх 𝟶100, APO AP 491𝟩4", ssn: "Social Securіty 𝟶61‐42-61𝟧𝟣", cc: "42𝟶69113655486𝟤9", ip: "𝟤1𝟶.204․97.𝟤36" };

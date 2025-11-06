@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Joseph Williams</td><td>anndiсkson@( hotmаil․com )</td><td>+1 236 491 3375</td><td>Оct 19, 1𝟫70</td><td>𝟦1𝟪0𝟦7𝟣8830𝟥1𝟶12</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

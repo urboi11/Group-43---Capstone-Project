@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Anna Villarreal", email: "guzmanpаtriсiа＠( wong.org )", phone: "𝟩81 474-9748", dob: "12-07-19𝟩5", addr: "2897 Alexаnder Valley, Reynoldsfurt Wisconsin 𝟶8020", ssn: "SSN 𝟩09 𝟩9 133𝟪", cc: "𝟦14𝟶 9619 8432 2𝟶38", ip: "160․63.120.33" };

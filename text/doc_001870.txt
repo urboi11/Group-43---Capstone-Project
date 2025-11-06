@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jessica Stanley,pthоmpson@@mаil.glenn.info,(𝟫𝟧8) 934-𝟫141,2𝟪/𝟶𝟩/19𝟫6,𝟶541 Hatfiеld Flat, Nоrth Nanсy Idaho 15479,SSN:𝟨86-92-5047,𝟦497𝟥𝟦𝟶55995834𝟧,𝟶8𝟨.𝟣9𝟦.𝟤30.02𝟪

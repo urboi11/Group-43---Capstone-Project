@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Melissa Fleming</td><td>qсоleman(at)roberts‐castanedа.net</td><td>+1 459 693 3𝟫87</td><td>𝟣956-09‐05</td><td>𝟦352‐31𝟩4-𝟦435-𝟤482</td></tr></table>
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: +32291288121 YWJjYWJjYWJjYWJjYWJjYWJj

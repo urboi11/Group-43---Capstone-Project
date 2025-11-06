@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Miguel Stark", email: "stewartlogаn@@allеn.оrg", phone: "658.5𝟥6.5052", dob: "Jun 𝟶𝟩, 1𝟫76", addr: "21112 Marquez Squares Suitе 4𝟥8, Nеw Rita, NV 𝟩88𝟶9", ssn: "511-3𝟣-2146", cc: "4270 𝟩𝟨𝟣𝟪 5𝟦7𝟨 7680", ip: "139.𝟤07․218.104" };

@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jennifer Edwards</td><td>sherуlmason@( mail.moоre-smіth․сom )</td><td>+1 (4𝟶0) 909‐𝟫246</td><td>Maу 12, 1𝟫45</td><td>477610512𝟥15𝟶915</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 839.373.617.790 43-39-2081 +66546741477

@@ -1,0 +1,3 @@
+name,email,phone,dob,address,ssn,cc,ip
+Amy Moore,nichоlasflores@( mail․koсh.com ),𝟩53 380  .  3089,Mar 30, 𝟣9𝟦0,22𝟩64 Jeffrey Motorway, Еast Andrew Maine 𝟤0𝟣𝟣6,148156𝟣𝟧6,4191·0𝟣𝟦7·𝟥912·9833,002.21𝟦․152.𝟶2𝟧
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

@@ -1,0 +1,2 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 4097 6691 9489 6293 escott(dot)Good(at)santos-taylor.com

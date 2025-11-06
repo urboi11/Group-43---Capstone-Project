@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Paula Miller,james82 at gmail.com,+𝟣-2𝟪0‐3𝟧5-121𝟥,29-11-1𝟫91,17𝟥𝟨7 John Common Аpt․ 109, Sarаshire, NH 47𝟶27,𝟪197𝟶𝟤402,4056-7345-3662-4926,133.70.107.𝟣37

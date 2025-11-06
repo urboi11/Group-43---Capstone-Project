@@ -1,0 +1,7 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 55ca584c-aae8-4517-8246-e59dfe51075b YWJjYWJjYWJjYWJj 86-65-7960 8b59fb894d3ac0a62ad411c940520e12a4ec54e8
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 32-13-2922 jonathanharmon(dot)Diaz(at)bright.com

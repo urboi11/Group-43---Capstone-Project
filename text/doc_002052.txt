@@ -1,0 +1,2 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: randy85(dot)Davis(at)wilkerson.info 768.600.801.647 21dba9e4794a963dc7498b5e0e7c886eb7eff499 52f817be-7d58-4c64-a920-a587cf4f9ceb

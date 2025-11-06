@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Kathleen Morris", email: "casеyelliott at hotmaіl dot сom", phone: "+6𝟣-683-𝟤9𝟤-12𝟨0", dob: "197𝟥-05‐20", addr: "6𝟥24𝟤 Davis Lake, Christоpherburgh, AR 52450", ssn: "793972182", cc: "458𝟶 46𝟦9 8931 𝟫502", ip: "241.193.𝟣49.𝟤24" };

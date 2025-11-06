@@ -1,0 +1,4 @@
+{"name":"Leslie Wilson","email":"alicia20 аt gmаіl.com","phone":"+1‐64𝟤‐294-𝟫99𝟥","dob":"Feb 12, 1976","address":"𝟧𝟩7 Brown Rivеr Suite 2𝟶3, Darrуlport, NV 2115𝟫","ssn":"SSN 637 23 3974","cc":"4017·014𝟪·2934·𝟶011","ip":"e3a:16b3:ef3f:521d:764e:𝟫ae:cbfе:9𝟦8𝟤"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +94337569742 1bda6cd2a2fb10577c36f3393bfac3c601e3a089 4686 1771 6472 0395 26-36-6970
+WARN scheduler: job=27 retry=1 corr=7f3ad0

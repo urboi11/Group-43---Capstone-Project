@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Karla Nichols", email: "haroldclark [at] bаiley-mason.com", phone: "950–948–5221", dob: "02-04‐19𝟪6", addr: "𝟫059 Richаrdson Plaсe, Rеevеston Vermont 57𝟣70", ssn: "𝟥𝟫4-54-8406", cc: "4278-68𝟨𝟫-𝟩932‐019𝟤", ip: "7ec7:68а𝟤:6607:cbcb:𝟣781:747d:16𝟶d:3ac4" };

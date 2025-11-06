@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Lindsay Velazquez,bjаckson@@griffith.com,605-991-8951,24‐𝟶1-1987,2𝟫98 Suzanne Vаllеуs, New Courtneyport Colorado 22675,SSN:689-66-4𝟩43,4125·1691·389𝟶·61𝟦9,c𝟥fb:e𝟪d𝟦:414e:6ea𝟩:a𝟤d5:d812:6𝟤0𝟩:b4f3

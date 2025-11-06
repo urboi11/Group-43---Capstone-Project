@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Alexander Mclean", email: "melindafox@( gregorу.com )", phone: "964–𝟧72–66𝟩𝟥", dob: "05‐09‐2006", addr: "3𝟪0 Anthоny Pine, Margаrеtland, PW 𝟪94𝟨𝟪", ssn: "SSN:627-03-1437", cc: "4835-𝟩𝟩34-5253‐𝟫𝟧18", ip: "8d47:𝟨b0:3𝟤d5:9595:63𝟧𝟨:f8𝟶f:64a𝟣:779b" };

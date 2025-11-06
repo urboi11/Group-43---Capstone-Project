@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 911.483.492.338 sherrywyatt(dot)Hill(at)hernandez-farrell.biz +31450728782
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

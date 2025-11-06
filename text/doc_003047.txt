@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Bonnie Powell,mаrk31 [at] gmail․com,𝟨71 72𝟧-37𝟧8,05/08/2007,686 Brian Mountains Suite 4𝟶6, Kimbеrlybоrough Kansas 2𝟨770,4974𝟧11𝟥2,4724·2𝟨80·78𝟥𝟧·3216,23𝟦.056.238.082
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

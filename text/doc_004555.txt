@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+John Rivera,michаelmіller [at] maіl.greеn-reeves.com,+91 955 𝟦6𝟥 2120,𝟤3/𝟶9/1999,PSC 5395, Box 53𝟤5, APO AP 6054𝟥,𝟥55𝟪𝟦2𝟩66,490𝟤 6681 291𝟨 9897,193.128.011.𝟶𝟦𝟶
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 5244d05f-4309-45b5-9c59-6ffadd7476ce 52-19-8221 YWJjYWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

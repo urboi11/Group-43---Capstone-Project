@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: f6635bdc2841c4381487943f33a4463592b5efcb 8082fb54-2b96-4829-a47c-fc6ceb7d1526 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 96-55-3971
+Changelog: refactor module, update dependencies, and improve logging verbosity.

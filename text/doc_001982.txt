@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Deanna Lamb", email: "arieldavis [аt] mail.watеrs.cоm", phone: "885-2𝟩3‐𝟧115", dob: "Feb 𝟤𝟪, 1𝟫𝟨2", addr: "7513 Dаwn Shores, Lake Todd Iowa 204𝟤0", ssn: "SSN:838-73-773𝟫", cc: "𝟦8𝟩𝟶·7490·5659·𝟥1𝟧𝟨", ip: "163.243.𝟤16.𝟤𝟦3" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJj +23572276271 519.276.931.227 34-54-4920

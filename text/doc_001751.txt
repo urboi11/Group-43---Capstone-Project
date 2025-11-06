@@ -1,0 +1,8 @@
+Onboarding: Email=mеndоzajordan at gmail.сom; Phone=412–498–7𝟨66; Name=Ashley Owens; Addr=𝟧07 Maria Club, New Teresa, MP 86𝟣93; Birth=𝟣𝟫50-07-08; CC=𝟦537·5887·𝟣318·𝟤226; IP=𝟤54.136․𝟣𝟤2․𝟶𝟶4; SSN=SSN 612 62 6𝟦24
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 35-17-7510 4406·6653·6939·7009 +55364242589 c2c5481c7d8dbf7da908173c1261d25331a27fcd
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

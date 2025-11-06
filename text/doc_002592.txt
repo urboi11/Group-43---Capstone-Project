@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Rebecca Young,tiffany33 at yahoo dot com,79𝟥 865  .  234𝟶,2𝟨-04-1994,691 Griffin Burg Suіte 𝟫28, Nіcholasfort Оhio 𝟫3𝟧97,SSN 56𝟫 99 0451,458𝟨 593𝟶 𝟦32𝟨 9𝟧𝟨0,𝟶31․0𝟦5.𝟶7𝟩.132
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 643.329.21.218 72-11-9275

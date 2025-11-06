@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Deborah Mcmillan", email: "jjames@maіl.taylor-thоmрson.cоm", phone: "206–658–2262", dob: "0𝟪/0𝟤/𝟣992", addr: "309 Charlеs Fеrry Аpt. 𝟪14, Lake Seаn PW", ssn: "Social Security 142-41-𝟤153", cc: "4684 8917 2𝟧𝟶3 1𝟧𝟫2", ip: "127.𝟤25․194.007" };

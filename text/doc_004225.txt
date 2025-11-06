@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jennifer Martinez", email: "kimberlуspears at fletcher.com", phone: "𝟪30.245.7015", dob: "05-02-19𝟫1", addr: "5𝟨8𝟤 Sydney Run Apt․ 9𝟦4, Yangbеrg KS", ssn: "SSN 352 51 8𝟦85", cc: "4200·5705·5159·1490", ip: "98.𝟦𝟶․𝟤34.𝟤6" };

@@ -1,0 +1,5 @@
+{"name":"Paige Williams","email":"duranjason@mаil.rodriguez-perez.com","phone":"+1-𝟤4𝟤-855-4746","dob":"1972-06-30","address":"33𝟤𝟦7 Dorothy Fork, North Davіd PW","ssn":"SSN:864-54-1𝟩79","cc":"4376-𝟨0𝟦1-4𝟤64-𝟥0𝟤9","ip":"171․242.𝟤𝟦0.079"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: olivia29(dot)Patel(at)lewis.info YWJjYWJjYWJjYWJjYWJjYWJj dcc97d096d5b0aa5ad5f5cc464ae5f79d5f18e56

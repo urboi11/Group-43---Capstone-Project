@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+Emma Evans,coxjasоn@gmail.com,8𝟶1-847-𝟣093,08/30/𝟣9𝟪4,778 Caitlyn Loaf, Chandlerbury, DE 40427,SSN 572 42 7050,𝟦94𝟦 4740 06𝟩5 6𝟣57,fde𝟪:a7𝟤6:𝟪3fd:3d6f:𝟦с1f:6453:f07а:9ee7
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

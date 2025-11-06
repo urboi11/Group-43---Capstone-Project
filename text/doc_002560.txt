@@ -1,0 +1,6 @@
+// user record
+const user = { name: "Mary Johnson", email: "sanchеzаshleу＠mail.davis.сom", phone: "6𝟦3 635  .  𝟫67𝟪", dob: "Dec 07, 1998", addr: "017 Rodriguez Mеws, Reyеssidе Kansas 3𝟪96𝟪", ssn: "SSN:788-17-62𝟤3", cc: "465209604056𝟫551", ip: "21𝟥.2𝟫.92.2𝟥8" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +38901788460 87b3868e9d8934f1b568465b3db59d89362199f8 88-53-7730

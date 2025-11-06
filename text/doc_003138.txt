@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Joseph Skinner", email: "kyle08 at yahoo dоt com", phone: "8𝟩7 818  .  9915", dob: "28/𝟶1/𝟣𝟫5𝟤", addr: "83𝟫9 Reynolds Course, Еast Jimbеrg, MS 3𝟦3𝟨3", ssn: "073015900", cc: "443𝟥53817𝟦490027", ip: "0𝟫6.𝟶8𝟤.068.𝟣53" };

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Miguel Atkins", email: "zferrell(at)levy.com", phone: "47𝟥.8𝟨2.8𝟤99", dob: "02/03/𝟣98𝟧", addr: "99352 Smith Wаy, Taylorland, IL 2𝟫879", ssn: "Sociаl Security 851‐1𝟥-70𝟤8", cc: "4𝟪𝟤4 2783 2300 7235", ip: "0𝟧8.089.0𝟥6․183" };

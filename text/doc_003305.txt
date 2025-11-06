@@ -1,0 +1,13 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: nweaver(dot)Smith(at)torres.com YWJjYWJjYWJj 928.279.452.660 4617-6021-2357-1138
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

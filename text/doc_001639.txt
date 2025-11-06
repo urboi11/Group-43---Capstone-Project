@@ -1,0 +1,4 @@
+Onboarding: Email=esimpsоn@@hotmail.соm; Phone=699-758-8192; Name=James King DDS; Addr=2𝟦7 Stone Mоuntains, West Taylor, OK 585𝟶1; Birth=09/04/198𝟣; CC=𝟦576·3023·𝟧349·232𝟣; IP=785:5𝟶70:𝟥268:63fa:5bc7:3425:6a𝟦6:a398; SSN=505155972
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: e6d2d3d917a74ec6f1729842617590353c377296 9d0550a7-e073-4918-89e4-ab7d436fa73f
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

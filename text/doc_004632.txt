@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Alexandria Brewer</td><td>pcоoper@@mail.carey.com</td><td>(259) 741-1829</td><td>𝟶3/1𝟫/1976</td><td>𝟦6𝟫2-9634‐6497-3𝟶76</td></tr></table>

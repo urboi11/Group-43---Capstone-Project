@@ -1,0 +1,7 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +81252788438 346d592e-6c9c-4ebd-be86-73bf2d085b30
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +93501835045 4772·0439·7188·8421 313.755.384.741

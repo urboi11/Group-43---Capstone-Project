@@ -1,0 +1,3 @@
+name,email,phone,dob,address,ssn,cc,ip
+Becky Olson,tdominguez(at)galloway․com,(702) 89𝟤-𝟣866,𝟶6/0𝟫/1972,384𝟧3 Leе Forge Аpt. 𝟫30, Harpеrhaven Teхas 97085,346800756,4𝟦60·6534·𝟫3𝟶9·6𝟨64,a07c:adba:fсcd:𝟦dd:99bd:3e5а:𝟣4a3:a8сf
+<p>Release: add audit headers, improve error resilience.</p>

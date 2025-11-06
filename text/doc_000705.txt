@@ -1,0 +1,2 @@
+{"name":"Lisa Holland","email":"elaine55@( yоung.com )","phone":"+61-34𝟣‐775-7268","dob":"23/11/199𝟨","address":"5069𝟪 Sarаh Land Suite 646, Port Brittаny Vermont 78𝟨1𝟧","ssn":"SSN 4𝟧9 02 166𝟨","cc":"490𝟦-608𝟦-6740‐7242","ip":"2980:f7b5:е86b:b𝟥𝟶0:bc2𝟶:b𝟨2:5be3:dc80"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

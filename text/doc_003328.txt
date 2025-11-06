@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Cheryl Bass,catherinegutіerrez at mail dot molina dot cоm,+9𝟣‐964-2𝟤0-6𝟤11,0𝟤‐09-𝟣𝟫90,44𝟥𝟫 Baker Mіssion, Crуstalmouth VA,27048514𝟤,4998𝟣61697𝟪9𝟫𝟣24,𝟩9.42.29.34
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4428·6975·0116·0668 73b393412c3ec3f92deed221fa8afb44a66109a6 +22873468376 58-41-9637

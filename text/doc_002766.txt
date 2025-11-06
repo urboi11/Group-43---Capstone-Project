@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Zachary Morris", email: "dking@( mаil.dougherty.com )", phone: "+33 28𝟫 6𝟤𝟦 𝟩323", dob: "𝟣1-01-1996", addr: "𝟪18 Leасh Walks, South Jasonberg, NH 𝟥9428", ssn: "Social Security 533-3𝟧-2635", cc: "4892 61𝟣𝟥 9765 2105", ip: "6619:d𝟧78:d02a:6𝟶17:d𝟫8𝟧:1d8b:𝟦аd5:1𝟦𝟶1" };

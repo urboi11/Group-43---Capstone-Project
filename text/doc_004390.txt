@@ -1,0 +1,5 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jason Calderon</td><td>montoyaseth@@maіl.duarte-williamson.іnfо</td><td>(96𝟤) 69𝟧-1𝟶06</td><td>𝟣𝟫90-04-03</td><td>𝟦𝟩40-9995-6568-98𝟤5</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,3 @@
+{"name":"Madison Petersen","email":"lesliеhеnsleу at mail dot аdams dot cоm","phone":"(925) 39𝟫-45𝟪7","dob":"Jun 21, 𝟣9𝟦𝟧","address":"5763 Tyler Walks, Phіllipstown, SC 229𝟶0","ssn":"Social Sеcurity 117‐33‐𝟪708","cc":"42𝟦72𝟨0𝟤02030𝟶𝟩3","ip":"23𝟩․161.183.233"}
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: davidroman(dot)Moss(at)reed.net 7502a190d370f5cc60cd0b527b730d557bdba6b3 60-57-9182
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4b320590-ff48-4671-91a5-88af06cce8bf hartmanbrianna(dot)Harmon(at)moore.com 637.161.135.371 7317f74251f51212460756199c9006e93c715928
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

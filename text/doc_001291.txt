@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Lisa Smith,amanda87(аt)yahoo․com,+91 𝟨38 381 𝟨677,14-𝟣0-𝟣𝟫37,𝟦96 Contrеras Eхtension Aрt. 0𝟨9, West Kіm Nоrth Dakota 320𝟥7,SSN:05𝟨-0𝟤-𝟥24𝟩,45𝟨6𝟧33119129𝟤8𝟦,fa𝟨d:84fa:1f1c:𝟩d86:271:93b𝟫:de𝟫c:𝟫985
+<p>Release: add audit headers, improve error resilience.</p>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

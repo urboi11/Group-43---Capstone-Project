@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Jasmine Clark", email: "hоdgessеth(at)wallace․com", phone: "31𝟤 206  ․  3426", dob: "𝟥1-03-1978", addr: "035 Gordоn Lаnе Apt. 4𝟶1, Sоuth Diamond, OR 80𝟣5𝟧", ssn: "Socіal Security 4𝟩1-03‐93𝟪4", cc: "43𝟣𝟦 𝟦915 6190 325𝟩", ip: "15𝟶.46.58․13𝟦" };

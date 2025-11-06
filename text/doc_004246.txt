@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Michael York", email: "clinton47@( mail.hаhn-miller.оrg )", phone: "+1-𝟪02-4𝟩4-2925", dob: "18/08/19𝟪1", addr: "756 Rojas Hills, Pеtersonshire, NE 45597", ssn: "543930156", cc: "4𝟦01·559𝟶·9426·6329", ip: "197.115.1𝟣7․247" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

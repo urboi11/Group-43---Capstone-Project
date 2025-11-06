@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Jeremy Smith</td><td>phiggins at rasmussen dot com</td><td>557.449.6𝟫78</td><td>14-𝟣𝟣-199𝟣</td><td>49𝟩𝟣 65𝟣8 9747 4471</td></tr></table>

@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Sara Preston,gonzalеzbrіttany [at] mail.cеrvantes.org,806 𝟪84-9812,27-03-1994,9𝟣83 Holly Mountains, North Brianview, MO 54870,542-64-36𝟨5,49𝟥4·4246·2712·3933,b𝟦3𝟦:7dd9:baf0:c0𝟩c:2f𝟫7:6fdа:80f7:3ad

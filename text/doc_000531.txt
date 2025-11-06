@@ -1,0 +1,6 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Michael Esparza</td><td>richardsglеnn@( maіl․krueger-wright.com )</td><td>+1 767 766 3821</td><td>01/12/2001</td><td>𝟦920𝟥9𝟪013𝟥7𝟨𝟣96</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

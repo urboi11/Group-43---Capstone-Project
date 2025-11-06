@@ -1,0 +1,8 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 40785cfc-5a62-48f4-9eca-9edb5fb320a8 hcollins(dot)Jones(at)wood-lee.net
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

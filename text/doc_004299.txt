@@ -1,0 +1,8 @@
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 44-89-7421 770.296.125.822 93e9217f12ae1c485e27f65557d85216a4d3f492
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

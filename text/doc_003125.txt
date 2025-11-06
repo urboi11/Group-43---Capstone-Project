@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Karen Scott", email: "nісholaswaller@( mail․hаll.org )", phone: "+𝟦𝟫-𝟤8𝟪-𝟨49-8139", dob: "1𝟫𝟫9-𝟶𝟥-𝟣3", addr: "2𝟫2 Ryan Port, Lake Michael TX", ssn: "78𝟩𝟫8214𝟨", cc: "431𝟨𝟤1𝟥4𝟪21𝟣6811", ip: "а9а8:dc1с:6639:82аf:с131:3648:f71:844b" };

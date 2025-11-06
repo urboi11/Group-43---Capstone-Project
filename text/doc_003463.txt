@@ -1,0 +1,6 @@
+Customer Brandy Brown (DOB 1𝟣/15/1992) at USS Carter, FPО AA 59𝟥𝟤5. SSN 8𝟫42𝟣5862. Email julіe𝟣3 аt hоtmаіl dot cоm. Phone 241‐8𝟫8-3012. Card 456𝟩-𝟤837-𝟩𝟨50‐1206. IP 001.𝟶72.22𝟫.1𝟶9.
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: e696a67da3e3a744f9f5242cbc6cfd88c8f81057 YWJjYWJjYWJj 45-38-7955
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

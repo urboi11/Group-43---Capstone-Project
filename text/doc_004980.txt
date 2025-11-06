@@ -1,0 +1,12 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 76917045-2bbd-4dd0-9f8e-fa9ec96fa1fa db9069554a624e02b77fe07e3d4b90a06c5995f6
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 7030bd7735521dbc59fbf1a77b933d5f0883d6ca +51823225919 thompsoncarolyn(dot)Nguyen(at)smith.info 901.164.271.935
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

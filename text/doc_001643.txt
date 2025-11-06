@@ -1,0 +1,5 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: b30287a105bfa1c63a7d171e76d77a039dcba803 74bf0481-7fc7-49a0-b8de-4d52e7e1062f +67760459663 65-95-4415
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

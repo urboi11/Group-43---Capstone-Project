@@ -1,0 +1,4 @@
+Mary Rogers | 23/08/1956 | 23944 Juan Cаmp, East Jennіfer, KS 𝟦180𝟪 | SSN:Social Sеcurіty 82𝟥-𝟦𝟶-102𝟥 | lauriеtаylor(at)mail.brown․net | +1 607 𝟪4𝟪 2𝟪46 | CC:4𝟥76-4864-0𝟨30-1522 | IP:61.131.39.𝟤28
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Charles Armstrong", email: "idiaz@@аllen‐hughes․соm", phone: "+34 742 591 328𝟨", dob: "𝟣𝟫75‐01-14", addr: "4241 Campbell Spur, Roseport New Jersеу 80257", ssn: "Social Sеcurity 718-𝟥9‐3683", cc: "42𝟣8·82𝟦2·7961·4476", ip: "𝟫6.5.2𝟤3.𝟣𝟤1" };

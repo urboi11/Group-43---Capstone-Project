@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: abd2043a718a4f763c0598f8222dfcb5965ca869 9cf4ac32-6d3d-42bf-952d-884c38d3dd5e +86278400198
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+WARN scheduler: job=27 retry=1 corr=7f3ad0

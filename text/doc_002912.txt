@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Christopher Miller</td><td>mark25(аt)yahoo․com</td><td>(𝟨32) 909‐4730</td><td>0𝟪/𝟣𝟣/19𝟪𝟤</td><td>4𝟣11 𝟪𝟶28 𝟫577 8𝟩7𝟦</td></tr></table>

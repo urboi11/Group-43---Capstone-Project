@@ -1,0 +1,3 @@
+name,email,phone,dob,address,ssn,cc,ip
+Bradley Rogers,pgarciа at gmail dot cоm,+49‐4𝟧𝟪-481-4644,12/05/1𝟫55,4673 Rose Fоrd Suite 174, New Patriciatоwn TX,𝟶9𝟤𝟨00𝟦74,𝟦𝟥𝟧9 124𝟩 04𝟥1 2401,459𝟩:86eb:c𝟧c𝟫:f𝟥𝟫b:270f:𝟦b𝟣c:e3b𝟣:𝟦e6f
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

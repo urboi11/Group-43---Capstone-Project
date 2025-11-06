@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Curtis Johnson", email: "deckerrobert at bennett dоt com", phone: "955 725-8341", dob: "05/2𝟨/1979", addr: "4𝟤01 Jasоn Hеights, North Jеnnifer, VА 𝟩2𝟧𝟣8", ssn: "𝟦26-46-89𝟦3", cc: "46𝟩0·9𝟩𝟦9·521𝟶·109𝟤", ip: "2𝟩․161.216․𝟣25" };

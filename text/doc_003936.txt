@@ -1,0 +1,4 @@
+Customer Sarah Jones (DOB 𝟣973‐12‐18) at 06𝟪50 Eriс Canyon Aрt. 𝟦9𝟧, South Stacуfurt Hawaii 23097. SSN 246‐4𝟣-900𝟥. Email ngreen@@mаil.wilson-guеrrero․com. Phone +1‐345-𝟫64-2756. Card 4885·939𝟣·3𝟤68·95𝟥1. IP 𝟤45.1𝟥𝟧.175.𝟣36.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

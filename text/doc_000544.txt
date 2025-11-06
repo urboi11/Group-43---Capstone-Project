@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Ryan Taylor,maysedward@( cook-terry.net ),984 40𝟩  .  5026,06/06/𝟣𝟫40,3𝟪𝟨𝟦1 Tiffanу Alley Suite 𝟥85, Timothyview, HI 124𝟩7,SSN:837-67‐9𝟫𝟩7,46𝟧2·2350·7𝟫𝟫3·7871,𝟣4𝟥.29․𝟣𝟩9.214

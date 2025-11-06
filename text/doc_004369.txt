@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Cheryl Miller</td><td>wallsdeborah@( gmail.сom )</td><td>+𝟨1 𝟩55 𝟥76 8999</td><td>27/1𝟶/193𝟦</td><td>4131‐944𝟣-8𝟣𝟪1‐6946</td></tr></table>

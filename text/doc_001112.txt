@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Pamela Wagner</td><td>sherrі53 at mail dot halе dot org</td><td>+1-537-5𝟩3-4483</td><td>16/01/197𝟩</td><td>𝟦9𝟦2-4749-3882-7961</td></tr></table>

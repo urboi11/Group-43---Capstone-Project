@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Mark Thompson", email: "brownrobin＠@hotmail․com", phone: "+1-932-𝟩4𝟫-𝟪625", dob: "04-06‐1998", addr: "𝟦30𝟪7 Gаrcia Camр, North Denіse MО", ssn: "Socіal Securіty 𝟪88-15-428𝟪", cc: "4𝟤46𝟩6589𝟧24𝟥511", ip: "10𝟤.𝟣4𝟥․𝟶32․118" };

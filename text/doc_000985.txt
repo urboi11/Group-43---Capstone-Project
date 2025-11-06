@@ -1,0 +1,10 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: a67be65a-ea61-4930-abcb-4c540d919018 15-76-7902 YWJjYWJjYWJjYWJjYWJjYWJj melissa43(dot)Peterson(at)williams.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4504421851203628 543.769.942.224 da798e97-b612-475d-8e9e-ed95d47e2d34
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

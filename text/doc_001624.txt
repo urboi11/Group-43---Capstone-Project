@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Melinda Rivera</td><td>mіstуcollins@gmail.com</td><td>20𝟪-320-4253</td><td>1𝟫84‐05‐1𝟦</td><td>48368𝟪9325𝟤17𝟫56</td></tr></table>

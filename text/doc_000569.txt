@@ -1,0 +1,8 @@
+// user record
+const user = { name: "Andrea Hall", email: "lwilliams@( gmail․com )", phone: "+61 252 863 8626", dob: "22/𝟶1/19𝟦𝟩", addr: "7𝟫𝟶 Sharp Crossing Apt. 898, Grаhamрort PR", ssn: "𝟧𝟨10161𝟥𝟤", cc: "4775·7465·8578·5𝟨48", ip: "8cff:1e𝟤0:1623:c𝟤f0:1b9d:1𝟪71:5384:4cc3" };
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

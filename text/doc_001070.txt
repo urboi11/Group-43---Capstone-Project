@@ -1,0 +1,6 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 424.230.628.688 4603731025117356 jordansusan(dot)Young(at)rice-mcclure.com
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

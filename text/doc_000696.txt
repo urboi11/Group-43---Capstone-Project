@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: kelseybrown(dot)Johnson(at)carter.com efd4a45f-9e53-4b3b-8ea5-89999d766868 YWJjYWJjYWJjYWJj
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4705726779830026 valerievasquez(dot)Beltran(at)rodriguez-frey.org +54560356283
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

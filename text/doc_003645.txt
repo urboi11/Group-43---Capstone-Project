@@ -1,0 +1,4 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Richard Mckinney</td><td>carmen06(аt)mail.long․biz</td><td>5𝟩0.390․4484</td><td>𝟶2/05/1944</td><td>4063·81𝟪4·58𝟤7·160𝟫</td></tr></table>
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 4001 3115 1949 0723 33b20b95-2489-40d4-b9ac-53ec20f9c88f 6c8e66770d003aa7278f5bbc8b04e95487ff9ba5

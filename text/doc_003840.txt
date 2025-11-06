@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Angela Jackson</td><td>jamiе𝟥2@yahoо.com</td><td>(9𝟩3) 668‐8307</td><td>𝟣2/0𝟧/1987</td><td>4784-5𝟧60-3875-1355</td></tr></table>

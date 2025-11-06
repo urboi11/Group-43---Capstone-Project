@@ -1,0 +1,7 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 351.861.138.699 a534d191-3902-4417-a84e-14103ee5251c YWJjYWJjYWJj
+WARN scheduler: job=27 retry=1 corr=7f3ad0
+Changelog: refactor module, update dependencies, and improve logging verbosity.
+Decoys: 4525-5063-9903-8878 YWJjYWJjYWJj

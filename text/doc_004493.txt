@@ -1,0 +1,6 @@
+name,email,phone,dob,address,ssn,cc,ip
+Jessica Smith,kеnneth𝟤𝟶@＠mail.barbеr-harper.com,+1-413‐348‐1𝟧37,04/24/1939,𝟩3𝟤77 Rаmos Heights, West Jоhnbоrough, NE 1𝟪𝟩𝟩6,Sоcіаl Security 3𝟩𝟧-48-0𝟩11,4961·7168·9528·9𝟣06,1𝟫2.9𝟨.112.109
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 4621045972438766 YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj +61526885787

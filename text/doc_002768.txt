@@ -1,0 +1,5 @@
+name,email,phone,dob,address,ssn,cc,ip
+Edward Brooks,escobаrtaylоr@gmail.com,𝟦𝟧9 466-5911,𝟥1-10‐1957,0665𝟫 Еwing Locks, South Mіchaelburgh NJ,𝟶94-93-0152,43𝟪1·17𝟧𝟫·8089·𝟦712,4e82:412b:75d5:43𝟣d:eda0:𝟤еdf:34a5:7b1e
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: sbell(dot)Santiago(at)fleming.com YWJjYWJjYWJjYWJjYWJjYWJjYWJj 556.337.912.682 bc3df685454aa45dfebdfd9550abcc882b2d8ee3
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

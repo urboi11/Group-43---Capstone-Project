@@ -1,0 +1,2 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4666·1707·1587·9645 suzanne01(dot)Hardin(at)gomez.com cd649aff-445f-4de1-8534-17b555c06c8e

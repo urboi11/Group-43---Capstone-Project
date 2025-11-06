@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Andrea Pennington</td><td>smithdenise＠mail.browning.info</td><td>911.547.98𝟪1</td><td>12-03-1956</td><td>42756696𝟣𝟶𝟫05236</td></tr></table>
+<p>Release: add audit headers, improve error resilience.</p>

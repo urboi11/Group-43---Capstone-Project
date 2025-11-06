@@ -1,0 +1,5 @@
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 4071 5182 0377 8899 alexander67(dot)Garcia(at)reid-poole.com 572.381.939.289 YWJjYWJjYWJjYWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

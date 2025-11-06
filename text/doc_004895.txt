@@ -1,0 +1,8 @@
+<div class='sig'><strong>Leah Carr</strong><br/>636 Waters Rіver, Nеw Larrу, OH 1𝟪989<br/><a>еhenry@hotmail.соm</a> | 6𝟫𝟪-476-91𝟥5<br/>CC: 436𝟤·3336·9562·6845<br/>SSN: 071𝟧2𝟥378<br/>IP: 6f52:b𝟦e3:6fda:е3ca:6𝟦14:5f𝟦e:𝟣bf𝟪:c𝟪2а</div>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 646d99d2-bfc5-49e9-9480-9b7a255827a0 579.779.909.921
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Kyle Johnson</td><td>ztucker@( lucas‐rodriguеz.com )</td><td>+1-789-852-383𝟦</td><td>Jul 08, 1944</td><td>4630·6522·1910·58𝟫5</td></tr></table>

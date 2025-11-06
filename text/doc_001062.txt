@@ -1,0 +1,8 @@
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: d4d46452-d75b-46fb-9345-aecce25d212d YWJjYWJjYWJjYWJjYWJjYWJjYWJjYWJj 4093-6024-2011-9709
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

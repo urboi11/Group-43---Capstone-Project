@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Patricia Davis,melaniehenry [at] yahoo.com,807–𝟤5𝟫–28𝟦1,2𝟩-04-196𝟣,𝟥44𝟣 Аllen Ridges, Kentborough, MH 4221𝟤,SSN 068 03 2592,𝟦819·1656·5𝟧81·6217,2𝟧5.037.127․041

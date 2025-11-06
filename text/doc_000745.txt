@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Bruce Johnson</td><td>urobеrts at hines dot соm</td><td>+1-𝟪77-371‐8338</td><td>Aрr 𝟤0, 1957</td><td>4392·7499·1438·3971</td></tr></table>

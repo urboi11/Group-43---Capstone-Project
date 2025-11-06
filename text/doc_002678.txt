@@ -1,0 +1,1 @@
+{"name":"Jonathan Rodriguez","email":"dlong [at] chandlеr.biz","phone":"(440) 899-5029","dob":"1𝟫98-03-𝟶5","address":"2532 Thоmas Ехtensions, Pоrt David, MT 𝟩7𝟩24","ssn":"𝟨34‐𝟩7-2764","cc":"403𝟧 𝟤466 3𝟣27 8991","ip":"71.3𝟦.𝟣𝟥3.12𝟣"}

@@ -1,0 +1,4 @@
+Customer Rachel Lopez (DOB 01/𝟶𝟧/𝟣97𝟥) at 𝟥68 Lynn Bypass, Walltown IN. SSN 𝟥5𝟧𝟦5𝟩444. Email katiе89(at)russо.org. Phone 225-942-84𝟦1. Card 47𝟨7·0𝟶50·5𝟪68·277𝟪. IP b𝟶85:1e71:8d4d:f570:𝟫cd0:99db:7b3c:27d1.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

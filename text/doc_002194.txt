@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Michael Wong,whitechristina@( johnson.org ),580 435  .  3580,𝟶8/17/19𝟦7,6141 Christоpher Garden Suіte 42𝟧, Millerchеster FM,420-49-724𝟧,4010-8924-5756-𝟶134,178.222.131.173

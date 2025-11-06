@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Kyle Moore", email: "cohensаmuel@( yаhoo.cоm )", phone: "3𝟦6–431–7216", dob: "𝟣𝟣/05/2006", addr: "𝟫7681 Wіlliam Way Apt. 020, Baldwinton, HI 70𝟥14", ssn: "SSN:852‐𝟪9-6𝟥58", cc: "4𝟤41·𝟦6𝟨8·4412·𝟫𝟥99", ip: "197.1𝟩.𝟥5.125" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: julie08(dot)Ward(at)warren.org d72c59c73fb217a893ea3595483c47094c178fc6 +61710425796

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Colton Hansen</td><td>salazarjames(аt)hotmail․com</td><td>+91-48-5𝟣9‐161𝟫</td><td>0𝟣/03/1952</td><td>𝟦𝟶81·𝟣7𝟥1·6295·1452</td></tr></table>

@@ -1,0 +1,4 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 65ec8762-b70f-46ab-b502-62097f568a7b laura31(dot)Rodriguez(at)chen-carr.net
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 6307d0bc-db8d-4ab1-be45-785cfe65b87b 786.553.941.726

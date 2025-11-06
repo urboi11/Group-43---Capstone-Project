@@ -1,0 +1,4 @@
+{"name":"Nicole Navarro","email":"brandy𝟨4＠＠maіl.mаson-sosа.com","phone":"+44-8𝟩6‐524-40𝟧5","dob":"05/02/194𝟣","address":"𝟫𝟩8 Mоses Avenuе Suіte 0𝟫1, Graсeshire AS","ssn":"Sociаl Sеcurіty 776-22-354𝟨","cc":"4732·6256·8113·𝟨884","ip":"026․157.0𝟤2.𝟤11"}
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: 894.768.426.131 a0cc828c-72c0-4cab-a508-086549d3c65d +25242493241
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

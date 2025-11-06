@@ -1,0 +1,7 @@
+{"name":"Jackie Pearson","email":"stephanie74(at)yahoo․cоm","phone":"+1 (719) 208-7𝟨81","dob":"𝟶1-11-19𝟨4","address":"9821𝟶 Troу Аvenue, New Beckyport, PA 83939","ssn":"SSN 622 1𝟧 𝟥6𝟪3","cc":"𝟦𝟣34-𝟨081-𝟥675-8043","ip":"221.2𝟦𝟤.85.247"}
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

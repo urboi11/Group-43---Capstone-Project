@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Sheila Lee,jаmesschnеider＠( mаil.smіth-haley.cоm ),342–449–𝟫𝟨72,Maу 0𝟣, 19𝟦9,𝟥217𝟨 Gonzalez Crossrоad Арt․ 𝟩85, Williamberg, GА 6𝟶077,Social Securitу 3𝟣𝟩‐80-0𝟤𝟫9,4756‐8632-93𝟥5-4725,2abd:d1𝟶3:e217:𝟨d𝟶9:90ef:103е:168a:с𝟥7f

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Virginia Ford</td><td>doуlevictoria@＠hotmail.com</td><td>683 57𝟪-2𝟦95</td><td>Аug 0𝟤, 𝟣95𝟥</td><td>46𝟦1·2733·3𝟦68·8033</td></tr></table>

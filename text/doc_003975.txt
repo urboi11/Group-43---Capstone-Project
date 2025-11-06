@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Brittany Barnett", email: "padkins at mail dot sherman dot org", phone: "(837) 847-1902", dob: "10/10/197𝟧", addr: "7121𝟪 Cоok Fоrk Suite 108, Lake Susan, GU 39083", ssn: "8172𝟤9939", cc: "46432𝟥𝟫𝟪55750146", ip: "2𝟩5d:30e4:b9cd:47c:bdе𝟦:5f1e:84fd:3c69" };

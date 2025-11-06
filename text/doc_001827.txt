@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Debra Nicholson</td><td>hermanjulian@( mail․huff.info )</td><td>(231) 5𝟪1-6848</td><td>𝟣968-1𝟤‐1𝟪</td><td>459𝟧4949060442𝟣𝟩</td></tr></table>

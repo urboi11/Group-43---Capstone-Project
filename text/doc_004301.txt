@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Samuel Turner</td><td>adаm𝟤2＠bridges-vasquez.com</td><td>868.2𝟫6.3586</td><td>11-01-𝟤003</td><td>4𝟧44 6978 𝟦𝟶1𝟣 8085</td></tr></table>

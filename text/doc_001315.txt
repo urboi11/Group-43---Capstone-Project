@@ -1,0 +1,5 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJj 74-18-9081
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: zvelasquez(dot)Yang(at)cherry.info 24-47-1691 651.821.809.979 YWJjYWJjYWJj
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health

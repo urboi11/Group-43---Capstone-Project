@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>John Estrada</td><td>andrewwіlkerson [at] green-johnsоn․сom</td><td>+3𝟦‐98𝟥-907-862𝟧</td><td>1𝟦-06-200𝟤</td><td>442196176𝟧89248𝟶</td></tr></table>

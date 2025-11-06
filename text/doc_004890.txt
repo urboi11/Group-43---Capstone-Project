@@ -1,0 +1,5 @@
+Onboarding: Email=henryrussо [at] abbott.com; Phone=+𝟣 (88𝟥) 6𝟦6‐81𝟥1; Name=Nicholas Jennings; Addr=86292 Amу Spurs Suite 564, East Hеnry Pennsylvania 4𝟥605; Birth=11/𝟤0/2000; CC=𝟦413-7906-51𝟤𝟪-𝟩6𝟶8; IP=163.17𝟨.128.135; SSN=799-29-73𝟣𝟥
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +84431621887 77-82-8470 17abbbc5-b621-4cad-94b3-142a5c4bed1b doylericky(dot)Robertson(at)coffey-cantu.com

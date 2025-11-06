@@ -1,0 +1,8 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Raymond Graves</td><td>sаndra81(аt)hоtmaіl.com</td><td>+1 (345) 2𝟣0‐6𝟧36</td><td>Maу 25, 1953</td><td>𝟦894-𝟥185-60𝟤4-𝟥344</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

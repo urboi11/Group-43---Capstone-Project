@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Shelley Lopez", email: "jessica59@@mail.hernandеz.com", phone: "𝟪13 637  ․  4𝟧3𝟨", dob: "Jаn 04, 19𝟩8", addr: "60109 Kimberly Village, Port Jаnetviеw WI", ssn: "SSN:5𝟤9-𝟨7-7𝟥32", cc: "𝟦641‐87𝟤3-896𝟫-6864", ip: "21𝟧.197․107.27" };

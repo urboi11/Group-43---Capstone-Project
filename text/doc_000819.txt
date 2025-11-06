@@ -1,0 +1,9 @@
+<p>Release: add audit headers, improve error resilience.</p>
+Decoys: 4276·9055·5908·4836 YWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJj yanderson(dot)Hunter(at)garcia.biz

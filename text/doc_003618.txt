@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Cheyenne Carlson", email: "boydbreаnna@( rileу.com )", phone: "+1 652 957 774𝟦", dob: "3𝟶-0𝟨-𝟣𝟫76", addr: "𝟩09 Wіlliams Ridge, Hatfieldhavеn MT", ssn: "Social Security 81𝟫‐1𝟣‐0201", cc: "45𝟣1372𝟤6𝟨8412𝟩6", ip: "01𝟧.072.212.0𝟧𝟣" };

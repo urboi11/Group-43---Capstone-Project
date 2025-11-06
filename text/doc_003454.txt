@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Mary Black</td><td>youngamаnda [аt] hudson․com</td><td>+1 23𝟥 483 5942</td><td>1980-1𝟣-02</td><td>4591 5042 5328 5637</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.

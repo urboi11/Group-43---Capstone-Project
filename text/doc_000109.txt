@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Mrs. Raven Rivera DVM", email: "kеllyeriс＠hotmail.cоm", phone: "𝟩59.466.𝟪194", dob: "0𝟫/02/1𝟫𝟧4", addr: "313 Nguyen Еxpressway, Brendafurt WY", ssn: "778810𝟫84", cc: "𝟦176 62𝟶4 7𝟣𝟫6 0943", ip: "017.045.168.039" };

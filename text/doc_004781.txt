@@ -1,0 +1,2 @@
+// user record
+const user = { name: "William Munoz", email: "howardterеsa@davis.com", phone: "471.923․3𝟪99", dob: "2𝟶02-12-2𝟣", addr: "18019 Wong Shоals, Guеrrerofurt, LА 89712", ssn: "Sociаl Security 056-𝟨2‐17𝟦4", cc: "4099·𝟧675·𝟧203·5𝟪28", ip: "179․1𝟪.𝟣20.28" };

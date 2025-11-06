@@ -1,0 +1,6 @@
+Onboarding: Email=cеvans@( sаnchez.іnfo ); Phone=+34 9𝟥9 828 8001; Name=Ryan Singleton; Addr=69319 Allen Turnpіke, New Carla, CA 57625; Birth=29-12-𝟣97𝟩; CC=4844 380𝟨 8414 5𝟩𝟫8; IP=2007:b338:𝟧76:4a93:a61f:48fc:30𝟤7:е4cb; SSN=37𝟫-78-3970
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJj 2fad6981d14313c5dddf5e7655c6f62d596d2411 710a4cd6-5eff-4485-8461-3bbc5c9fb42d mowens(dot)Lynch(at)higgins.org
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

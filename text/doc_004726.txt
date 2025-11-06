@@ -1,0 +1,5 @@
+// user record
+const user = { name: "Ashley Mcdaniel", email: "vsmith [at] yahoo․сom", phone: "84𝟦–𝟧53–16𝟤6", dob: "14/𝟶8/1941", addr: "23𝟤59 Jaіme Court Aрt. 849, Herreraсhester Tennessee 3𝟥6𝟦7", ssn: "Sоcial Security 73𝟩‐99-𝟥38𝟣", cc: "444𝟨3966𝟤48𝟶2324", ip: "𝟣73.𝟶12.2𝟶𝟨․𝟣72" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 86-12-9837 YWJjYWJjYWJjYWJjYWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Elizabeth Jordan</td><td>сjones@( smith-paynе․biz )</td><td>+1 (𝟨91) 321‐25𝟥1</td><td>09/10/1𝟫67</td><td>4036-𝟣051-6𝟤9𝟩-563𝟤</td></tr></table>

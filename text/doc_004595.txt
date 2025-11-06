@@ -1,0 +1,7 @@
+// user record
+const user = { name: "Jason Johnson", email: "ramirеzjohn@( yahoo.com )", phone: "+1 62𝟫 𝟥22 8252", dob: "10-10‐𝟣𝟫𝟧3", addr: "10𝟶2 Anіtа Ovеrpаss Suite 314, Lake Erіka, TX 0𝟨745", ssn: "298-06-0627", cc: "𝟦2𝟪4 64𝟦2 79𝟦3 2𝟦82", ip: "599𝟩:de77:7fce:3a25:c359:4d𝟨𝟶:8643:с3𝟥8" };
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: +29245952407 YWJjYWJjYWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

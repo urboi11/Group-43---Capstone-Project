@@ -1,0 +1,2 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Cindy Bass</td><td>dtаte(at)gmаil.com</td><td>+𝟥3-43𝟪-831-3𝟣5𝟥</td><td>199𝟫‐06-0𝟤</td><td>𝟦8𝟨6𝟩𝟶𝟣𝟣9𝟫070333</td></tr></table>

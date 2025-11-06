@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: e3a1f3f2dfcde6fe8c0037de285ca6a9d3577978 98272f3f-31bb-4f0b-a800-93f5415377c9
+From: buildbot@ci.example.com
+Subject: Nightly pass
+
+All checks green.

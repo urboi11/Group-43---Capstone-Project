@@ -1,0 +1,2 @@
+name,email,phone,dob,address,ssn,cc,ip
+Emily Carpenter,dаvidflynn@( mail․cox․com ),2𝟫5–6𝟫5–5𝟤𝟥7,1𝟫/𝟶8/1994,1𝟩0 Cynthіa Forest, Lake Lоuisland, UT 𝟧𝟣649,SSN 280 81 2744,4190 𝟨548 6962 1𝟣16,1е0с:4fe8:𝟣601:b835:5fbb:7𝟦𝟧:f4еd:𝟨548

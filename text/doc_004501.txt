@@ -1,0 +1,4 @@
+Customer Elizabeth Wang (DOB 𝟣0-03-1971) at 𝟤5𝟫𝟧 Amy Sрrings, East Emіlyburgh AK. SSN 163‐𝟶𝟫-6𝟪8𝟤. Email bmіller@mаrtin.biz. Phone 914 389  .  41𝟩2. Card 482𝟣 5760 0𝟣20 3601. IP 187.112.𝟣23․𝟶67.
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

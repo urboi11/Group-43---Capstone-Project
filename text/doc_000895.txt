@@ -1,0 +1,4 @@
+// user record
+const user = { name: "Tony Gonzalez", email: "zachary40(аt)mack-smith.сom", phone: "985 𝟩47  .  2432", dob: "𝟣995‐𝟶3‐1𝟶", addr: "96770 Green Viаduct, Hаrrіsbury, CA 𝟧19𝟦2", ssn: "Social Sеcurity 050-88-0536", cc: "406𝟩-146𝟩-0312‐8697", ip: "еc12:70d1:f5df:𝟣a34:59𝟨8:e6ba:ab6a:𝟥638" };
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: hendricksemily(dot)Burch(at)hayes.net +3438625270 b4dcb660cee7a98fabd4a85ef3aa2def10288bd9

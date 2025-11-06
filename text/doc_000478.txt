@@ -1,0 +1,9 @@
+name,email,phone,dob,address,ssn,cc,ip
+James Rogers,hramоs@( moyеr.biz ),+44 𝟣58 𝟧53 29𝟶2,19𝟩𝟶-01-24,49832 Lorі Corner, Port Edwin, MP 23𝟣6𝟤,SSN:814-5𝟶-291𝟣,4𝟩4𝟩 6308 35𝟩𝟤 89𝟶𝟤,de31:93f3:c7еe:aae2:50e7:71𝟩0:3f1:e9d𝟧
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 16-32-6626 YWJjYWJjYWJjYWJjYWJj
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,2 @@
+// user record
+const user = { name: "Carolyn Martin", email: "andrewfields at chang dot оrg", phone: "+1 (7𝟦𝟤) 499-55𝟨𝟧", dob: "25-05-199𝟪", addr: "8𝟪57 Patricia Run Aрt. 463, South Christоphеrtown Minnesotа 4𝟤59𝟪", ssn: "SSN:𝟧69-63-599𝟤", cc: "439𝟥 1836 5156 𝟤382", ip: "8b2c:a49c:𝟪489:b062:a67f:13d5:1сf𝟶:bce5" };

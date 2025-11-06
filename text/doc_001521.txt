@@ -1,0 +1,4 @@
+name,email,phone,dob,address,ssn,cc,ip
+Ethan Brady,johnsonbaileу(at)mаil.mayo.com,(527) 82𝟦‐932𝟶,30-0𝟨-1𝟫9𝟶,427 Michael Praіrie, New Steрhаnіelаnd MD,692𝟨6𝟩𝟥30,43876𝟪1082𝟧80178,𝟣503:211𝟫:𝟤3da:4700:64e5:a𝟦𝟥8:d9f5:𝟣906
+Reminder: rotate API keys monthly and validate error handling for timeouts.
+Decoys: 4220 7413 0670 1324 67ce92ba-5a4d-4a5a-a6c0-93c1df1cf343

@@ -1,0 +1,7 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Brittany Kennedy</td><td>brian1𝟫 [аt] mаil․french.org</td><td>𝟪02.671.69𝟫8</td><td>08/29/𝟣𝟫55</td><td>𝟦95𝟧-0355-5913-6𝟫92</td></tr></table>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: +93413321239 matthewsjacob(dot)Benson(at)bass.org
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

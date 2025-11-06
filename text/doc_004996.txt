@@ -1,0 +1,7 @@
+<div class='sig'><strong>Richard Nguyen</strong><br/>0𝟩26𝟣 Barker Vista, South Claуtonshire, ОR 93226<br/><a>lisa80(at)mail․berry‐roy․com</a> | +1 (667) 635-740𝟤<br/>CC: 47098506112125𝟣9<br/>SSN: SSN 653 𝟦5 9𝟥67<br/>IP: 148.13.19𝟥.158</div>
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11

@@ -1,0 +1,8 @@
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: YWJjYWJjYWJjYWJjYWJjYWJjYWJj +73736679027 689e31f6bb9fc6ee1bcf98caa6bfcb0229b1b253
+2025-03-14T10:05:22Z INFO login ok src=10.0.0.12 req=GET /health
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
+Decoys: fb7066305f935c38e910246fdf44940ec895e607 coryschroeder(dot)Stanley(at)smith.com +82608223228 YWJjYWJjYWJjYWJj
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

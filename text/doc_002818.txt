@@ -1,0 +1,6 @@
+Onboarding: Email=madіsonross@@hotmail.com; Phone=+1 265 401 4508; Name=Lori Wood; Addr=3080 Warrеn Hаven, Pоrt Jоhnсhester, UT 8𝟪419; Birth=06/𝟶3/19𝟩0; CC=459𝟥-2660‐𝟤040-𝟨999; IP=049.023․021.1𝟧8; SSN=712195268
+name,role,last_seen
+alice,analyst,2025-02-10
+bob,admin,2025-02-11
+Decoys: 10-80-4871 32d72c96-2bfa-4a5c-ac45-c770261092c1 851.179.194.827 darrell32(dot)Medina(at)chapman.com
+const cfg = { retries:3, url:'https://api.example.com/v1/ping' };

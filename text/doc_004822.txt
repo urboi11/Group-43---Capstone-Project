@@ -1,0 +1,3 @@
+<table><tr><th>Name</th><th>Email</th><th>Phone</th><th>DOB</th><th>CC</th></tr>
+<tr><td>Robert Nunez</td><td>lоveрamela@@maіl․jordan․com</td><td>+1‐498‐689-247𝟦</td><td>11/11/𝟣986</td><td>4221·5765·6406·6110</td></tr></table>
+Meeting notes: finalize the deployment plan next Tuesday; no customer data attached.
