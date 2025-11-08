@@ -2,8 +2,7 @@ name: BriefCase Package Deployment
 on:
     push:
         branches:
-            - main
-            - feature/**
+            - master
 jobs:
     build-windows:
       runs-on: windows-latest
