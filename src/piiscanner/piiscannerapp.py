@@ -14,9 +14,7 @@ from pathlib import Path
 """
     TODO: Work through adding the following....
     1. Tests
-    2. Code Organization/Comments.
-    3. Documentation/ README.md
-
+    5. Logo.
 """
 
 class PopUpForWarning(QWidget):
@@ -27,13 +25,15 @@ class PopUpForWarning(QWidget):
         self.WarningLabel = QLabel(self)
         self.WarningLabel.setObjectName("WarningLabel")
         self.WarningLabel.setGeometry(10, 10, 381, 111)
-        self.WarningLabel.setText("Please make sure you have a File or Directory selected before scanning!")
     
         self.OkayButton = QPushButton(self)
         self.OkayButton.setObjectName("OkayButton")
         self.OkayButton.setGeometry(148, 153, 91, 41)
         self.OkayButton.setText("Okay")
         self.OkayButton.clicked.connect(self.close)
+
+    def setText(self,text):
+        self.WarningLabel.setText(text)
 
 
 class MainWindow(QMainWindow, Ui_Form, QObject):
@@ -44,6 +44,8 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
 
         self.fileLocation = None
         
+
+        ## Update this for Dev and Prod modes, because this only tracks when the application is installed, not when someone is trying to develop(Location won't exist until user installs the application.)
         if(os.name == "nt"):
             if(os.path.isfile(str(Path.home()) + "\\AppData\\Local\\Programs\\Jason Welsh\\pii-scanner\\app\\piiscanner\\config.yaml")):
                 self.cfg = yaml.safe_load(open(str(Path.home()) + "\\AppData\\Local\\Programs\\Jason Welsh\\pii-scanner\\app\\piiscanner\\config.yaml", "r", encoding="utf-8"))
@@ -58,8 +60,6 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
 
         self.outputDir = self.cfg["output"]["path"]
         self.loggingDir = self.cfg["logging"]["path"]
-
-        #Setting up log file.
 
         self.setupUi(self)
 
@@ -182,13 +182,19 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
                         self.ProgressBar.setValue(100)
                         self.stackedWidget.setCurrentIndex(4)          
                 else:
-                    self.stackedWidget.setCurrentIndex(4)
+                    self.stackedWidget.setCurrentIndex(0)
+                    self.popUpWindow = PopUpForWarning()
+                    self.popUpWindow.setText("This file or directory does not have any PII data!")
+                    self.popUpWindow.show()
+
 
     
             else:
                 if len(self.FileLineEdit.text()) == 0 or len(self.FileLineEdit.text()) == 0:
                     self.popUpWindow = PopUpForWarning()
+                    self.popUpWindow.setText("Please make sure you have a File or Directory selected before scanning!")
                     self.popUpWindow.show()
+
         except Exception as E:
             logging.basicConfig(filename=self.cfg["logging"]["file"] + os.path.sep + str(dt.datetime.now().strftime('%y-%m-%d-Time-%H-%M')) + ".log" , filemode="a", format="%(asctime)s - %(levelname)s - %(message)s" )
             self.logger = logging.getLogger(__name__)
