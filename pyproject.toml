@@ -5,7 +5,7 @@ bundle = "com.pii-scanner"
 version = "1.0"
 url = "https://example.com"
 license.file = "LICENSE"
-author = "Jason Welsh"
+author = "PIIE"
 author_email = "jason.michael.welsh@outlook.com"
 
 [tool.briefcase.app.piiscanner]

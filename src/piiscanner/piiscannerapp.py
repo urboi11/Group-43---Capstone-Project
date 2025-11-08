@@ -14,14 +14,7 @@ from pathlib import Path
 """
     TODO: Work through adding the following....
     1. Tests
-    2. Code Organization/Comments.
-    3. Documentation/ README.md
-    4. Maybe a code signing certificate? - To Expensive :/
-    5. Logo and name of application.
-    6.Error handling for when there is...
-        6.a No data in the file
-        6.b Data is in the file, but no PII is in the file. 
-
+    5. Logo.
 """
 
 class PopUpForWarning(QWidget):
@@ -32,7 +25,6 @@ class PopUpForWarning(QWidget):
         self.WarningLabel = QLabel(self)
         self.WarningLabel.setObjectName("WarningLabel")
         self.WarningLabel.setGeometry(10, 10, 381, 111)
-        # self.WarningLabel.setText("Please make sure you have a File or Directory selected before scanning!")
     
         self.OkayButton = QPushButton(self)
         self.OkayButton.setObjectName("OkayButton")
@@ -52,6 +44,8 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
 
         self.fileLocation = None
         
+
+        ## Update this for Dev and Prod modes, because this only tracks when the application is installed, not when someone is trying to develop(Location won't exist until user installs the application.)
         if(os.name == "nt"):
             if(os.path.isfile(str(Path.home()) + "\\AppData\\Local\\Programs\\Jason Welsh\\pii-scanner\\app\\piiscanner\\config.yaml")):
                 self.cfg = yaml.safe_load(open(str(Path.home()) + "\\AppData\\Local\\Programs\\Jason Welsh\\pii-scanner\\app\\piiscanner\\config.yaml", "r", encoding="utf-8"))
