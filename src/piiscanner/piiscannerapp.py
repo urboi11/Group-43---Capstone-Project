@@ -16,6 +16,11 @@ from pathlib import Path
     1. Tests
     2. Code Organization/Comments.
     3. Documentation/ README.md
+    4. Maybe a code signing certificate? - To Expensive :/
+    5. Logo and name of application.
+    6.Error handling for when there is...
+        6.a No data in the file
+        6.b Data is in the file, but no PII is in the file. 
 
 """
 
@@ -27,13 +32,16 @@ class PopUpForWarning(QWidget):
         self.WarningLabel = QLabel(self)
         self.WarningLabel.setObjectName("WarningLabel")
         self.WarningLabel.setGeometry(10, 10, 381, 111)
-        self.WarningLabel.setText("Please make sure you have a File or Directory selected before scanning!")
+        # self.WarningLabel.setText("Please make sure you have a File or Directory selected before scanning!")
     
         self.OkayButton = QPushButton(self)
         self.OkayButton.setObjectName("OkayButton")
         self.OkayButton.setGeometry(148, 153, 91, 41)
         self.OkayButton.setText("Okay")
         self.OkayButton.clicked.connect(self.close)
+
+    def setText(self,text):
+        self.WarningLabel.setText(text)
 
 
 class MainWindow(QMainWindow, Ui_Form, QObject):
@@ -58,8 +66,6 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
 
         self.outputDir = self.cfg["output"]["path"]
         self.loggingDir = self.cfg["logging"]["path"]
-
-        #Setting up log file.
 
         self.setupUi(self)
 
@@ -182,13 +188,19 @@ class MainWindow(QMainWindow, Ui_Form, QObject):
                         self.ProgressBar.setValue(100)
                         self.stackedWidget.setCurrentIndex(4)          
                 else:
-                    self.stackedWidget.setCurrentIndex(4)
+                    self.stackedWidget.setCurrentIndex(0)
+                    self.popUpWindow = PopUpForWarning()
+                    self.popUpWindow.setText("This file or directory does not have any PII data!")
+                    self.popUpWindow.show()
+
 
     
             else:
                 if len(self.FileLineEdit.text()) == 0 or len(self.FileLineEdit.text()) == 0:
                     self.popUpWindow = PopUpForWarning()
+                    self.popUpWindow.setText("Please make sure you have a File or Directory selected before scanning!")
                     self.popUpWindow.show()
+
         except Exception as E:
             logging.basicConfig(filename=self.cfg["logging"]["file"] + os.path.sep + str(dt.datetime.now().strftime('%y-%m-%d-Time-%H-%M')) + ".log" , filemode="a", format="%(asctime)s - %(levelname)s - %(message)s" )
             self.logger = logging.getLogger(__name__)
